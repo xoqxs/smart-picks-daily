@@ -176,5 +176,65 @@
   "sales_signal": "4.3★, 109.7K reviews, ~100K bought/month (asinsight est.)",
   "short_score": 8,
   "in_weekly": false
+ },
+ {
+  "pick": 10,
+  "date": "2026-11-15",
+  "category": "Beauty",
+  "name": "e.l.f. Power Grip Primer",
+  "asin": "B09XMYFTB7",
+  "asin_sources": [
+   "amazon.com/dp/B09XMYFTB7 (search result: e.l.f. Power Grip Primer, Gripping & Hydrating Gel Primer, 0.811 Fl Oz)",
+   "asinsight.com elf-putty-primer US report (B09XMYFTB7 e.l.f. Power Grip Primer, Gel-Based & Hydrating Face Primer)"
+  ],
+  "amazon": "https://www.amazon.com/dp/B09XMYFTB7?tag=desksetuppi07-20",
+  "post": "https://smartpicksdaily-reviews.blogspot.com/2026/11/elf-power-grip-primer-how-to-make-this.html",
+  "short": null,
+  "short_date": null,
+  "pin": null,
+  "job": "jobs/2026-11-15-elf-power-grip-primer",
+  "sales_signal": "4.6★, 40.1K reviews, ~40K bought/month (asinsight est.)",
+  "short_score": 8,
+  "in_weekly": false
+ },
+ {
+  "pick": 11,
+  "date": "2026-11-15",
+  "category": "Home & Kitchen",
+  "name": "Dash Rapid Egg Cooker (Aqua)",
+  "asin": "B0D3X1JDK4",
+  "asin_sources": [
+   "amazon.com/dp/B0D3X1JDK4 (search result: Dash Rapid Egg Cooker, 7 Eggs, Hard Boiled, Poached & Omelettes, Aqua)",
+   "asinsight.com egg-cooker US report (B0D3X1JDK4 Dash Rapid Egg Cooker ... Holds 7 Eggs, Aqua)"
+  ],
+  "amazon": "https://www.amazon.com/dp/B0D3X1JDK4?tag=desksetuppi07-20",
+  "post": "https://smartpicksdaily-reviews.blogspot.com/2026/11/dash-rapid-egg-cooker-7-boiled-eggs.html",
+  "short": null,
+  "short_date": null,
+  "pin": null,
+  "job": "jobs/2026-11-15-dash-rapid-egg-cooker",
+  "sales_signal": "4.6★, 136.3K reviews (all colors), ~10K bought/month (asinsight est.)",
+  "short_score": 8,
+  "in_weekly": false
+ },
+ {
+  "pick": 12,
+  "date": "2026-11-15",
+  "category": "Tech",
+  "name": "JBL Clip 5 Portable Speaker",
+  "asin": "B0CTP56C5R",
+  "asin_sources": [
+   "amazon.com/dp/B0CTP56C5R (search result: JBL Clip 5 - Ultra-Portable, Waterproof & Dustproof Bluetooth Speaker ... (Black))",
+   "asinsight.com jbl-waterproof-bluetooth-speakers US report (B0CTP56C5R JBL Clip 5)"
+  ],
+  "amazon": "https://www.amazon.com/dp/B0CTP56C5R?tag=desksetuppi07-20",
+  "post": "https://smartpicksdaily-reviews.blogspot.com/2026/11/jbl-clip-5-clip-on-speaker-for-hikes.html",
+  "short": null,
+  "short_date": null,
+  "pin": null,
+  "job": "jobs/2026-11-15-jbl-clip-5",
+  "sales_signal": "4.7★, 8.1K reviews, ~5K bought/month (asinsight est.)",
+  "short_score": 7,
+  "in_weekly": false
  }
 ]
