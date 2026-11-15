@@ -142,5 +142,36 @@
     600
    ]
   }
- }
+ },
+ "pin_variants": [
+  {
+   "style": "light",
+   "headline": "The 65W charger that fits in your pocket",
+   "crop": [
+    1500,
+    830,
+    760
+   ],
+   "badge": {
+    "text": "65W",
+    "xy": [
+     700,
+     470
+    ]
+   },
+   "sub": "GaN \u00b7 Thermal Guard \u00b7 USB-C",
+   "button": "See why it's a pick \u2192"
+  },
+  {
+   "headline": "Pro tip: your cable might be slowing you down",
+   "crop": [
+    1600,
+    610,
+    400
+   ],
+   "badge": null,
+   "sub": "Use a 100W USB-C cable for the full 65W",
+   "button": "Read the 3 mistakes \u2192"
+  }
+ ]
 }
