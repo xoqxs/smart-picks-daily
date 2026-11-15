@@ -16,5 +16,85 @@
   "job": "jobs/2026-11-15-ugreen-nexode-air-65w",
   "in_weekly": false,
   "short_date": "2026-11-15"
+ },
+ {
+  "pick": 2,
+  "date": "2026-11-15",
+  "category": "Beauty",
+  "name": "LANEIGE Lip Sleeping Mask (Berry)",
+  "asin": "B07XXPHQZK",
+  "asin_sources": [
+   "amazon.com/dp/B07XXPHQZK (search result: LANEIGE Lip Sleeping Mask, 0.7 oz/20 g)",
+   "asinsight.com laneige-lip-mask report (B07XXPHQZK LANEIGE Lip Sleeping Mask)"
+  ],
+  "amazon": "https://www.amazon.com/dp/B07XXPHQZK?tag=desksetuppi07-20",
+  "post": "https://smartpicksdaily-reviews.blogspot.com/2026/11/waking-up-with-dry-lips-why-laneige-lip.html",
+  "short": null,
+  "short_date": null,
+  "pin": null,
+  "job": "jobs/2026-11-15-laneige-lip-sleeping-mask",
+  "sales_signal": "4.6★, 37K reviews, ~70K bought/month (asinsight est.)",
+  "short_score": 8,
+  "in_weekly": false
+ },
+ {
+  "pick": 3,
+  "date": "2026-11-15",
+  "category": "Home & Kitchen",
+  "name": "Ninja AF101 Air Fryer, 4 Qt",
+  "asin": "B07FDJMC9Q",
+  "asin_sources": [
+   "amazon.com/dp/B07FDJMC9Q (search result: Ninja Air Fryer, 4 Qt, AF101)",
+   "asinsight.com ninja-air-fryer report + fryerfinder listing (B07FDJMC9Q)"
+  ],
+  "amazon": "https://www.amazon.com/dp/B07FDJMC9Q?tag=desksetuppi07-20",
+  "post": "https://smartpicksdaily-reviews.blogspot.com/2026/11/ninja-af101-4-quart-air-fryer-right.html",
+  "short": null,
+  "short_date": null,
+  "pin": null,
+  "job": "jobs/2026-11-15-ninja-af101-air-fryer",
+  "sales_signal": "4.7★, 59.4K reviews, ~5K bought/month (asinsight est.)",
+  "short_score": 8,
+  "in_weekly": false
+ },
+ {
+  "pick": 4,
+  "date": "2026-11-15",
+  "category": "Tech",
+  "name": "Logitech G502 HERO Gaming Mouse",
+  "asin": "B07GBZ4Q68",
+  "asin_sources": [
+   "amazon.com/dp/B07GBZ4Q68 (search result: Logitech G502 Hero Wired Gaming Mouse - Black)",
+   "asinsight.com mx-master-3s report (B07GBZ4Q68 Logitech G502 Hero Wired Gaming Mouse)"
+  ],
+  "amazon": "https://www.amazon.com/dp/B07GBZ4Q68?tag=desksetuppi07-20",
+  "post": "https://smartpicksdaily-reviews.blogspot.com/2026/11/logitech-g502-hero-why-this-wired.html",
+  "short": null,
+  "short_date": null,
+  "pin": null,
+  "job": "jobs/2026-11-15-logitech-g502-hero",
+  "sales_signal": "4.6★, 58.4K reviews, ~10K bought/month (asinsight est.)",
+  "short_score": 7,
+  "in_weekly": false
+ },
+ {
+  "pick": 5,
+  "date": "2026-11-15",
+  "category": "Beauty",
+  "name": "LANEIGE Lip Glowy Balm (Berry)",
+  "asin": "B07DY2QRF6",
+  "asin_sources": [
+   "amazon.com/dp/B07DY2QRF6 (search result: LANEIGE Lip Glowy Balm: Sheer Tinted Lip Treatment Balm Tube)",
+   "asinsight.com laneige-lip-mask report (B07DY2QRF6 LANEIGE Lip Glowy Balm Berry)"
+  ],
+  "amazon": "https://www.amazon.com/dp/B07DY2QRF6?tag=desksetuppi07-20",
+  "post": "https://smartpicksdaily-reviews.blogspot.com/2026/11/laneige-lip-glowy-balm-berry-sheer-tint.html",
+  "short": null,
+  "short_date": null,
+  "pin": null,
+  "job": "jobs/2026-11-15-laneige-lip-glowy-balm",
+  "sales_signal": "4.7★, 19.6K reviews, ~90K bought/month (asinsight est.)",
+  "short_score": 9,
+  "in_weekly": false
  }
 ]
