@@ -8,6 +8,7 @@ Bu dosya zamanlanmış görevlerin tek kaynağıdır. Çelişki varsa en alttaki
 - Amazon sitesine girme (yapay zekâ ajanlarını engelliyor). Fiyat yazma; yalnızca resmi basın bülteninde geçen "launch list price" yazılabilir ve öyle etiketlenir.
 - Blog: https://smartpicksdaily-reviews.blogspot.com (Blogger blog ID `6804187435880784901`, hesap akadirpars). Video Picks sayfası: `/p/video-picks.html` (sayfa ID `7010338707456657294`), kaynağı bu depoda `site/video-picks.html`.
 - YouTube: "Smart Picks Daily" (@SmartPicksDailyShorts), kanal kimliği `UCxv_aGQCfArHi1rrwjBOPPw`. Aynı Google hesabında Döviz Radar (`UCETn8pkFCvCHQKpBAKnGXJw`), Belgesellerim, Baby Collective, PanEdit vb. var: YALNIZCA bu kanala yükle. İş bitince (hata/DUR dahil) Döviz Radar'a geri geç.
+- TikTok: @smartpicksdailyfinds (Chrome + Claude in Chrome eklentisi; ayrıntı "TikTok" bölümünde).
 - Pinterest: @smartpicksdailyfinds (Business, site doğrulanmış). Panolar: Home & Kitchen Finds, Beauty & Skincare Picks, Tech Gadgets & Accessories.
 - Depo: github.com/xoqxs/smart-picks-daily (public). Videolar `v/`, pin görselleri `pins/`, site HTML'leri `site/`, işler `jobs/<slug>/`. Raw URL: `https://raw.githubusercontent.com/xoqxs/smart-picks-daily/<commit>/<yol>` (önbellek sorunu olmasın diye commit SHA'sı kullan).
 - Tarayıcı: kullanıcının bilgisayarındaki uygulama içi tarayıcı (mcp__remote-devices__Claude_Browser__*), kendi sekmen. Şifre yazma. Dar panelde düğmeler gizlenir: resize_window 1280x900 (Blogger editörü için 1400x900) kullan, iş bitince preset "desktop".
@@ -61,6 +62,19 @@ Sırayla: Beauty (cilt bakımı, saç aletleri; lüks güzellik markaları önce
 - Her pin için Günlük Short 11. adımdaki create/button yöntemi (1280x900, görsel üstüne hover, pano satırına tıkla, "panosuna kaydedildi" doğrula). İki pin arasında en az 2 dk bekle.
 - pins.json'u posted:<bugün> ve pin_url ile güncelle, commit + push. Viewport "desktop".
 - Rapor yalnızca hata olursa (başarıda mesaj gönderme; günde bir kez, ikinci çalışmada tek satır "📌 Bugün <n> pin atıldı" yazılabilir).
+
+## TikTok (Kadir Bey 16 Kasım 2026)
+- Hesap: @smartpicksdailyfinds ("Smart Picks Daily", İngilizce). Tarayıcı: kullanıcının bilgisayarındaki **Google Chrome + Claude in Chrome eklentisi** (mcp__claude-in-chrome__*), uygulama içi tarayıcı DEĞİL (orada @dovizradar açık, ona dokunma). tabs_context_mcp createIfEmpty:true → kendi sekmen; iş bitince kendi sekmeni kapat. Şifre yazma; giriş isterse DUR.
+- Kayıt: `tiktok.json` (type video|photo, pick, file, posted, url). Aynı dosya iki kez paylaşılmaz; aynı ürün aynı gün en fazla 1 kez (video veya foto).
+- KADEMELİ HEDEF (16 Kasım = 1. gün): 1–7. gün 3/gün, 8–14. gün 5, 15–21. gün 7, 22. günden itibaren 10. Herhangi bir gönderi "kısıtlandı", topluluk kuralı ihlali veya hesap uyarısı aldıysa hedefi artırma, bildir.
+- Çalışmalar (Europe/Istanbul): 15:23, 21:58, 00:41 (ABD gündüz/akşamı). Pay = ceil((hedef − bugün paylaşılan) / kalan çalışma, bu dahil). "Bugün" = çalışmanın başladığı İstanbul günü; 00:41 çalışması bir önceki günün sayılır.
+- İÇERİK SIRASI: (1) `v/` içindeki, YouTube'a çıkmış (picks.json short dolu) ve tiktok.json'da olmayan Short'lar, en yeniden; (2) son 3 günün katalog ürünlerinin ana pin görseli (`pins/<slug>.jpg`) FOTOĞRAF gönderisi olarak (varsa `-v1/-v2` varyantları da aynı gönderiye 2. ve 3. foto). Uygun içerik yoksa yeni üretme, mesajsız bitir.
+- YÜKLEME: dosyayı `/mnt/user-data/outputs/` altına kopyala (file_upload yalnızca oradan alır, ≤10 MB; raw GitHub fetch TikTok CSP'sine takılır). `https://www.tiktok.com/tiktokstudio/upload?from=webapp&tab=video` → foto için "Fotoğraflar" sekmesi → read_page (filter all, depth 40) ile `type="file"` düğmesinin ref'ini bul → file_upload. "Otomatik içerik kontrolleri" penceresi çıkarsa "Aç"; ipucu penceresi "Anladım".
+- AÇIKLAMA: Açıklama kutusuna gerçek tıkla → ctrl+a, Delete → type. Biçim: ürüne özgü 1 cümle kanca + 1 cümle doğrulanmış özellik (yalnızca job'daki/yazıdaki bilgi) + "Full review + link: smartpicksdaily-reviews.blogspot.com (Pick #N)." + "#affiliate As an Amazon Associate I earn from qualifying purchases." + 3–4 hashtag (her biri ayrı type, sonunda boşluk; en son Escape). innerText ile doğrula. Kalıbı her gönderide değiştir.
+- AYARLAR: "Daha fazla göster" → "Gönderi içeriğini açıklayın" AÇ → "Markalı içerik" işaretle (önizlemede "Ücretli ortaklık"). AI ile oluşturulmuş içerik kapalı. Görünürlük Herkes. Kontroller "Sorun tespit edilmedi" olunca "Paylaş". Gönderiler sayfasında satır görününce `a[href*="/video/"]` ile URL'yi al, tiktok.json'a yaz.
+- Gönderiler arasında `python3 tools/jitter.py tt<n> 6 25` ("done" olana kadar).
+- DUR: giriş ekranı, captcha, "çok hızlı paylaşıyorsunuz"/spam, hesap kısıtlaması, yükleme reddi. Tekrar deneme; bildir.
+- Rapor: yalnızca 00:41 çalışmasında tek satır "🎵 TikTok: bugün <n> gönderi (hedef <h>)"; hata olursa her zaman.
 
 ## Haftalık uzun video (pazar)
 - picks.json'da `in_weekly:false` olan ve bu hafta yayınlanan pick sayısı 4'ten azsa yapma; raporda nedenini yaz.
