@@ -58,5 +58,12 @@ Sırayla: Beauty (cilt bakımı, saç aletleri; lüks güzellik markaları önce
 ## DUR koşulları
 Captcha, kimlik doğrulama, giriş isteme, telif/politika uyarısı, yükleme sınırı, ASIN doğrulanamadı ve yedek ürün de bulunamadı, Blogger/YouTube başka görevce kullanılıyor (studio.youtube.com başka kanalda açık ve işlem sürüyorsa 10 dk bekle, en fazla 3 kez). Ne olduğunu ve Kadir Bey'in ne yapması gerektiğini bildir.
 
+## Zamanlama (Kadir Bey 15 Kasım 2026: her paylaşım farklı dakikada çıksın)
+- Görevler sabit saatte başlar ama paylaşımlar rastgele gecikmeyle çıkar; hiçbir gün aynı dakikada yayın olmasın.
+- Günlük Short: YouTube'da PUBLIC'e basmadan hemen önce `python3 tools/jitter.py short 3 38` (çıktı "done" olana kadar aynı komutu tekrar çalıştır). Blog yazısını da Short'tan sonra ayrıca `jitter.py blog 2 15` ile yayınla.
+- Pinterest: her pinden önce `python3 tools/jitter.py pin<n> 4 27` (ana pin dahil). Böylece iki pin arası en az 4 dk, en çok ~27 dk olur.
+- Haftalık uzun video: yayınlamadan önce `jitter.py weekly 5 45`.
+- Bekleme sırasında başka iş yapma; tarayıcı sekmesini açık bırak (oturum kapanmasın).
+
 ## Notlar
 - 15 Kasım 2026: Kanal adı Smart Picks Daily, ses Kokoro af_heart (kadın, Kadir Bey seçti). İlk Short (Pick #1 UGREEN) yayında. Video Picks sayfası açıldı, kanal linki ona çevrildi. Pinterest kuruldu, ilk pin atıldı. Pazar uzun videosu 22 Kasım'dan itibaren. Kadir Bey günde 5 pin istedi: ana pin + günde 2 ek pin çalışması × 2 pin (pins.json kuyruğu).
