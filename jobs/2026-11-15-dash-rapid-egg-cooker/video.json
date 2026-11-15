@@ -1,0 +1,29 @@
+{
+ "slug": "2026-11-15-dash-rapid-egg-cooker",
+ "pick": 11,
+ "category": "Home & Kitchen",
+ "asin": "B0D3X1JDK4",
+ "name": "Dash Rapid Egg Cooker (Aqua)",
+ "credit": "Image: Dash",
+ "images": {
+  "kv": "img/kv.jpg"
+ },
+ "pin": {
+  "image": "kv",
+  "crop": [
+   800,
+   800,
+   1500
+  ],
+  "headline": "7 boiled eggs, zero pot-watching",
+  "sub": "Boil 7 · Poach 2 · Omelette · Overcook-prevention sensor",
+  "badge": {
+   "text": "7 eggs",
+   "xy": [
+    600,
+    1090
+   ]
+  },
+  "button": "See specs & price →"
+ }
+}

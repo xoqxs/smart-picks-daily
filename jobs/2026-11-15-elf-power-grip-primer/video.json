@@ -1,0 +1,29 @@
+{
+ "slug": "2026-11-15-elf-power-grip-primer",
+ "pick": 10,
+ "category": "Beauty",
+ "asin": "B09XMYFTB7",
+ "name": "e.l.f. Power Grip Primer",
+ "credit": "Image: e.l.f. Cosmetics",
+ "images": {
+  "kv": "img/kv.jpg"
+ },
+ "pin": {
+  "image": "kv",
+  "crop": [
+   800,
+   830,
+   1400
+  ],
+  "headline": "The sticky gel primer that grips your makeup",
+  "sub": "Hyaluronic acid · Dewy finish · Non-comedogenic · Vegan",
+  "badge": {
+   "text": "Grip",
+   "xy": [
+    660,
+    400
+   ]
+  },
+  "button": "See details & price →"
+ }
+}

@@ -1,0 +1,29 @@
+{
+ "slug": "2026-11-15-jbl-clip-5",
+ "pick": 12,
+ "category": "Tech",
+ "asin": "B0CTP56C5R",
+ "name": "JBL Clip 5 Portable Speaker",
+ "credit": "Image: JBL",
+ "images": {
+  "kv": "img/kv.jpg"
+ },
+ "pin": {
+  "image": "kv",
+  "crop": [
+   700,
+   700,
+   1320
+  ],
+  "headline": "The speaker that clips onto your bag",
+  "sub": "IP67 · Up to 12 hrs · Auracast · Bigger carabiner",
+  "badge": {
+   "text": "IP67",
+   "xy": [
+    680,
+    1090
+   ]
+  },
+  "button": "See specs & price →"
+ }
+}
