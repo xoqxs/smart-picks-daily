@@ -25,5 +25,123 @@
    ]
   },
   "button": "See shades & price \u2192"
- }
+ },
+ "scenes": [
+  {
+   "type": "card",
+   "image": "kv",
+   "from": [
+    1000,
+    1000,
+    1900
+   ],
+   "to": [
+    1000,
+    1000,
+    1650
+   ],
+   "line": "Lipstick feels like effort, and clear balm feels like nothing? Try this middle ground.",
+   "hl": [
+    "middle",
+    "ground."
+   ]
+  },
+  {
+   "type": "card",
+   "image": "kv",
+   "from": [
+    615,
+    820,
+    1000
+   ],
+   "to": [
+    615,
+    760,
+    860
+   ],
+   "line": "It's the LANEIGE Lip Glowy Balm. A sheer tint and a glossy finish, with shea butter, in a squeeze tube.",
+   "hl": [
+    "sheer",
+    "tint",
+    "glossy",
+    "finish,"
+   ],
+   "badge": {
+    "big": "Berry",
+    "small": "sheer pink tint"
+   },
+   "chips": [
+    "Shea butter \u00b7 glossy"
+   ]
+  },
+  {
+   "type": "card",
+   "image": "kv",
+   "from": [
+    1450,
+    1000,
+    820
+   ],
+   "to": [
+    1400,
+    960,
+    660
+   ],
+   "line": "It's made for daytime. You can put it on without a mirror, and the tube fits a pocket, desk drawer, or gym bag.",
+   "hl": [
+    "daytime.",
+    "mirror,"
+   ],
+   "chips": [
+    "Pocket",
+    "Desk drawer",
+    "Gym bag"
+   ]
+  },
+  {
+   "type": "tip",
+   "title": "SHADE TIP",
+   "boxes": [
+    [
+     "Pink",
+     "Berry"
+    ],
+    [
+     "Beige",
+     "Vanilla"
+    ],
+    [
+     "Coral",
+     "Grapefruit"
+    ]
+   ],
+   "note": "Check the selected shade on Amazon before you buy.",
+   "line": "Shade tip: Berry is a sheer pink. For something closer to your natural lip color, look at Vanilla or Grapefruit.",
+   "hl": [
+    "Vanilla",
+    "Grapefruit."
+   ]
+  },
+  {
+   "type": "cta",
+   "image": "kv",
+   "from": [
+    1320,
+    1380,
+    950
+   ],
+   "to": [
+    1320,
+    1400,
+    1100
+   ],
+   "line": "It's pick number five. Find the link on our channel, under Video Picks.",
+   "hl": [
+    "five.",
+    "channel,",
+    "Video",
+    "Picks."
+   ]
+  }
+ ]
 }
