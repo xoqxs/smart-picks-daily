@@ -1,0 +1,29 @@
+{
+ "slug": "2026-11-15-anker-power-bank-20k-87w",
+ "pick": 8,
+ "category": "Tech",
+ "asin": "B0CXDXP8VR",
+ "name": "Anker Power Bank (20K, 87W, Built-In USB-C)",
+ "credit": "Image: Anker",
+ "images": {
+  "kv": "img/kv.jpg"
+ },
+ "pin": {
+  "image": "kv",
+  "crop": [
+   720,
+   860,
+   640
+  ],
+  "headline": "Laptop + phone power, cable built in",
+  "sub": "20,000mAh · 87W total · Built-in USB-C cable",
+  "badge": {
+   "text": "87W",
+   "xy": [
+    700,
+    380
+   ]
+  },
+  "button": "See specs & price →"
+ }
+}

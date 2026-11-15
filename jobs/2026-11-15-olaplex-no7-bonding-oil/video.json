@@ -1,0 +1,29 @@
+{
+ "slug": "2026-11-15-olaplex-no7-bonding-oil",
+ "pick": 6,
+ "category": "Beauty",
+ "asin": "B07VR1NDSQ",
+ "name": "OLAPLEX No.7 Bonding Oil",
+ "credit": "Image: OLAPLEX",
+ "images": {
+  "kv": "img/kv.jpg"
+ },
+ "pin": {
+  "image": "kv",
+  "crop": [
+   720,
+   760,
+   1040
+  ],
+  "headline": "2–3 drops for shine & frizz control",
+  "sub": "Heat protection to 450°F · All hair types · Color safe",
+  "badge": {
+   "text": "450°F",
+   "xy": [
+    640,
+    1060
+   ]
+  },
+  "button": "See details & price →"
+ }
+}

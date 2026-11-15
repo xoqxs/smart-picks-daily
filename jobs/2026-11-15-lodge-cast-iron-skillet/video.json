@@ -1,0 +1,29 @@
+{
+ "slug": "2026-11-15-lodge-cast-iron-skillet",
+ "pick": 7,
+ "category": "Home & Kitchen",
+ "asin": "B00006JSUA",
+ "name": "Lodge 10.25\" Cast Iron Skillet",
+ "credit": "Image: Lodge",
+ "images": {
+  "kv": "img/kv.jpg"
+ },
+ "pin": {
+  "image": "kv",
+  "crop": [
+   605,
+   580,
+   1060
+  ],
+  "headline": "The skillet that goes stove to oven to campfire",
+  "sub": "10.25 in · Pre-seasoned · PFAS-free · Oven & campfire safe",
+  "badge": {
+   "text": "10.25\"",
+   "xy": [
+    640,
+    1060
+   ]
+  },
+  "button": "See specs & price →"
+ }
+}
