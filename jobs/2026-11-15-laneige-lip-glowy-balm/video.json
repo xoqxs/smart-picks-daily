@@ -1,0 +1,29 @@
+{
+ "slug": "2026-11-15-laneige-lip-glowy-balm",
+ "pick": 5,
+ "category": "Beauty",
+ "asin": "B07DY2QRF6",
+ "name": "LANEIGE Lip Glowy Balm (Berry)",
+ "credit": "Image: LANEIGE",
+ "images": {
+  "kv": "img/kv.jpg"
+ },
+ "pin": {
+  "image": "kv",
+  "crop": [
+   1000,
+   1000,
+   2000
+  ],
+  "headline": "A glossy daytime balm with a sheer tint",
+  "sub": "Shea butter \u00b7 Pocket-sized tube \u00b7 Berry pink tint",
+  "badge": {
+   "text": "Daytime",
+   "xy": [
+    90,
+    1100
+   ]
+  },
+  "button": "See shades & price \u2192"
+ }
+}

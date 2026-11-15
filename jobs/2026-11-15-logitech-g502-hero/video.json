@@ -1,0 +1,29 @@
+{
+ "slug": "2026-11-15-logitech-g502-hero",
+ "pick": 4,
+ "category": "Tech",
+ "asin": "B07GBZ4Q68",
+ "name": "Logitech G502 HERO Gaming Mouse",
+ "credit": "Image: Logitech G",
+ "images": {
+  "kv": "img/kv.jpg"
+ },
+ "pin": {
+  "image": "kv",
+  "crop": [
+   900,
+   780,
+   1500
+  ],
+  "headline": "11 buttons, 5 weights, one legendary mouse",
+  "sub": "HERO 25K sensor \u00b7 up to 25,600 DPI \u00b7 LIGHTSYNC RGB",
+  "badge": {
+   "text": "25,600 DPI",
+   "xy": [
+    420,
+    1100
+   ]
+  },
+  "button": "See specs & price \u2192"
+ }
+}

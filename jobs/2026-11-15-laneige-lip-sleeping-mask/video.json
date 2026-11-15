@@ -1,0 +1,29 @@
+{
+ "slug": "2026-11-15-laneige-lip-sleeping-mask",
+ "pick": 2,
+ "category": "Beauty",
+ "asin": "B07XXPHQZK",
+ "name": "LANEIGE Lip Sleeping Mask (Berry)",
+ "credit": "Image: LANEIGE",
+ "images": {
+  "kv": "img/kv.jpg"
+ },
+ "pin": {
+  "image": "kv",
+  "crop": [
+   1000,
+   1000,
+   2000
+  ],
+  "headline": "The overnight fix for dry, flaky lips",
+  "sub": "Shea butter \u00b7 Murumuru seed \u00b7 Berry Fruit Complex",
+  "badge": {
+   "text": "Overnight",
+   "xy": [
+    90,
+    1100
+   ]
+  },
+  "button": "See reviews & price \u2192"
+ }
+}

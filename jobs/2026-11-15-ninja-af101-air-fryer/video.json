@@ -1,0 +1,29 @@
+{
+ "slug": "2026-11-15-ninja-af101-air-fryer",
+ "pick": 3,
+ "category": "Home & Kitchen",
+ "asin": "B07FDJMC9Q",
+ "name": "Ninja AF101 Air Fryer, 4 Qt",
+ "credit": "Image: Ninja",
+ "images": {
+  "kv": "img/kv.jpg"
+ },
+ "pin": {
+  "image": "kv",
+  "crop": [
+   620,
+   880,
+   1220
+  ],
+  "headline": "Crispy fries with little to no oil",
+  "sub": "4-qt basket \u00b7 Air fry \u00b7 Roast \u00b7 Reheat \u00b7 Dehydrate",
+  "badge": {
+   "text": "4 QT",
+   "xy": [
+    700,
+    380
+   ]
+  },
+  "button": "See specs & price \u2192"
+ }
+}
