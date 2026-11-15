@@ -96,5 +96,85 @@
   "sales_signal": "4.7★, 19.6K reviews, ~90K bought/month (asinsight est.)",
   "short_score": 9,
   "in_weekly": false
+ },
+ {
+  "pick": 6,
+  "date": "2026-11-15",
+  "category": "Beauty",
+  "name": "OLAPLEX No.7 Bonding Oil",
+  "asin": "B07VR1NDSQ",
+  "asin_sources": [
+   "us.amazon.com/dp/B07VR1NDSQ (search result: Olaplex No. 7 Bonding Oil, Concentrated High Shine Oil, Heat Protectant, 1 fl oz)",
+   "asinsight.com olaplex-no-3 US report (B07VR1NDSQ Olaplex No. 7 Bonding Oil)"
+  ],
+  "amazon": "https://www.amazon.com/dp/B07VR1NDSQ?tag=desksetuppi07-20",
+  "post": "https://smartpicksdaily-reviews.blogspot.com/2026/11/olaplex-no7-bonding-oil-few-drops-for.html",
+  "short": null,
+  "short_date": null,
+  "pin": null,
+  "job": "jobs/2026-11-15-olaplex-no7-bonding-oil",
+  "sales_signal": "4.7★, 60.8K reviews, ~70K bought/month (asinsight est.)",
+  "short_score": 8,
+  "in_weekly": false
+ },
+ {
+  "pick": 7,
+  "date": "2026-11-15",
+  "category": "Home & Kitchen",
+  "name": "Lodge 10.25\" Cast Iron Skillet",
+  "asin": "B00006JSUA",
+  "asin_sources": [
+   "amazon.com/dp/B00006JSUA (search result: Lodge Pre-Seasoned Cast Iron Skillet, PFAS-Free, 10.25 Inches)",
+   "camelcamelcamel.com/product/B00006JSUA (Lodge Pre-Seasoned Cast Iron Skillet, PFAS-Free, 10.25 Inches)"
+  ],
+  "amazon": "https://www.amazon.com/dp/B00006JSUA?tag=desksetuppi07-20",
+  "post": "https://smartpicksdaily-reviews.blogspot.com/2026/11/lodge-1025-inch-cast-iron-skillet-pan.html",
+  "short": null,
+  "short_date": null,
+  "pin": null,
+  "job": "jobs/2026-11-15-lodge-cast-iron-skillet",
+  "sales_signal": "4.6★, 144K reviews, ~6K bought/month (asinsight est.)",
+  "short_score": 7,
+  "in_weekly": false
+ },
+ {
+  "pick": 8,
+  "date": "2026-11-15",
+  "category": "Tech",
+  "name": "Anker Power Bank (20K, 87W, Built-In USB-C Cable)",
+  "asin": "B0CXDXP8VR",
+  "asin_sources": [
+   "asinsight.com anker-nano-power-bank US report (B0CXDXP8VR Anker Power Bank, 20,000mAh Travel Essential Portable Charger)",
+   "amazon.ca/dp/B0CXDXP8VR + manuals.plus/asin/B0CXDXP8VR (Anker Power Bank 20,000mAh 87W Built-In USB-C Cable)"
+  ],
+  "amazon": "https://www.amazon.com/dp/B0CXDXP8VR?tag=desksetuppi07-20",
+  "post": "https://smartpicksdaily-reviews.blogspot.com/2026/11/anker-20k-87w-power-bank-with-built-in.html",
+  "short": null,
+  "short_date": null,
+  "pin": null,
+  "job": "jobs/2026-11-15-anker-power-bank-20k-87w",
+  "sales_signal": "4.6★, 8K reviews, ~10K bought/month (asinsight est.)",
+  "short_score": 9,
+  "in_weekly": false
+ },
+ {
+  "pick": 9,
+  "date": "2026-11-15",
+  "category": "Beauty",
+  "name": "COLOR WOW Dream Coat Supernatural Spray",
+  "asin": "B073CWSQ51",
+  "asin_sources": [
+   "us.amazon.com/dp/B073CWSQ51 (search result: COLOR WOW Dream Coat Supernatural Spray, Anti-Humidity Frizz Control and Heat Protectant)",
+   "asinsight.com olaplex-no-3 US report (B073CWSQ51 COLOR WOW Dream Coat Supernatural Spray)"
+  ],
+  "amazon": "https://www.amazon.com/dp/B073CWSQ51?tag=desksetuppi07-20",
+  "post": "https://smartpicksdaily-reviews.blogspot.com/2026/11/color-wow-dream-coat-how-to-get-most.html",
+  "short": null,
+  "short_date": null,
+  "pin": null,
+  "job": "jobs/2026-11-15-color-wow-dream-coat",
+  "sales_signal": "4.3★, 109.7K reviews, ~100K bought/month (asinsight est.)",
+  "short_score": 8,
+  "in_weekly": false
  }
 ]
