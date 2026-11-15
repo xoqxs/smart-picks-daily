@@ -1,0 +1,146 @@
+{
+ "slug": "2026-11-15-ugreen-nexode-air-65w",
+ "pick": 1,
+ "category": "Tech",
+ "asin": "B0GD7WYKKN",
+ "credit": "Image: UGREEN",
+ "images": {
+  "kv": "img/kv.jpg"
+ },
+ "scenes": [
+  {
+   "type": "card",
+   "image": "kv",
+   "from": [
+    1349,
+    810,
+    1000
+   ],
+   "to": [
+    1368,
+    700,
+    900
+   ],
+   "line": "This tiny charger can power a MacBook Air.",
+   "hl": [
+    "MacBook",
+    "Air."
+   ]
+  },
+  {
+   "type": "card",
+   "image": "kv",
+   "from": [
+    1650,
+    560,
+    500
+   ],
+   "to": [
+    1608,
+    492,
+    330
+   ],
+   "line": "It's the UGREEN Nexode Air. Sixty-five watts, in a pocket-sized GaN charger.",
+   "hl": [
+    "Sixty-five",
+    "watts,"
+   ],
+   "badge": {
+    "big": "65W"
+   },
+   "chips": [
+    "GaN \u00b7 pocket-sized"
+   ]
+  },
+  {
+   "type": "card",
+   "image": "kv",
+   "from": [
+    1300,
+    750,
+    1250
+   ],
+   "to": [
+    1300,
+    800,
+    1150
+   ],
+   "line": "That's enough for an iPhone, an iPad, or a MacBook Air.",
+   "hl": [
+    "iPhone,",
+    "iPad,",
+    "MacBook",
+    "Air."
+   ],
+   "chips": [
+    "iPhone",
+    "iPad",
+    "MacBook Air"
+   ]
+  },
+  {
+   "type": "tip",
+   "title": "PRO TIP",
+   "boxes": [
+    [
+     "65W",
+     "charger"
+    ],
+    [
+     "100W",
+     "USB-C cable"
+    ],
+    [
+     "65W",
+     "to laptop"
+    ]
+   ],
+   "note": "A 60W cable would cap you at 60W.",
+   "line": "Pro tip: use a one-hundred-watt USB-C cable, so you actually get the full sixty-five watts.",
+   "hl": [
+    "one-hundred-watt",
+    "full",
+    "sixty-five"
+   ]
+  },
+  {
+   "type": "cta",
+   "image": "kv",
+   "from": [
+    1368,
+    700,
+    900
+   ],
+   "to": [
+    1368,
+    720,
+    1050
+   ],
+   "line": "It's pick number one. Find the link on our channel, under Video Picks.",
+   "hl": [
+    "one.",
+    "channel,",
+    "Video",
+    "Picks."
+   ]
+  }
+ ],
+ "name": "UGREEN Nexode Air 65W GaN Charger",
+ "pin": {
+  "image": "kv",
+  "crop": [
+   1570,
+   660,
+   560
+  ],
+  "headline": "This tiny charger powers a MacBook Air",
+  "sub": "iPhone \u00b7 iPad \u00b7 MacBook Air \u00b7 Thermal Guard",
+  "badge": {
+   "text": "65W",
+   "xy": [
+    690,
+    600
+   ]
+  }
+ }
+}
