@@ -1,0 +1,29 @@
+{
+ "slug": "2026-11-16-apple-airtag-4-pack",
+ "pick": 15,
+ "category": "Tech",
+ "asin": "B0GJTXVN9Z",
+ "name": "Apple AirTag (2nd Gen) 4-Pack",
+ "credit": "Image: Apple",
+ "images": {
+  "kv": "img/kv.jpg"
+ },
+ "pin": {
+  "image": "kv",
+  "crop": [
+   653,
+   690,
+   1240
+  ],
+  "headline": "Never lose your keys or bag again",
+  "sub": "50% louder chime · Longer range · Apple Watch finding · IP67",
+  "badge": {
+   "text": "4-pack",
+   "xy": [
+    560,
+    1110
+   ]
+  },
+  "button": "See specs & price →"
+ }
+}

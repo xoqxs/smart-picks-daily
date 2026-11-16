@@ -1,0 +1,29 @@
+{
+ "slug": "2026-11-16-bissell-little-green",
+ "pick": 14,
+ "category": "Home & Kitchen",
+ "asin": "B0016HF5GK",
+ "name": "BISSELL Little Green Portable Cleaner",
+ "credit": "Image: BISSELL",
+ "images": {
+  "kv": "img/kv.jpg"
+ },
+ "pin": {
+  "image": "kv",
+  "crop": [
+   640,
+   520,
+   960
+  ],
+  "headline": "Erase couch & carpet spills fast",
+  "sub": "48 oz tank · 15 ft cord · 3 tools · 9.65 lbs",
+  "badge": {
+   "text": "48 oz",
+   "xy": [
+    640,
+    1100
+   ]
+  },
+  "button": "See specs & price →"
+ }
+}

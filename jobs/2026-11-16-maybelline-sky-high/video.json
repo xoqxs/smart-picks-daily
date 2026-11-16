@@ -1,0 +1,29 @@
+{
+ "slug": "2026-11-16-maybelline-sky-high",
+ "pick": 13,
+ "category": "Beauty",
+ "asin": "B08H3JPH74",
+ "name": "Maybelline Sky High Washable Mascara",
+ "credit": "Image: Maybelline New York",
+ "images": {
+  "kv": "img/kv.jpg"
+ },
+ "pin": {
+  "image": "kv",
+  "crop": [
+   622,
+   640,
+   1180
+  ],
+  "headline": "Lashes that look sky-high",
+  "sub": "Flex Tower brush · Washable · Bamboo extract · 12-hr wear",
+  "badge": {
+   "text": "12 HR",
+   "xy": [
+    590,
+    1130
+   ]
+  },
+  "button": "See specs & price →"
+ }
+}
