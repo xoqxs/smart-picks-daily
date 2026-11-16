@@ -25,5 +25,129 @@
    ]
   },
   "button": "See specs & price \u2192"
- }
+ },
+ "scenes": [
+  {
+   "type": "card",
+   "image": "kv",
+   "from": [
+    757,
+    757,
+    1480
+   ],
+   "to": [
+    700,
+    640,
+    1080
+   ],
+   "line": "Is your water warm by ten a.m.? This forty-ounce cup keeps ice for up to two days.",
+   "hl": [
+    "warm",
+    "forty-ounce",
+    "two",
+    "days."
+   ]
+  },
+  {
+   "type": "card",
+   "image": "kv",
+   "from": [
+    640,
+    620,
+    900
+   ],
+   "to": [
+    640,
+    640,
+    760
+   ],
+   "line": "It's the Stanley Quencher H2.0 FlowState. Double-wall vacuum insulation keeps drinks cold for up to eleven hours.",
+   "hl": [
+    "Stanley",
+    "Quencher",
+    "eleven",
+    "hours."
+   ],
+   "badge": {
+    "big": "40 OZ",
+    "small": "tumbler"
+   },
+   "chips": [
+    "Cold up to 11 hrs",
+    "Iced up to 2 days"
+   ]
+  },
+  {
+   "type": "card",
+   "image": "kv",
+   "from": [
+    760,
+    1060,
+    1000
+   ],
+   "to": [
+    800,
+    980,
+    880
+   ],
+   "line": "The comfy handle makes it easy to carry, the slim base fits most car cup holders, and it's dishwasher safe.",
+   "hl": [
+    "handle",
+    "car",
+    "cup",
+    "holders,",
+    "dishwasher"
+   ],
+   "chips": [
+    "Cup-holder fit",
+    "Dishwasher safe"
+   ]
+  },
+  {
+   "type": "tip",
+   "title": "PRO TIP",
+   "boxes": [
+    [
+     "1",
+     "straw slot"
+    ],
+    [
+     "2",
+     "drink opening"
+    ],
+    [
+     "3",
+     "full cover"
+    ]
+   ],
+   "note": "Made for desk and car, not for riding sideways in a bag.",
+   "line": "Pro tip: twist the lid for a straw, a wide drink opening, or a full cover. And keep it upright, it's not a backpack bottle.",
+   "hl": [
+    "twist",
+    "lid",
+    "upright,"
+   ]
+  },
+  {
+   "type": "cta",
+   "image": "kv",
+   "from": [
+    757,
+    757,
+    1200
+   ],
+   "to": [
+    757,
+    757,
+    1450
+   ],
+   "line": "It's pick number seventeen. Find the link on our channel, under Video Picks.",
+   "hl": [
+    "seventeen.",
+    "channel,",
+    "Video",
+    "Picks."
+   ]
+  }
+ ]
 }
