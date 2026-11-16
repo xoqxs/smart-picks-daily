@@ -236,5 +236,67 @@
   "sales_signal": "4.7★, 8.1K reviews, ~5K bought/month (asinsight est.)",
   "short_score": 7,
   "in_weekly": false
+ },
+ {
+  "pick": 13,
+  "date": "2026-11-16",
+  "category": "Beauty",
+  "name": "Maybelline Sky High Washable Mascara",
+  "asin": "B08H3JPH74",
+  "asin_sources": [
+   "ASINsight report (US, 'maybelline sky high'): B08H3JPH74 \"MAYBELLINE Lash Sensational Sky High Washable Mascara Makeup, ... Blackest Black, 1 Count\" (https://www.asinsight.com/report/US/maybelline-sky-high)",
+   "Slickdeals deal, Jan 17 2026, link text amazon.com/dp/B08H3JPH74: \"Maybelline Lash Sensational Sky High Washable Mascara Makeup (Blackest Black)\" (https://slickdeals.net/f/19110619-s-s-3-02-maybelline-lash-sensational-sky-high-washable-mascara-makeup-blackest-black-at-amazon)"
+  ],
+  "amazon": "https://www.amazon.com/dp/B08H3JPH74?tag=desksetuppi07-20",
+  "post": "https://smartpicksdaily-reviews.blogspot.com/2026/11/maybelline-sky-high-mascara-buildable.html",
+  "short": null,
+  "short_date": null,
+  "pin": null,
+  "job": "jobs/2026-11-16-maybelline-sky-high",
+  "sales_signal": "4.5★, ~187K reviews, ~70K units/month, #1 of 115 tracked Sky High listings (ASINsight); 80K+ bought in past month (Slickdeals snapshot, Jan 2026)",
+  "short_score": 9,
+  "in_weekly": false
+ },
+ {
+  "pick": 14,
+  "date": "2026-11-16",
+  "category": "Home & Kitchen",
+  "name": "BISSELL Little Green Portable Cleaner",
+  "asin": "B0016HF5GK",
+  "asin_sources": [
+   "slickdeals.net deal 18818662 -> https://www.amazon.com/dp/B0016HF5GK 'BISSELL Little Green Multi-Purpose Portable Carpet and Upholstery Cleaner, Car and Auto Detailer, with Exclusive Specialty Tools, Green, 1400B'",
+   "9to5toys.com (2025-11-28 Black Friday post) -> amazon.com/Bissell-Multi-Purpose-Portable-Upholstery-1400B/dp/B0016HF5GK 'Little Green Multi-Purpose Portable Cleaner'",
+   "desertcart.co.za (Amazon catalog mirror) 'BISSELL Little Green 1400B', ASIN B0016HF5GK"
+  ],
+  "amazon": "https://www.amazon.com/dp/B0016HF5GK?tag=desksetuppi07-20",
+  "post": "https://smartpicksdaily-reviews.blogspot.com/2026/11/bissell-little-green-review-erase.html",
+  "short": null,
+  "short_date": null,
+  "pin": null,
+  "job": "jobs/2026-11-16-bissell-little-green",
+  "sales_signal": "4.5★, 92K+ ratings, #1 in Carpet & Upholstery Cleaning Machines, #23 in Home & Kitchen (Amazon data via desertcart mirror)",
+  "short_score": 9,
+  "in_weekly": false
+ },
+ {
+  "pick": 15,
+  "date": "2026-11-16",
+  "category": "Tech",
+  "name": "Apple AirTag (2nd Gen) 4-Pack",
+  "asin": "B0GJTXVN9Z",
+  "asin_sources": [
+   "Amazon search result: amazon.com/Apple-AirTag-2nd-Generation-Precision/dp/B0GJTXVN9Z — 'Apple AirTag (2nd Generation) - 4 Pack: Tracker for Keychain, Wallet, and More...'",
+   "Slickdeals 19882089 / 19655508: '4 Pack Apple AirTag (2nd Generation)' linking amazon.com/dp/B0GJTXVN9Z (model MFEA4LL/A)",
+   "ASINsight report 'apple tags 4 pack': B0GJTXVN9Z 'Apple AirTag (2nd Generation) - 4 Pack'"
+  ],
+  "amazon": "https://www.amazon.com/dp/B0GJTXVN9Z?tag=desksetuppi07-20",
+  "post": "https://smartpicksdaily-reviews.blogspot.com/2026/11/apple-airtag-2nd-gen-4-pack-find-keys.html",
+  "short": null,
+  "short_date": null,
+  "pin": null,
+  "job": "jobs/2026-11-16-apple-airtag-4-pack",
+  "sales_signal": "4.6★, ~5.3K-6.8K ratings, ~10K+ bought/month (Kotaku 'amazon is offloading the new airtag 4 pack' + ASINsight); Apple calls AirTag 'the bestselling item finder'",
+  "short_score": 9,
+  "in_weekly": false
  }
 ]
