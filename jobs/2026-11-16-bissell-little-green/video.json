@@ -25,5 +25,139 @@
    ]
   },
   "button": "See specs & price →"
- }
+ },
+ "scenes": [
+  {
+   "type": "card",
+   "image": "kv",
+   "from": [
+    750,
+    560,
+    1170
+   ],
+   "to": [
+    760,
+    650,
+    900
+   ],
+   "line": "Coffee on the couch? Muddy paws on the rug? This little machine pulls the mess right out in minutes.",
+   "hl": [
+    "Coffee",
+    "couch?",
+    "Muddy",
+    "paws",
+    "minutes."
+   ]
+  },
+  {
+   "type": "card",
+   "image": "kv",
+   "from": [
+    600,
+    400,
+    1000
+   ],
+   "to": [
+    550,
+    330,
+    720
+   ],
+   "line": "Meet the BISSELL Little Green. It sprays, you scrub, then it suctions the dirty water into a clear tank you can actually see.",
+   "hl": [
+    "BISSELL",
+    "Little",
+    "Green.",
+    "sprays,",
+    "suctions",
+    "clear"
+   ],
+   "badge": {
+    "big": "48 OZ",
+    "small": "clean-water tank"
+   },
+   "chips": [
+    "Spray",
+    "Scrub",
+    "Suction"
+   ]
+  },
+  {
+   "type": "card",
+   "image": "kv",
+   "from": [
+    760,
+    600,
+    1000
+   ],
+   "to": [
+    820,
+    670,
+    760
+   ],
+   "line": "Use it on carpet, stairs, sofas and car seats. At under ten pounds, it lives in a closet, ready for the next spill.",
+   "hl": [
+    "carpet,",
+    "stairs,",
+    "sofas",
+    "car",
+    "seats.",
+    "ten",
+    "pounds,"
+   ],
+   "chips": [
+    "Carpet & rugs",
+    "Upholstery",
+    "Car seats"
+   ]
+  },
+  {
+   "type": "tip",
+   "title": "PRO TIP",
+   "boxes": [
+    [
+     "1",
+     "vacuum first"
+    ],
+    [
+     "5–10",
+     "min dwell"
+    ],
+    [
+     "30s",
+     "HydroRinse"
+    ]
+   ],
+   "note": "Use hot tap water, never boiling. Test hidden fabric first.",
+   "line": "Pro tip: vacuum first, let the formula sit five to ten minutes, and rinse the hose for thirty seconds when you're done.",
+   "hl": [
+    "vacuum",
+    "five",
+    "ten",
+    "minutes,",
+    "thirty",
+    "seconds"
+   ]
+  },
+  {
+   "type": "cta",
+   "image": "kv",
+   "from": [
+    750,
+    500,
+    1000
+   ],
+   "to": [
+    750,
+    500,
+    1170
+   ],
+   "line": "It's pick number fourteen. Find the link on our channel, under Video Picks.",
+   "hl": [
+    "fourteen.",
+    "channel,",
+    "Video",
+    "Picks."
+   ]
+  }
+ ]
 }
