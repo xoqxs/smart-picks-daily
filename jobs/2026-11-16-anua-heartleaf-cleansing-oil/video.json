@@ -1,0 +1,29 @@
+{
+ "slug": "2026-11-16-anua-heartleaf-cleansing-oil",
+ "pick": 20,
+ "category": "Beauty",
+ "asin": "B0BN2PX8V3",
+ "name": "Anua Heartleaf Pore Control Cleansing Oil (200 mL)",
+ "credit": "Image: Anua",
+ "images": {
+  "kv": "img/kv.jpg"
+ },
+ "pin": {
+  "image": "kv",
+  "crop": [
+   1000,
+   1000,
+   1800
+  ],
+  "headline": "Melts makeup and sunscreen in one minute",
+  "sub": "Double-cleanse step 1 \u00b7 Rinses milky-clean \u00b7 200 mL",
+  "badge": {
+   "text": "Step 1",
+   "xy": [
+    640,
+    650
+   ]
+  },
+  "button": "See specs & price \u2192"
+ }
+}

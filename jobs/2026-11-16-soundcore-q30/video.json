@@ -1,0 +1,30 @@
+{
+ "slug": "2026-11-16-soundcore-q30",
+ "pick": 22,
+ "category": "Tech",
+ "asin": "B08HMWZBXC",
+ "name": "soundcore Q30 Noise Cancelling Headphones",
+ "credit": "Image: soundcore",
+ "images": {
+  "kv": "img/kv.jpg",
+  "kv_pin": "img/kv_pin.jpg"
+ },
+ "pin": {
+  "image": "kv_pin",
+  "crop": [
+   800,
+   800,
+   1560
+  ],
+  "headline": "40 hours of quiet for a budget price",
+  "sub": "Hybrid ANC \u00b7 3 modes \u00b7 Multipoint \u00b7 App EQ",
+  "badge": {
+   "text": "40H ANC",
+   "xy": [
+    100,
+    1100
+   ]
+  },
+  "button": "See specs & price \u2192"
+ }
+}

@@ -1,0 +1,29 @@
+{
+ "slug": "2026-11-16-oxo-salad-spinner",
+ "pick": 21,
+ "category": "Home & Kitchen",
+ "asin": "B00004OCKR",
+ "name": "OXO Good Grips Large Salad Spinner (6.22 Qt)",
+ "credit": "Image: OXO",
+ "images": {
+  "kv": "img/kv.jpg"
+ },
+ "pin": {
+  "image": "kv",
+  "crop": [
+   600,
+   580,
+   1100
+  ],
+  "headline": "Crisp, dry greens with one press",
+  "sub": "One-hand pump \u00b7 Brake button \u00b7 Basket = colander",
+  "badge": {
+   "text": "6.22 Qt",
+   "xy": [
+    560,
+    1090
+   ]
+  },
+  "button": "See specs & price \u2192"
+ }
+}
