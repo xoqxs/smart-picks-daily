@@ -381,5 +381,65 @@
   "sales_signal": "4.7\u2605, ~74K ratings, #1 Hair Brushes, 8K+ bought/month (desertcart mirror, Slickdeals Jan 2026)",
   "short_score": 8,
   "in_weekly": false
+ },
+ {
+  "pick": 20,
+  "date": "2026-11-16",
+  "category": "Beauty",
+  "name": "Anua Heartleaf Pore Control Cleansing Oil (200 mL)",
+  "asin": "B0BN2PX8V3",
+  "asin_sources": [
+   "desertcart.com.cy 512174072: Anua Heartleaf Pore Control Cleansing Oil 200 mL, ASIN B0BN2PX8V3",
+   "seekmonkey.com/products/B0BN2PX8V3: Anua Heartleaf Pore Control Cleansing Oil 6.76 fl oz (200ml)"
+  ],
+  "amazon": "https://www.amazon.com/dp/B0BN2PX8V3?tag=desksetuppi07-20",
+  "post": "https://smartpicksdaily-reviews.blogspot.com/2026/11/anua-heartleaf-cleansing-oil-melts.html",
+  "short": null,
+  "short_date": null,
+  "pin": null,
+  "job": "jobs/2026-11-16-anua-heartleaf-cleansing-oil",
+  "sales_signal": "4.4\u2605, ~25K ratings, #111 Beauty, #1 Makeup Cleansing Oils (desertcart mirror)",
+  "short_score": 8,
+  "in_weekly": false
+ },
+ {
+  "pick": 21,
+  "date": "2026-11-16",
+  "category": "Home & Kitchen",
+  "name": "OXO Good Grips Large Salad Spinner (6.22 Qt)",
+  "asin": "B00004OCKR",
+  "asin_sources": [
+   "desertcart.lk 1343690: OXO Good Grips Salad Spinner, ASIN B00004OCKR",
+   "Slickdeals 17758635: 'OXO Good Grips Large Salad Spinner (6.22 Qt), Easy Spin, White' linking amazon.com/dp/B00004OCKR"
+  ],
+  "amazon": "https://www.amazon.com/dp/B00004OCKR?tag=desksetuppi07-20",
+  "post": "https://smartpicksdaily-reviews.blogspot.com/2026/11/oxo-salad-spinner-review-crisp-dry.html",
+  "short": null,
+  "short_date": null,
+  "pin": null,
+  "job": "jobs/2026-11-16-oxo-salad-spinner",
+  "sales_signal": "4.7\u2605, ~52K ratings, #1 Salad Spinners, #117 Kitchen & Dining (desertcart mirror, Tasting Table)",
+  "short_score": 8,
+  "in_weekly": false
+ },
+ {
+  "pick": 22,
+  "date": "2026-11-16",
+  "category": "Tech",
+  "name": "soundcore Q30 Noise Cancelling Headphones",
+  "asin": "B08HMWZBXC",
+  "asin_sources": [
+   "desertcart.us 230207835: Soundcore Life Q30 (A3028), ASIN B08HMWZBXC",
+   "Slickdeals 18672706 (Oct 2025): 'Anker Soundcore Life Q30 Hybrid ANC Headphones' linking amazon.com/gp/product/B08HMWZBXC"
+  ],
+  "amazon": "https://www.amazon.com/dp/B08HMWZBXC?tag=desksetuppi07-20",
+  "post": "https://smartpicksdaily-reviews.blogspot.com/2026/11/soundcore-q30-review-40-hours-of-noise.html",
+  "short": null,
+  "short_date": null,
+  "pin": null,
+  "job": "jobs/2026-11-16-soundcore-q30",
+  "sales_signal": "4.4\u2605, ~91K ratings, #17 Over-Ear Headphones, #249 Electronics (desertcart mirror)",
+  "short_score": 7,
+  "in_weekly": false
  }
 ]
