@@ -16,7 +16,7 @@
    1180
   ],
   "headline": "Lashes that look sky-high",
-  "sub": "Flex Tower brush · Washable · Bamboo extract · 12-hr wear",
+  "sub": "Flex Tower brush \u00b7 Washable \u00b7 Bamboo extract \u00b7 12-hr wear",
   "badge": {
    "text": "12 HR",
    "xy": [
@@ -24,6 +24,127 @@
     1130
    ]
   },
-  "button": "See specs & price →"
- }
+  "button": "See specs & price \u2192"
+ },
+ "scenes": [
+  {
+   "type": "card",
+   "image": "kv",
+   "from": [
+    620,
+    640,
+    1240
+   ],
+   "to": [
+    470,
+    470,
+    820
+   ],
+   "line": "Short, straight lashes? This bendy little brush is the fix.",
+   "hl": [
+    "bendy",
+    "fix."
+   ]
+  },
+  {
+   "type": "card",
+   "image": "kv",
+   "from": [
+    760,
+    700,
+    900
+   ],
+   "to": [
+    760,
+    640,
+    760
+   ],
+   "line": "It's Maybelline Sky High. A washable mascara with a flexible Flex Tower brush that reaches every lash.",
+   "hl": [
+    "Sky",
+    "High.",
+    "Flex",
+    "Tower"
+   ],
+   "badge": {
+    "big": "12 HR",
+    "small": "wear"
+   },
+   "chips": [
+    "Washable",
+    "Bamboo extract"
+   ]
+  },
+  {
+   "type": "card",
+   "image": "kv",
+   "from": [
+    470,
+    420,
+    760
+   ],
+   "to": [
+    440,
+    330,
+    600
+   ],
+   "line": "Wear one coat for everyday, or build it up for full drama. It's also suitable for contact lens wearers.",
+   "hl": [
+    "everyday,",
+    "full",
+    "drama."
+   ],
+   "chips": [
+    "Everyday",
+    "Full drama",
+    "Contact lens OK"
+   ]
+  },
+  {
+   "type": "tip",
+   "title": "PRO TIP",
+   "boxes": [
+    [
+     "1",
+     "press at roots"
+    ],
+    [
+     "2",
+     "sweep to tips"
+    ],
+    [
+     "3",
+     "coats max"
+    ]
+   ],
+   "note": "Remove with micellar water at night.",
+   "line": "Pro tip: press the brush into your roots, sweep up, and stop at about three coats to avoid clumps.",
+   "hl": [
+    "roots,",
+    "three",
+    "coats"
+   ]
+  },
+  {
+   "type": "cta",
+   "image": "kv",
+   "from": [
+    620,
+    640,
+    1100
+   ],
+   "to": [
+    620,
+    640,
+    1240
+   ],
+   "line": "It's pick number thirteen. Find the link on our channel, under Video Picks.",
+   "hl": [
+    "thirteen.",
+    "channel,",
+    "Video",
+    "Picks."
+   ]
+  }
+ ]
 }
