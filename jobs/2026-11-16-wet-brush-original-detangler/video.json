@@ -1,0 +1,29 @@
+{
+ "slug": "2026-11-16-wet-brush-original-detangler",
+ "pick": 19,
+ "category": "Beauty",
+ "asin": "B0DMZXFBR3",
+ "name": "Wet Brush Original Detangler (Frost Pink)",
+ "credit": "Image: Wet Brush",
+ "images": {
+  "kv": "img/kv.jpg"
+ },
+ "pin": {
+  "image": "kv",
+  "crop": [
+   820,
+   1000,
+   1640
+  ],
+  "headline": "Tangles out, no tugging, no tears",
+  "sub": "IntelliFlex bristles \u00b7 Wet or dry \u00b7 All hair types",
+  "badge": {
+   "text": "Wet + dry",
+   "xy": [
+    75,
+    1000
+   ]
+  },
+  "button": "See specs & price \u2192"
+ }
+}

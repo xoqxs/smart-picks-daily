@@ -1,0 +1,29 @@
+{
+ "slug": "2026-11-16-logitech-mx-master-3s",
+ "pick": 18,
+ "category": "Tech",
+ "asin": "B09HM94VDS",
+ "name": "Logitech MX Master 3S Wireless Mouse",
+ "credit": "Image: Logitech",
+ "images": {
+  "kv": "img/kv.jpg"
+ },
+ "pin": {
+  "image": "kv",
+  "crop": [
+   900,
+   800,
+   1500
+  ],
+  "headline": "The mouse that makes work feel faster",
+  "sub": "8K DPI \u00b7 Quiet clicks \u00b7 MagSpeed wheel \u00b7 3 devices",
+  "badge": {
+   "text": "8K DPI",
+   "xy": [
+    600,
+    1110
+   ]
+  },
+  "button": "See specs & price \u2192"
+ }
+}

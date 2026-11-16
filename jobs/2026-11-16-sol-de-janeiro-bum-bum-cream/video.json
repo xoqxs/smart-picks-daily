@@ -1,0 +1,29 @@
+{
+ "slug": "2026-11-16-sol-de-janeiro-bum-bum-cream",
+ "pick": 16,
+ "category": "Beauty",
+ "asin": "B013XKHA4M",
+ "name": "Sol de Janeiro Brazilian Bum Bum Cream (240 mL)",
+ "credit": "Image: Sol de Janeiro",
+ "images": {
+  "kv": "img/kv.jpg"
+ },
+ "pin": {
+  "image": "kv",
+  "crop": [
+   726,
+   726,
+   1450
+  ],
+  "headline": "Pistachio-caramel glow in a jar",
+  "sub": "Cupua\u00e7u butter \u00b7 Guaran\u00e1 \u00b7 Fast-absorbing \u00b7 8.1 oz",
+  "badge": {
+   "text": "8.1 oz",
+   "xy": [
+    600,
+    1110
+   ]
+  },
+  "button": "See specs & price \u2192"
+ }
+}

@@ -1,0 +1,29 @@
+{
+ "slug": "2026-11-16-stanley-quencher-40oz",
+ "pick": 17,
+ "category": "Home & Kitchen",
+ "asin": "B0CP9Z56SW",
+ "name": "Stanley Quencher H2.0 FlowState 40 oz",
+ "credit": "Image: Stanley",
+ "images": {
+  "kv": "img/kv.jpg"
+ },
+ "pin": {
+  "image": "kv",
+  "crop": [
+   757,
+   757,
+   1450
+  ],
+  "headline": "Ice that lasts from morning to night",
+  "sub": "3-position lid \u00b7 Cup-holder base \u00b7 Dishwasher safe",
+  "badge": {
+   "text": "40 oz",
+   "xy": [
+    640,
+    1110
+   ]
+  },
+  "button": "See specs & price \u2192"
+ }
+}
