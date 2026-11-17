@@ -25,5 +25,130 @@
    ]
   },
   "button": "See specs & price →"
- }
+ },
+ "scenes": [
+  {
+   "type": "card",
+   "image": "kv",
+   "from": [
+    580,
+    900,
+    820
+   ],
+   "to": [
+    580,
+    890,
+    560
+   ],
+   "line": "Ever packed your power bank and left the cable at home? This one makes that impossible.",
+   "hl": [
+    "cable",
+    "home?",
+    "impossible."
+   ]
+  },
+  {
+   "type": "card",
+   "image": "kv",
+   "from": [
+    580,
+    890,
+    600
+   ],
+   "to": [
+    600,
+    820,
+    440
+   ],
+   "line": "Meet the Anker twenty-thousand milliamp power bank. The USB-C cable is built right in, and it shares up to eighty-seven watts.",
+   "hl": [
+    "Anker",
+    "USB-C",
+    "built",
+    "eighty-seven",
+    "watts."
+   ],
+   "badge": {
+    "big": "87W",
+    "small": "total output"
+   },
+   "chips": [
+    "20,000mAh",
+    "Built-in USB-C",
+    "Smart display"
+   ]
+  },
+  {
+   "type": "card",
+   "image": "kv",
+   "from": [
+    700,
+    950,
+    840
+   ],
+   "to": [
+    600,
+    900,
+    620
+   ],
+   "line": "Up to sixty-five watts can go to one device, enough to top up a MacBook Air while your phone charges too.",
+   "hl": [
+    "sixty-five",
+    "MacBook",
+    "Air",
+    "phone"
+   ],
+   "chips": [
+    "MacBook Air",
+    "iPhone",
+    "Galaxy"
+   ]
+  },
+  {
+   "type": "tip",
+   "title": "PRO TIP",
+   "boxes": [
+    [
+     "65W",
+     "wall charger"
+    ],
+    [
+     "~1.5h",
+     "full refill"
+    ],
+    [
+     "Cabin",
+     "when flying"
+    ]
+   ],
+   "note": "Per Anker. Airlines can set their own power bank rules.",
+   "line": "Pro tip: refill it with a sixty-five watt charger for about a ninety-minute recharge, and keep it in your carry-on when you fly.",
+   "hl": [
+    "sixty-five",
+    "ninety-minute",
+    "carry-on"
+   ]
+  },
+  {
+   "type": "cta",
+   "image": "kv",
+   "from": [
+    580,
+    900,
+    560
+   ],
+   "to": [
+    580,
+    900,
+    800
+   ],
+   "line": "It's pick number eight. Find the link on our channel, under Video Picks.",
+   "hl": [
+    "eight.",
+    "channel,",
+    "Video",
+    "Picks."
+   ]
+  }
+ ]
 }
