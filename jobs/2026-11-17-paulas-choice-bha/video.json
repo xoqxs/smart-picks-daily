@@ -1,0 +1,30 @@
+{
+ "slug": "2026-11-17-paulas-choice-bha",
+ "pick": 23,
+ "category": "Beauty",
+ "asin": "B00949CTQQ",
+ "name": "Paula's Choice 2% BHA Liquid Exfoliant (4 oz)",
+ "credit": "Image: Paula's Choice",
+ "images": {
+  "kv": "img/kv.jpg",
+  "kv_pin": "img/kv_pin.jpg"
+ },
+ "pin": {
+  "image": "kv_pin",
+  "crop": [
+   1000,
+   1000,
+   1900
+  ],
+  "headline": "Smoother skin, smaller-looking pores",
+  "sub": "Leave-on 2% BHA \u00b7 No scrubbing \u00b7 Fragrance-free",
+  "badge": {
+   "text": "2% BHA",
+   "xy": [
+    628,
+    860
+   ]
+  },
+  "button": "See how to use it \u2192"
+ }
+}

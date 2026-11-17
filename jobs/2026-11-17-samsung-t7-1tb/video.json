@@ -1,0 +1,30 @@
+{
+ "slug": "2026-11-17-samsung-t7-1tb",
+ "pick": 24,
+ "category": "Tech",
+ "asin": "B0874XN4D8",
+ "name": "Samsung T7 Portable SSD 1TB",
+ "credit": "Image: Samsung",
+ "images": {
+  "kv": "img/kv.jpg",
+  "kv_pin": "img/kv_pin.jpg"
+ },
+ "pin": {
+  "image": "kv_pin",
+  "crop": [
+   700,
+   700,
+   1250
+  ],
+  "headline": "1TB that fits in your pocket",
+  "sub": "Up to 1,050 MB/s \u00b7 USB-C \u00b7 Encrypted \u00b7 2 oz",
+  "badge": {
+   "text": "1,050 MB/s",
+   "xy": [
+    470,
+    1080
+   ]
+  },
+  "button": "See specs & price \u2192"
+ }
+}
