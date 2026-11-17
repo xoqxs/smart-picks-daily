@@ -541,5 +541,85 @@
   "sales_signal": "4.4★, ~1.5–2K ratings, ~1K bought/month est., #78 Computer Keyboards",
   "short_score": 6,
   "in_weekly": false
+ },
+ {
+  "pick": 28,
+  "date": "2026-11-17",
+  "category": "Home & Kitchen",
+  "name": "YETI Rambler 20 oz Tumbler (Black)",
+  "asin": "B073WJMKHN",
+  "asin_sources": [
+   "camelcamelcamel.com/product/B073WJMKHN (search title): 'YETI Rambler 20 oz Tumbler, Stainless Steel, Vacuum Insulated with MagSlider Lid, Black'",
+   "888lots.com item b073wjmkhn: 'YETI Rambler 20 oz Tumbler, Stainless Steel, Vacuum Insulated with MagSlider Lid, Black' (YETI part 21070060018 matches desertcart.ma)"
+  ],
+  "amazon": "https://www.amazon.com/dp/B073WJMKHN?tag=desksetuppi07-20",
+  "post": "https://smartpicksdaily-reviews.blogspot.com/2026/11/yeti-rambler-20-oz-review-hot-coffee.html",
+  "short": null,
+  "short_date": null,
+  "pin": null,
+  "job": "jobs/2026-11-17-yeti-rambler-20oz",
+  "sales_signal": "4.8★, ~149K ratings (parent listing), #4 Tumblers & Water Glasses, #47 Kitchen & Dining",
+  "short_score": 8,
+  "in_weekly": false
+ },
+ {
+  "pick": 29,
+  "date": "2026-11-17",
+  "category": "Beauty",
+  "name": "Moroccanoil Treatment Original (3.4 oz)",
+  "asin": "B001AO0WCG",
+  "asin_sources": [
+   "asinsight.com/report/US/moroccan-oil: #1 B001AO0WCG 'Moroccanoil Treatment Hair Oil', 4.7★ 89.5K, ~10K/month",
+   "barcodespider.com/678909048838: 'Moroccanoil Treatment, 3.4 Fl Oz' ASIN B001AO0WCG"
+  ],
+  "amazon": "https://www.amazon.com/dp/B001AO0WCG?tag=desksetuppi07-20",
+  "post": "https://smartpicksdaily-reviews.blogspot.com/2026/11/moroccanoil-treatment-review-cult-oil.html",
+  "short": null,
+  "short_date": null,
+  "pin": null,
+  "job": "jobs/2026-11-17-moroccanoil-treatment",
+  "sales_signal": "4.7★, ~89K ratings, #2 Hair Treatment Oils, ~10K bought/month est.",
+  "short_score": 8,
+  "in_weekly": false
+ },
+ {
+  "pick": 30,
+  "date": "2026-11-17",
+  "category": "Home & Kitchen",
+  "name": "Chefman Glass Electric Kettle with Temperature Control (1.8 L)",
+  "asin": "B07FNW57J7",
+  "asin_sources": [
+   "asinsight.com/report/US/electric-kettle: #5 B07FNW57J7 'Chefman Electric Kettle with Temperature Control, 5 Presets LED Indicator Lights, Removable Tea Infuser...', 4.5★ 24.1K, ~20K/month",
+   "desertcart.id 74929614: ASIN B07FNW57J7, model RJ11-17-CTI-RL 'Electric Kettle w/ Temperature Control, Removable Tea Infuser', #5 Electric Kettles"
+  ],
+  "amazon": "https://www.amazon.com/dp/B07FNW57J7?tag=desksetuppi07-20",
+  "post": "https://smartpicksdaily-reviews.blogspot.com/2026/11/chefman-glass-kettle-review-right-temp.html",
+  "short": null,
+  "short_date": null,
+  "pin": null,
+  "job": "jobs/2026-11-17-chefman-glass-kettle",
+  "sales_signal": "4.5★, ~24K ratings, #5 Electric Kettles, ~20K bought/month est.",
+  "short_score": 7,
+  "in_weekly": false
+ },
+ {
+  "pick": 31,
+  "date": "2026-11-17",
+  "category": "Tech",
+  "name": "JLab Go Air Pop+ True Wireless Earbuds (Black)",
+  "asin": "B0CXGXT6W8",
+  "asin_sources": [
+   "sentinel.rocketium.com/products/amazon/B0CXGXT6W8: 'JLab Go Air Pop+ True Wireless Earbuds (Bluetooth, in-ear, black)', 4.4★ 20.9K, #5 Earbud & In-Ear",
+   "desertcart.co.za 650571111: 'JLab Go Air Pop+ True Wireless Earbuds', model Go Pop+, Black, ASIN B0CXGXT6W8"
+  ],
+  "amazon": "https://www.amazon.com/dp/B0CXGXT6W8?tag=desksetuppi07-20",
+  "post": "https://smartpicksdaily-reviews.blogspot.com/2026/11/jlab-go-air-pop-review-budget-earbuds.html",
+  "short": null,
+  "short_date": null,
+  "pin": null,
+  "job": "jobs/2026-11-17-jlab-go-pop-plus",
+  "sales_signal": "4.4★, ~21K ratings, #5 Earbud & In-Ear Headphones, #26 Electronics",
+  "short_score": 8,
+  "in_weekly": false
  }
 ]
