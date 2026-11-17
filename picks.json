@@ -481,5 +481,65 @@
   "sales_signal": "4.7★, ~37K ratings, #2 External Solid State Drives (desertcart mirror)",
   "short_score": 7,
   "in_weekly": false
+ },
+ {
+  "pick": 25,
+  "date": "2026-11-17",
+  "category": "Home & Kitchen",
+  "name": "Dash Mini Waffle Maker (Black)",
+  "asin": "B01NAM6F2J",
+  "asin_sources": [
+   "desertcart 38511535: Dash Mini Waffle Maker, model DMW001BK (Black), ASIN B01NAM6F2J",
+   "bestreviews.com/kitchen/specialty/dash-mini-maker: Dash Mini Maker listings B01M9I779L and B01NAM6F2J"
+  ],
+  "amazon": "https://www.amazon.com/dp/B01NAM6F2J?tag=desksetuppi07-20",
+  "post": "https://smartpicksdaily-reviews.blogspot.com/2026/11/dash-mini-waffle-maker-review-hot.html",
+  "short": null,
+  "short_date": null,
+  "pin": null,
+  "job": "jobs/2026-11-17-dash-mini-waffle-maker",
+  "sales_signal": "4.6★, ~185K ratings, #1 Waffle Irons (desertcart mirror)",
+  "short_score": 9,
+  "in_weekly": false
+ },
+ {
+  "pick": 26,
+  "date": "2026-11-17",
+  "category": "Beauty",
+  "name": "OLAPLEX No.6 Bond Smoother (3.3 fl oz)",
+  "asin": "B07PW4MTHV",
+  "asin_sources": [
+   "asinsight.com/report/US/k18-leave-in-mask: B07PW4MTHV 'Nº. 6 Bond Smoother: Leave-in Styling Treatment', 4.7★ 54.2K, ~50K/month",
+   "desertcart 129706139: Olaplex No 6 Bond Smoother, 3.3 Fl oz, ASIN B07PW4MTHV"
+  ],
+  "amazon": "https://www.amazon.com/dp/B07PW4MTHV?tag=desksetuppi07-20",
+  "post": "https://smartpicksdaily-reviews.blogspot.com/2026/11/olaplex-no6-bond-smoother-one-pump-to.html",
+  "short": null,
+  "short_date": null,
+  "pin": null,
+  "job": "jobs/2026-11-17-olaplex-no6-bond-smoother",
+  "sales_signal": "4.6–4.7★, ~52K ratings, ~50K bought/month est., #1 Hair Styling Putty/Clay/Wax",
+  "short_score": 8,
+  "in_weekly": false
+ },
+ {
+  "pick": 27,
+  "date": "2026-11-17",
+  "category": "Tech",
+  "name": "Logitech Pebble Keys 2 K380s (Tonal Graphite)",
+  "asin": "B0BT4DP7SC",
+  "asin_sources": [
+   "asinsight.com/report/US/logitech-pebble-keys-2-k380s: B0BT4DP7SC 'Logitech Pebble Keys 2 K380s Keyboard, Bluetooth, Wireless - Graphite'",
+   "desertcart 560221155: Logitech Pebble Keys 2 K380s, Tonal Graphite, ASIN B0BT4DP7SC"
+  ],
+  "amazon": "https://www.amazon.com/dp/B0BT4DP7SC?tag=desksetuppi07-20",
+  "post": "https://smartpicksdaily-reviews.blogspot.com/2026/11/logitech-pebble-keys-2-k380s-one.html",
+  "short": null,
+  "short_date": null,
+  "pin": null,
+  "job": "jobs/2026-11-17-logitech-pebble-keys-2",
+  "sales_signal": "4.4★, ~1.5–2K ratings, ~1K bought/month est., #78 Computer Keyboards",
+  "short_score": 6,
+  "in_weekly": false
  }
 ]
