@@ -25,5 +25,133 @@
    ]
   },
   "button": "See specs & price →"
- }
+ },
+ "scenes": [
+  {
+   "type": "card",
+   "image": "kv",
+   "from": [
+    653,
+    720,
+    1100
+   ],
+   "to": [
+    653,
+    720,
+    620
+   ],
+   "line": "Lost your keys again? This little tag now finds them from up to fifty percent farther away.",
+   "hl": [
+    "keys",
+    "fifty",
+    "percent",
+    "farther"
+   ]
+  },
+  {
+   "type": "card",
+   "image": "kv",
+   "from": [
+    653,
+    720,
+    800
+   ],
+   "to": [
+    653,
+    690,
+    1250
+   ],
+   "line": "Meet the new Apple AirTag, second generation. A new Ultra Wideband chip extends Precision Finding, and the chime is fifty percent louder.",
+   "hl": [
+    "Apple",
+    "AirTag,",
+    "Ultra",
+    "Wideband",
+    "louder."
+   ],
+   "badge": {
+    "big": "4-PACK",
+    "small": "2nd gen"
+   },
+   "chips": [
+    "50% more range",
+    "50% louder",
+    "IP67"
+   ]
+  },
+  {
+   "type": "card",
+   "image": "kv",
+   "from": [
+    653,
+    330,
+    700
+   ],
+   "to": [
+    653,
+    700,
+    1000
+   ],
+   "line": "Built for iPhone users. Tag your keys, backpack, suitcase and car, and now you can find them right from your Apple Watch too.",
+   "hl": [
+    "iPhone",
+    "keys,",
+    "suitcase",
+    "Apple",
+    "Watch"
+   ],
+   "chips": [
+    "Keys",
+    "Luggage",
+    "Car"
+   ]
+  },
+  {
+   "type": "tip",
+   "title": "PRO TIP",
+   "boxes": [
+    [
+     "1",
+     "CR2032 cell"
+    ],
+    [
+     "~1 yr",
+     "per battery"
+    ],
+    [
+     "15+",
+     "iPhone"
+    ]
+   ],
+   "note": "Find My warns you when a battery runs low. Not for Android.",
+   "line": "Pro tip: it runs on a swappable coin battery, about a year each. Keep a spare in a drawer, and you'll need an iPhone fifteen or newer for the longest range.",
+   "hl": [
+    "swappable",
+    "year",
+    "spare",
+    "fifteen"
+   ]
+  },
+  {
+   "type": "cta",
+   "image": "kv",
+   "from": [
+    653,
+    720,
+    900
+   ],
+   "to": [
+    653,
+    700,
+    1300
+   ],
+   "line": "It's pick number fifteen. Find the link on our channel, under Video Picks.",
+   "hl": [
+    "fifteen.",
+    "channel,",
+    "Video",
+    "Picks."
+   ]
+  }
+ ]
 }
