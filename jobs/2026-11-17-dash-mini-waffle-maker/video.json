@@ -16,7 +16,7 @@
    1560
   ],
   "headline": "4-inch waffles in minutes, zero fuss",
-  "sub": "Plug in \u00b7 Light tells you it's hot \u00b7 Fits in a drawer",
+  "sub": "Plug in · Light tells you it's hot · Fits in a drawer",
   "badge": {
    "text": "4\"",
    "xy": [
@@ -24,6 +24,139 @@
     1060
    ]
   },
-  "button": "See colors & price \u2192"
- }
+  "button": "See colors & price →"
+ },
+ "scenes": [
+  {
+   "type": "card",
+   "image": "kv",
+   "from": [
+    864,
+    820,
+    1700
+   ],
+   "to": [
+    1290,
+    830,
+    820
+   ],
+   "line": "Four-inch waffles, zero settings, and a gadget that fits right in your kitchen drawer.",
+   "hl": [
+    "Four-inch",
+    "waffles,",
+    "zero",
+    "settings,",
+    "drawer."
+   ]
+  },
+  {
+   "type": "card",
+   "image": "kv",
+   "from": [
+    640,
+    800,
+    1300
+   ],
+   "to": [
+    640,
+    700,
+    900
+   ],
+   "line": "Meet the Dash Mini Waffle Maker. No dials, no switch. Plug it in, wait for the light, add batter and close the lid.",
+   "hl": [
+    "Dash",
+    "Mini",
+    "Waffle",
+    "Maker.",
+    "Plug",
+    "light,"
+   ],
+   "badge": {
+    "big": "4 IN",
+    "small": "mini waffles"
+   },
+   "chips": [
+    "Plug in",
+    "Light on",
+    "Pour & close"
+   ]
+  },
+  {
+   "type": "card",
+   "image": "kv",
+   "from": [
+    1290,
+    830,
+    900
+   ],
+   "to": [
+    1020,
+    820,
+    1400
+   ],
+   "line": "And it's not just waffles. People make crispy hash browns, cookies and cheesy keto chaffles in it. Perfect for dorms and small kitchens.",
+   "hl": [
+    "hash",
+    "browns,",
+    "cookies",
+    "chaffles",
+    "dorms",
+    "small",
+    "kitchens."
+   ],
+   "chips": [
+    "Hash browns",
+    "Cookies",
+    "Chaffles"
+   ]
+  },
+  {
+   "type": "tip",
+   "title": "PRO TIP",
+   "boxes": [
+    [
+     "2–3",
+     "tbsp batter"
+    ],
+    [
+     "1",
+     "light spray"
+    ],
+    [
+     "0",
+     "metal tools"
+    ]
+   ],
+   "note": "Let it cool, then wipe the plates with a damp, soapy cloth.",
+   "line": "Pro tip: use just two to three tablespoons of batter, one light mist of spray, and silicone or wooden tools only.",
+   "hl": [
+    "two",
+    "three",
+    "tablespoons",
+    "silicone",
+    "wooden"
+   ]
+  },
+  {
+   "type": "cta",
+   "image": "kv",
+   "from": [
+    864,
+    820,
+    1300
+   ],
+   "to": [
+    864,
+    820,
+    1700
+   ],
+   "line": "It's pick number twenty-five. Find the link on our channel, under Video Picks.",
+   "hl": [
+    "twenty-five.",
+    "channel,",
+    "Video",
+    "Picks."
+   ]
+  }
+ ]
 }
