@@ -1,0 +1,29 @@
+{
+ "slug": "2026-11-17-yeti-rambler-20oz",
+ "pick": 28,
+ "category": "Home & Kitchen",
+ "asin": "B073WJMKHN",
+ "name": "YETI Rambler 20 oz Tumbler (Black)",
+ "credit": "Image: YETI",
+ "pin": {
+  "image": "kv",
+  "crop": [
+   960,
+   970,
+   1500
+  ],
+  "headline": "Hot coffee for your whole commute",
+  "sub": "Magnetic slider lid \u00b7 Dishwasher safe \u00b7 Fits most cupholders",
+  "badge": {
+   "text": "20 oz",
+   "xy": [
+    660,
+    420
+   ]
+  },
+  "button": "See colors & price \u2192"
+ },
+ "images": {
+  "kv": "img/kv.jpg"
+ }
+}

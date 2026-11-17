@@ -1,0 +1,29 @@
+{
+ "slug": "2026-11-17-chefman-glass-kettle",
+ "pick": 30,
+ "category": "Home & Kitchen",
+ "asin": "B07FNW57J7",
+ "name": "Chefman Glass Electric Kettle with Temperature Control",
+ "credit": "Image: Chefman",
+ "pin": {
+  "image": "kv",
+  "crop": [
+   1000,
+   1000,
+   2000
+  ],
+  "headline": "Perfect water temp for every tea",
+  "sub": "5 presets 175\u2013212\u00b0F \u00b7 Tea infuser \u00b7 1.8 L glass",
+  "badge": {
+   "text": "5 temps",
+   "xy": [
+    580,
+    1110
+   ]
+  },
+  "button": "See specs & price \u2192"
+ },
+ "images": {
+  "kv": "img/kv.jpg"
+ }
+}

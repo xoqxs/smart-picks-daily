@@ -1,0 +1,29 @@
+{
+ "slug": "2026-11-17-moroccanoil-treatment",
+ "pick": 29,
+ "category": "Beauty",
+ "asin": "B001AO0WCG",
+ "name": "Moroccanoil Treatment Original (3.4 oz)",
+ "credit": "Image: Moroccanoil",
+ "pin": {
+  "image": "kv",
+  "crop": [
+   925,
+   1330,
+   1500
+  ],
+  "headline": "The cult hair oil for glossy, smooth ends",
+  "sub": "Argan oil-infused \u00b7 Use damp or dry \u00b7 Signature scent",
+  "badge": {
+   "text": "3.4 oz",
+   "xy": [
+    650,
+    440
+   ]
+  },
+  "button": "See sizes & price \u2192"
+ },
+ "images": {
+  "kv": "img/kv.jpg"
+ }
+}

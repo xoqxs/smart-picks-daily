@@ -1,0 +1,29 @@
+{
+ "slug": "2026-11-17-jlab-go-pop-plus",
+ "pick": 31,
+ "category": "Tech",
+ "asin": "B0CXGXT6W8",
+ "name": "JLab Go Air Pop+ True Wireless Earbuds (Black)",
+ "credit": "Image: JLab",
+ "pin": {
+  "image": "kv",
+  "crop": [
+   1000,
+   1000,
+   1900
+  ],
+  "headline": "Budget earbuds with 35+ hours of playtime",
+  "sub": "App EQ \u00b7 Be Aware mode \u00b7 Cable built into the case",
+  "badge": {
+   "text": "35+ hrs",
+   "xy": [
+    590,
+    350
+   ]
+  },
+  "button": "See colors & price \u2192"
+ },
+ "images": {
+  "kv": "img/kv.jpg"
+ }
+}
