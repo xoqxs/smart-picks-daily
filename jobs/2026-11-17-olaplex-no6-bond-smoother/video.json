@@ -1,0 +1,29 @@
+{
+ "slug": "2026-11-17-olaplex-no6-bond-smoother",
+ "pick": 26,
+ "category": "Beauty",
+ "asin": "B07PW4MTHV",
+ "name": "OLAPLEX No.6 Bond Smoother",
+ "credit": "Image: OLAPLEX",
+ "images": {
+  "kv": "img/kv.jpg"
+ },
+ "pin": {
+  "image": "kv",
+  "crop": [
+   720,
+   720,
+   1300
+  ],
+  "headline": "One pump for smooth, frizz-free hair",
+  "sub": "Leave-in styling cream \u00b7 Heat protection to 450\u00b0F",
+  "badge": {
+   "text": "72H",
+   "xy": [
+    680,
+    1080
+   ]
+  },
+  "button": "See it on Amazon \u2192"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "slug": "2026-11-17-logitech-pebble-keys-2",
+ "pick": 27,
+ "category": "Tech",
+ "asin": "B0BT4DP7SC",
+ "name": "Logitech Pebble Keys 2 K380s",
+ "credit": "Image: Logitech",
+ "images": {
+  "kv": "img/kv.jpg",
+  "kv_pin": "img/kv_pin.jpg"
+ },
+ "pin": {
+  "image": "kv_pin",
+  "crop": [
+   1000,
+   1000,
+   1320
+  ],
+  "headline": "One keyboard for laptop, tablet & phone",
+  "sub": "3 devices \u00b7 Up to 36-month battery \u00b7 Quiet keys",
+  "badge": {
+   "text": "3 devices",
+   "xy": [
+    520,
+    1060
+   ]
+  },
+  "button": "See colors & price \u2192"
+ }
+}

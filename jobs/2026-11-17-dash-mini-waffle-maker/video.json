@@ -1,0 +1,29 @@
+{
+ "slug": "2026-11-17-dash-mini-waffle-maker",
+ "pick": 25,
+ "category": "Home & Kitchen",
+ "asin": "B01NAM6F2J",
+ "name": "Dash Mini Waffle Maker (Black)",
+ "credit": "Image: Dash",
+ "images": {
+  "kv": "img/kv.jpg"
+ },
+ "pin": {
+  "image": "kv",
+  "crop": [
+   864,
+   830,
+   1560
+  ],
+  "headline": "4-inch waffles in minutes, zero fuss",
+  "sub": "Plug in \u00b7 Light tells you it's hot \u00b7 Fits in a drawer",
+  "badge": {
+   "text": "4\"",
+   "xy": [
+    700,
+    1060
+   ]
+  },
+  "button": "See colors & price \u2192"
+ }
+}
