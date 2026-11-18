@@ -13,7 +13,7 @@
    1300
   ],
   "headline": "Wake up to plump, dewy-looking skin",
-  "sub": "Overnight hydrogel mask \u00b7 Collagen + hyaluronic acid",
+  "sub": "Overnight hydrogel mask · Collagen + hyaluronic acid",
   "badge": {
    "text": "Overnight",
    "xy": [
@@ -21,9 +21,143 @@
     355
    ]
   },
-  "button": "See it on Amazon \u2192"
+  "button": "See it on Amazon →"
  },
  "images": {
   "kv": "img/kv.jpg"
- }
+ },
+ "scenes": [
+  {
+   "type": "card",
+   "image": "kv",
+   "from": [
+    810,
+    800,
+    1550
+   ],
+   "to": [
+    960,
+    760,
+    1000
+   ],
+   "line": "Put it on before bed, peel it off at sunrise, and your skin looks plump and glassy before your first coffee.",
+   "hl": [
+    "before",
+    "bed,",
+    "peel",
+    "plump",
+    "glassy"
+   ]
+  },
+  {
+   "type": "card",
+   "image": "kv",
+   "from": [
+    960,
+    700,
+    1000
+   ],
+   "to": [
+    960,
+    620,
+    760
+   ],
+   "line": "Meet the Biodance Bio-Collagen Real Deep Mask, a cooling hydrogel with low-molecular collagen and hyaluronic acid.",
+   "hl": [
+    "Biodance",
+    "Bio-Collagen",
+    "Real",
+    "Deep",
+    "Mask,",
+    "collagen",
+    "hyaluronic"
+   ],
+   "badge": {
+    "big": "#1",
+    "small": "facial masks"
+   },
+   "chips": [
+    "Hydrogel",
+    "Collagen",
+    "Hyaluronic acid"
+   ]
+  },
+  {
+   "type": "card",
+   "image": "kv",
+   "from": [
+    700,
+    820,
+    1100
+   ],
+   "to": [
+    810,
+    800,
+    1450
+   ],
+   "line": "Its two-piece gel actually stays put while you sleep. A favorite before weddings, photo days and big presentations.",
+   "hl": [
+    "two-piece",
+    "stays",
+    "put",
+    "weddings,",
+    "photo",
+    "presentations."
+   ],
+   "chips": [
+    "Date night",
+    "Photo day",
+    "Big events"
+   ]
+  },
+  {
+   "type": "tip",
+   "title": "PRO TIP",
+   "boxes": [
+    [
+     "3–4",
+     "hours"
+    ],
+    [
+     "Clear",
+     "= done"
+    ],
+    [
+     "1–2×",
+     "a week"
+    ]
+   ],
+   "note": "Apply on clean skin, then follow with moisturizer.",
+   "line": "Pro tip: watch the color, not the clock. When the milky gel turns clear, usually in three to four hours, it's done.",
+   "hl": [
+    "color,",
+    "clock.",
+    "clear,",
+    "three",
+    "four",
+    "hours,"
+   ]
+  },
+  {
+   "type": "cta",
+   "image": "kv",
+   "from": [
+    810,
+    800,
+    1300
+   ],
+   "to": [
+    810,
+    800,
+    1600
+   ],
+   "line": "It's pick number thirty-eight. Find the link on our channel, under Video Picks.",
+   "hl": [
+    "thirty-eight.",
+    "channel,",
+    "Video",
+    "Picks."
+   ]
+  }
+ ]
 }
