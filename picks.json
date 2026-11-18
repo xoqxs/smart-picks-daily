@@ -681,5 +681,65 @@
   "sales_signal": "4.4–4.5★, ~30–35K ratings, #3 On-Ear Headphones, ~9K/month (est.)",
   "short_score": 8,
   "in_weekly": false
+ },
+ {
+  "pick": 35,
+  "date": "2026-11-18",
+  "category": "Beauty",
+  "name": "medicube Zero Pore Pad 2.0 Dual-Textured Toner Pads (70 Pads)",
+  "asin": "B09V7Z4TJG",
+  "asin_sources": [
+   "asinsight.com/report/US/medicube-collagen-face-mask: 'medicube Toner Pads Zero Pore Pad 2.0 | Dual-Textured Facial Pad...' 4.6★ 26.6K, ~100K/month",
+   "desertcart.us/products/422838744: 'medicube Toner Pads Zero Pore Pad 2.0 ... 70 Count', ASIN B09V7Z4TJG, 4.6★ 23,549, #1 Facial Toners & Astringents"
+  ],
+  "amazon": "https://www.amazon.com/dp/B09V7Z4TJG?tag=desksetuppi07-20",
+  "post": "https://smartpicksdaily-reviews.blogspot.com/2026/11/medicube-zero-pore-pad-20-review-smooth.html",
+  "short": null,
+  "short_date": null,
+  "pin": null,
+  "job": "jobs/2026-11-18-medicube-zero-pore-pad",
+  "sales_signal": "4.6★, 23K+ ratings, #1 Facial Toners & Astringents, ~100K/month (est.)",
+  "short_score": 8,
+  "in_weekly": false
+ },
+ {
+  "pick": 36,
+  "date": "2026-11-18",
+  "category": "Home & Kitchen",
+  "name": "COSORI TurboBlaze 9-in-1 Air Fryer, 6 Qt (Dark Gray)",
+  "asin": "B0C33CHG99",
+  "asin_sources": [
+   "asinsight.com/report/US/cosori-air-fryer: 'Cosori 9-in-1 TurboBlaze Air Fryer 6 Qt, PFAS-Free Ceramic Coating...' 4.8★ 20.7K, ~20K/month",
+   "slickdeals.net/f/19887519: 'Cosori 9-in-1 TurboBlaze Air Fryer 6 Qt' links amazon.com/dp/B0C33CHG99 (Aug 2026)"
+  ],
+  "amazon": "https://www.amazon.com/dp/B0C33CHG99?tag=desksetuppi07-20",
+  "post": "https://smartpicksdaily-reviews.blogspot.com/2026/11/cosori-turboblaze-review-quiet-6-qt-air.html",
+  "short": null,
+  "short_date": null,
+  "pin": null,
+  "job": "jobs/2026-11-18-cosori-turboblaze",
+  "sales_signal": "4.8★, 20.7K ratings, ~20K bought/month (est.)",
+  "short_score": 8,
+  "in_weekly": false
+ },
+ {
+  "pick": 37,
+  "date": "2026-11-18",
+  "category": "Tech",
+  "name": "Logitech C920x HD Pro Webcam, Full HD 1080p/30fps (Black)",
+  "asin": "B085TFF7M1",
+  "asin_sources": [
+   "asinsight.com/report/US/logitech-c920: 'Logitech C920x HD Pro PC Webcam, Full HD 1080p/30fps Video...' Black, 4.6★ 21.9K, ~10K/month",
+   "desertcart.nz/products/195418164: 'Logitech C920x HD Pro Webcam', ASIN B085TFF7M1, 4.6★ 38,435 ratings, #4 Webcams"
+  ],
+  "amazon": "https://www.amazon.com/dp/B085TFF7M1?tag=desksetuppi07-20",
+  "post": "https://smartpicksdaily-reviews.blogspot.com/2026/11/logitech-c920x-review-webcam-that-fixes.html",
+  "short": null,
+  "short_date": null,
+  "pin": null,
+  "job": "jobs/2026-11-18-logitech-c920x-webcam",
+  "sales_signal": "4.6★, ~22–38K ratings, #4 Webcams, ~10K/month (est.)",
+  "short_score": 7,
+  "in_weekly": false
  }
 ]
