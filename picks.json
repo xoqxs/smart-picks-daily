@@ -621,5 +621,65 @@
   "sales_signal": "4.4★, ~21K ratings, #5 Earbud & In-Ear Headphones, #26 Electronics",
   "short_score": 8,
   "in_weekly": false
+ },
+ {
+  "pick": 32,
+  "date": "2026-11-18",
+  "category": "Beauty",
+  "name": "essence Lash Princess False Lash Effect Mascara (Black)",
+  "asin": "B00T0C9XRK",
+  "asin_sources": [
+   "asinsight.com/report/US/mascara-lash-princess: 'essence Lash Princess False Lash Effect Mascara, Black', #1 of 123, 4.3★ 416.6K, ~80K/month",
+   "desertcart.pl/products/19124429: 'Essence Lash Princess False Lash Effect Mascara', ASIN B00T0C9XRK, #2 Mascara, #13 Beauty"
+  ],
+  "amazon": "https://www.amazon.com/dp/B00T0C9XRK?tag=desksetuppi07-20",
+  "post": "https://smartpicksdaily-reviews.blogspot.com/2026/11/essence-lash-princess-review-false-lash.html",
+  "short": null,
+  "short_date": null,
+  "pin": null,
+  "job": "jobs/2026-11-18-essence-lash-princess",
+  "sales_signal": "4.3★, ~417K ratings, #2 Mascara (#13 Beauty), ~80–90K bought/month (est.)",
+  "short_score": 9,
+  "in_weekly": false
+ },
+ {
+  "pick": 33,
+  "date": "2026-11-18",
+  "category": "Home & Kitchen",
+  "name": "Cuisinart Advantage 12-Piece Color Knife Set (C55-01-12PCKS)",
+  "asin": "B00FLQ4EE6",
+  "asin_sources": [
+   "dansdeals.com: Cuisinart Advantage Color Collection 12-Piece Knife Set, C55-01-12PCKS, links amazon.com/dp/B00FLQ4EE6",
+   "bestviewsreviews.com: 'Cuisinart 12-Piece Kitchen Knife Set, Multicolor Advantage Cutlery, C55-01-12PCKS', Amazon link ASIN B00FLQ4EE6"
+  ],
+  "amazon": "https://www.amazon.com/dp/B00FLQ4EE6?tag=desksetuppi07-20",
+  "post": "https://smartpicksdaily-reviews.blogspot.com/2026/11/cuisinart-color-knife-set-review-6.html",
+  "short": null,
+  "short_date": null,
+  "pin": null,
+  "job": "jobs/2026-11-18-cuisinart-color-knife-set",
+  "sales_signal": "4.8★, 25K+ ratings, top-20 Kitchen Knife Sets",
+  "short_score": 8,
+  "in_weekly": false
+ },
+ {
+  "pick": 34,
+  "date": "2026-11-18",
+  "category": "Tech",
+  "name": "Sony WH-CH520 Wireless Headphones (Black)",
+  "asin": "B0BS1PRC4L",
+  "asin_sources": [
+   "asinsight.com/report/US/sony-headphones: 'Sony WH-CH520 Wireless On-Ear Bluetooth Headphones with Microphone', Black, 4.4★ 34.5K, ~9K/month",
+   "desertcart.nz/products/512207538: 'Sony WH-CH520 Wireless Headphones', Black, ASIN B0BS1PRC4L, #3 On-Ear Headphones"
+  ],
+  "amazon": "https://www.amazon.com/dp/B0BS1PRC4L?tag=desksetuppi07-20",
+  "post": "https://smartpicksdaily-reviews.blogspot.com/2026/11/sony-wh-ch520-review-50-hour-battery.html",
+  "short": null,
+  "short_date": null,
+  "pin": null,
+  "job": "jobs/2026-11-18-sony-wh-ch520",
+  "sales_signal": "4.4–4.5★, ~30–35K ratings, #3 On-Ear Headphones, ~9K/month (est.)",
+  "short_score": 8,
+  "in_weekly": false
  }
 ]
