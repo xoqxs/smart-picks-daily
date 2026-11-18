@@ -1,0 +1,29 @@
+{
+ "slug": "2026-11-18-etekcity-kitchen-scale",
+ "pick": 39,
+ "category": "Home & Kitchen",
+ "asin": "B0113UZJE2",
+ "name": "Etekcity EK6015 Digital Kitchen Scale",
+ "credit": "Image: Etekcity",
+ "pin": {
+  "image": "kv",
+  "crop": [
+   1000,
+   1000,
+   1900
+  ],
+  "headline": "Bake & meal-prep by the gram",
+  "sub": "11 lb capacity \u00b7 g / oz / mL / fl oz \u00b7 Tare",
+  "badge": {
+   "text": "11 lb",
+   "xy": [
+    640,
+    360
+   ]
+  },
+  "button": "See it on Amazon \u2192"
+ },
+ "images": {
+  "kv": "img/kv.jpg"
+ }
+}

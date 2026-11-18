@@ -1,0 +1,29 @@
+{
+ "slug": "2026-11-18-ugreen-revodok-105-hub",
+ "pick": 40,
+ "category": "Tech",
+ "asin": "B0BR3M8XHK",
+ "name": "UGREEN Revodok 105 5-in-1 USB-C Hub",
+ "credit": "Image: UGREEN",
+ "pin": {
+  "image": "kv",
+  "crop": [
+   600,
+   620,
+   1120
+  ],
+  "headline": "One cable, five ports, zero dongle drama",
+  "sub": "4K HDMI \u00b7 100W pass-through \u00b7 USB-A 3.0",
+  "badge": {
+   "text": "5-in-1",
+   "xy": [
+    620,
+    1080
+   ]
+  },
+  "button": "See it on Amazon \u2192"
+ },
+ "images": {
+  "kv": "img/kv.jpg"
+ }
+}

@@ -1,0 +1,29 @@
+{
+ "slug": "2026-11-18-biodance-collagen-mask",
+ "pick": 38,
+ "category": "Beauty",
+ "asin": "B0B2RM68G2",
+ "name": "Biodance Bio-Collagen Real Deep Mask",
+ "credit": "Image: Biodance",
+ "pin": {
+  "image": "kv",
+  "crop": [
+   810,
+   800,
+   1300
+  ],
+  "headline": "Wake up to plump, dewy-looking skin",
+  "sub": "Overnight hydrogel mask \u00b7 Collagen + hyaluronic acid",
+  "badge": {
+   "text": "Overnight",
+   "xy": [
+    480,
+    355
+   ]
+  },
+  "button": "See it on Amazon \u2192"
+ },
+ "images": {
+  "kv": "img/kv.jpg"
+ }
+}
