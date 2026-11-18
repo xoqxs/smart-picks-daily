@@ -741,5 +741,65 @@
   "sales_signal": "4.6★, ~22–38K ratings, #4 Webcams, ~10K/month (est.)",
   "short_score": 7,
   "in_weekly": false
+ },
+ {
+  "pick": 38,
+  "date": "2026-11-18",
+  "category": "Beauty",
+  "name": "Biodance Bio-Collagen Real Deep Mask (4 Sheets)",
+  "asin": "B0B2RM68G2",
+  "asin_sources": [
+   "asinsight.com/report/US/biodance-mask: B0B2RM68G2 'BIODANCE Bio-Collagen Real Deep Mask, Hydrating Overnight Hydrogel Face Mask...' 4.5★ 45.8K, ~100K/month",
+   "desertcart.nz/products/686779769: ASIN B0B2RM68G2, #1 Facial Masks (+ NBC Select links dp/B0B2RM68G2)"
+  ],
+  "amazon": "https://www.amazon.com/dp/B0B2RM68G2?tag=desksetuppi07-20",
+  "post": "https://smartpicksdaily-reviews.blogspot.com/2026/11/biodance-collagen-mask-review-wake-up.html",
+  "short": null,
+  "short_date": null,
+  "pin": null,
+  "job": "jobs/2026-11-18-biodance-collagen-mask",
+  "sales_signal": "4.5★, 45K+ ratings, #1 Facial Masks, ~100K/month (est.)",
+  "short_score": 9,
+  "in_weekly": false
+ },
+ {
+  "pick": 39,
+  "date": "2026-11-18",
+  "category": "Home & Kitchen",
+  "name": "Etekcity EK6015 Digital Kitchen Scale, 11 lb, 304 Stainless Steel",
+  "asin": "B0113UZJE2",
+  "asin_sources": [
+   "desertcart.nz/products/18388369: 'Etekcity Food Kitchen Scale, Digital Grams and Ounces', ASIN B0113UZJE2, 304 Stainless Steel, EK6015, #1 Digital Kitchen Scales",
+   "nullfake.com/amazon/us/B0113UZJE2: 'Etekcity Food Kitchen Scale ... 304 Stainless Steel', 4.67★ ~176K reviews (+ Slickdeals 14977400 links dp/B0113UZJE2)"
+  ],
+  "amazon": "https://www.amazon.com/dp/B0113UZJE2?tag=desksetuppi07-20",
+  "post": "https://smartpicksdaily-reviews.blogspot.com/2026/11/etekcity-ek6015-review-slim-scale.html",
+  "short": null,
+  "short_date": null,
+  "pin": null,
+  "job": "jobs/2026-11-18-etekcity-kitchen-scale",
+  "sales_signal": "4.7★, 170K+ ratings, #1 Digital Kitchen Scales",
+  "short_score": 6,
+  "in_weekly": false
+ },
+ {
+  "pick": 40,
+  "date": "2026-11-18",
+  "category": "Tech",
+  "name": "UGREEN Revodok 105 USB-C Hub 5-in-1 (Gray)",
+  "asin": "B0BR3M8XHK",
+  "asin_sources": [
+   "desertcart.nz/products/528915826: 'UGREEN USB C Hub 5-in-1 Multiport Adapter Revodok 105', ASIN B0BR3M8XHK, Grey, CM478, 4.6★ 26,445 ratings, #2 Laptop Docking Stations",
+   "bestviewsreviews.com/usb-hubs/ugreen-revodok-105-...: ASIN B0BR3M8XHK, 'UGREEN Revodok 105 USB C Hub 5 in 1 Multiport Adapter' (+ MightyGadget review links dp/B0BR3M8XHK)"
+  ],
+  "amazon": "https://www.amazon.com/dp/B0BR3M8XHK?tag=desksetuppi07-20",
+  "post": "https://smartpicksdaily-reviews.blogspot.com/2026/11/ugreen-revodok-105-review-one-cable.html",
+  "short": null,
+  "short_date": null,
+  "pin": null,
+  "job": "jobs/2026-11-18-ugreen-revodok-105-hub",
+  "sales_signal": "4.6★, 25K+ ratings, #2–3 Laptop Docking Stations (desertcart/Amazon data)",
+  "short_score": 6,
+  "in_weekly": false
  }
 ]
