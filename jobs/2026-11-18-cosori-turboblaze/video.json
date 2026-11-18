@@ -1,0 +1,29 @@
+{
+ "slug": "2026-11-18-cosori-turboblaze",
+ "pick": 36,
+ "category": "Home & Kitchen",
+ "asin": "B0C33CHG99",
+ "name": "COSORI TurboBlaze 6-Qt Air Fryer",
+ "credit": "Image: COSORI",
+ "pin": {
+  "image": "kv",
+  "crop": [
+   1000,
+   1000,
+   2000
+  ],
+  "headline": "The quiet air fryer for crispy dinners",
+  "sub": "6-qt basket · Up to 450°F · Dishwasher-safe basket",
+  "badge": {
+   "text": "6 qt",
+   "xy": [
+    90,
+    380
+   ]
+  },
+  "button": "See it on Amazon →"
+ },
+ "images": {
+  "kv": "img/kv.jpg"
+ }
+}

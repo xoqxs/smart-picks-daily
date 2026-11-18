@@ -1,0 +1,29 @@
+{
+ "slug": "2026-11-18-medicube-zero-pore-pad",
+ "pick": 35,
+ "category": "Beauty",
+ "asin": "B09V7Z4TJG",
+ "name": "medicube Zero Pore Pad 2.0 (70 Pads)",
+ "credit": "Image: medicube",
+ "pin": {
+  "image": "kv",
+  "crop": [
+   1050,
+   650,
+   1300
+  ],
+  "headline": "Two swipes to smoother skin",
+  "sub": "70 pads · AHA + BHA · Buff side + soothe side",
+  "badge": {
+   "text": "70 pads",
+   "xy": [
+    90,
+    1100
+   ]
+  },
+  "button": "See it on Amazon →"
+ },
+ "images": {
+  "kv": "img/kv.jpg"
+ }
+}

@@ -1,0 +1,29 @@
+{
+ "slug": "2026-11-18-logitech-c920x-webcam",
+ "pick": 37,
+ "category": "Tech",
+ "asin": "B085TFF7M1",
+ "name": "Logitech C920x HD Pro Webcam",
+ "credit": "Image: Logitech",
+ "pin": {
+  "image": "kv",
+  "crop": [
+   800,
+   687,
+   1374
+  ],
+  "headline": "Look sharp on every video call",
+  "sub": "1080p HD · Fast autofocus · Plug & play",
+  "badge": {
+   "text": "1080p",
+   "xy": [
+    640,
+    1080
+   ]
+  },
+  "button": "See it on Amazon →"
+ },
+ "images": {
+  "kv": "img/kv.jpg"
+ }
+}
