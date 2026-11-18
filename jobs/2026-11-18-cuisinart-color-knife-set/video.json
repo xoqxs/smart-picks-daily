@@ -1,0 +1,29 @@
+{
+ "slug": "2026-11-18-cuisinart-color-knife-set",
+ "pick": 33,
+ "category": "Home & Kitchen",
+ "asin": "B00FLQ4EE6",
+ "name": "Cuisinart Advantage 12-Piece Color Knife Set",
+ "credit": "Image: Cuisinart",
+ "pin": {
+  "image": "kv",
+  "crop": [
+   1000,
+   1000,
+   2000
+  ],
+  "headline": "6 sharp knives, one for every job",
+  "sub": "Color-coded \u00b7 Matching blade guards \u00b7 Drawer-friendly",
+  "badge": {
+   "text": "12 pcs",
+   "xy": [
+    120,
+    380
+   ]
+  },
+  "button": "See the set on Amazon \u2192"
+ },
+ "images": {
+  "kv": "img/kv.jpg"
+ }
+}

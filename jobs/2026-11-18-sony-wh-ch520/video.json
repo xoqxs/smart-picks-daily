@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-18-sony-wh-ch520",
+ "pick": 34,
+ "category": "Tech",
+ "asin": "B0BS1PRC4L",
+ "name": "Sony WH-CH520 Wireless Headphones (Black)",
+ "credit": "Image: Sony",
+ "pin": {
+  "image": "kv",
+  "crop": [800, 760, 1400],
+  "headline": "50 hours of music on one charge",
+  "sub": "Lightweight on-ear · Multipoint · USB-C quick charge",
+  "badge": {"text": "50 hrs", "xy": [640, 1060]},
+  "button": "See colors on Amazon →"
+ },
+ "images": {"kv": "img/kv.jpg"}
+}

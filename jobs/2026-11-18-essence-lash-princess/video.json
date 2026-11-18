@@ -1,0 +1,29 @@
+{
+ "slug": "2026-11-18-essence-lash-princess",
+ "pick": 32,
+ "category": "Beauty",
+ "asin": "B00T0C9XRK",
+ "name": "essence Lash Princess False Lash Effect Mascara",
+ "credit": "Image: essence",
+ "pin": {
+  "image": "kv",
+  "crop": [
+   1000,
+   1000,
+   1900
+  ],
+  "headline": "Drugstore mascara, false-lash look",
+  "sub": "Volume + length \u00b7 Cone brush \u00b7 Vegan & cruelty-free",
+  "badge": {
+   "text": "Vegan",
+   "xy": [
+    640,
+    1110
+   ]
+  },
+  "button": "See it on Amazon \u2192"
+ },
+ "images": {
+  "kv": "img/kv.jpg"
+ }
+}
