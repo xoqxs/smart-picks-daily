@@ -13,7 +13,7 @@
    1900
   ],
   "headline": "Drugstore mascara, false-lash look",
-  "sub": "Volume + length \u00b7 Cone brush \u00b7 Vegan & cruelty-free",
+  "sub": "Volume + length · Cone brush · Vegan & cruelty-free",
   "badge": {
    "text": "Vegan",
    "xy": [
@@ -21,9 +21,143 @@
     1110
    ]
   },
-  "button": "See it on Amazon \u2192"
+  "button": "See it on Amazon →"
  },
  "images": {
   "kv": "img/kv.jpg"
- }
+ },
+ "scenes": [
+  {
+   "type": "card",
+   "image": "kv",
+   "from": [
+    1000,
+    1000,
+    1900
+   ],
+   "to": [
+    1000,
+    950,
+    1400
+   ],
+   "line": "More than four hundred thousand shoppers rated this drugstore mascara, and it keeps getting compared to tubes that cost way more.",
+   "hl": [
+    "four",
+    "hundred",
+    "thousand",
+    "drugstore",
+    "way",
+    "more."
+   ]
+  },
+  {
+   "type": "card",
+   "image": "kv",
+   "from": [
+    540,
+    1080,
+    1150
+   ],
+   "to": [
+    540,
+    1030,
+    900
+   ],
+   "line": "Meet the essence Lash Princess False Lash Effect Mascara. One or two coats for longer, fuller, lifted lashes.",
+   "hl": [
+    "essence",
+    "Lash",
+    "Princess",
+    "longer,",
+    "fuller,",
+    "lifted"
+   ],
+   "badge": {
+    "big": "#2",
+    "small": "in mascara"
+   },
+   "chips": [
+    "Volume",
+    "Length",
+    "Curl"
+   ]
+  },
+  {
+   "type": "card",
+   "image": "kv",
+   "from": [
+    1340,
+    500,
+    900
+   ],
+   "to": [
+    1340,
+    420,
+    650
+   ],
+   "line": "The cone brush loads your outer lashes, and the tip reaches inner corners. Vegan, cruelty-free and fragrance-free.",
+   "hl": [
+    "cone",
+    "brush",
+    "inner",
+    "corners.",
+    "Vegan,",
+    "fragrance-free."
+   ],
+   "chips": [
+    "Vegan",
+    "Cruelty-free",
+    "Fragrance-free"
+   ]
+  },
+  {
+   "type": "tip",
+   "title": "PRO TIP",
+   "boxes": [
+    [
+     "Wipe",
+     "the wand"
+    ],
+    [
+     "Wiggle",
+     "from root"
+    ],
+    [
+     "2",
+     "thin coats"
+    ]
+   ],
+   "note": "Need it to survive tears or humidity? Get the waterproof version.",
+   "line": "Pro tip: tap off the extra on the tube rim, wiggle up from the root, and stop at two thin coats to skip clumps.",
+   "hl": [
+    "tap",
+    "off",
+    "wiggle",
+    "two",
+    "thin",
+    "coats"
+   ]
+  },
+  {
+   "type": "cta",
+   "image": "kv",
+   "from": [
+    1000,
+    1000,
+    1500
+   ],
+   "to": [
+    1000,
+    1000,
+    1900
+   ],
+   "line": "It's pick number thirty-two. Find the link on our channel, under Video Picks.",
+   "hl": [
+    "thirty-two.",
+    "channel,",
+    "Video",
+    "Picks."
+   ]
+  }
+ ]
 }
