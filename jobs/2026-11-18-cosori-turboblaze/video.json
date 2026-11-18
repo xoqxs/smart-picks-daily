@@ -25,5 +25,137 @@
  },
  "images": {
   "kv": "img/kv.jpg"
- }
+ },
+ "scenes": [
+  {
+   "type": "card",
+   "image": "kv",
+   "from": [
+    1000,
+    1000,
+    1900
+   ],
+   "to": [
+    1000,
+    950,
+    1400
+   ],
+   "line": "Crispy fries, crackly chicken skin, and an air fryer quiet enough that you'll forget it's running.",
+   "hl": [
+    "Crispy",
+    "fries,",
+    "crackly",
+    "quiet"
+   ]
+  },
+  {
+   "type": "card",
+   "image": "kv",
+   "from": [
+    1010,
+    470,
+    1000
+   ],
+   "to": [
+    1010,
+    450,
+    700
+   ],
+   "line": "This is the COSORI TurboBlaze. A six-quart basket, nine functions, and up to four hundred fifty degrees.",
+   "hl": [
+    "COSORI",
+    "TurboBlaze.",
+    "six-quart",
+    "nine",
+    "four",
+    "hundred",
+    "fifty"
+   ],
+   "badge": {
+    "big": "450°F",
+    "small": "max temp"
+   },
+   "chips": [
+    "6 qt",
+    "9 functions",
+    "DC motor"
+   ]
+  },
+  {
+   "type": "card",
+   "image": "kv",
+   "from": [
+    1000,
+    1050,
+    1500
+   ],
+   "to": [
+    1000,
+    1000,
+    1800
+   ],
+   "line": "It's rated for three to five people, so it's great for busy families and weekly meal prep.",
+   "hl": [
+    "three",
+    "five",
+    "people,",
+    "families",
+    "meal",
+    "prep."
+   ],
+   "chips": [
+    "Families",
+    "Meal prep",
+    "Weeknight dinners"
+   ]
+  },
+  {
+   "type": "tip",
+   "title": "PRO TIP",
+   "boxes": [
+    [
+     "4 min",
+     "preheat"
+    ],
+    [
+     "Shake",
+     "halfway"
+    ],
+    [
+     "1",
+     "layer"
+    ]
+   ],
+   "note": "Basket and crisper plate are dishwasher safe.",
+   "line": "Pro tip: there's no shake reminder, so set a phone timer for the halfway point, and keep food in a single layer.",
+   "hl": [
+    "shake",
+    "timer",
+    "halfway",
+    "single",
+    "layer."
+   ]
+  },
+  {
+   "type": "cta",
+   "image": "kv",
+   "from": [
+    1000,
+    1000,
+    1500
+   ],
+   "to": [
+    1000,
+    1000,
+    1900
+   ],
+   "line": "It's pick number thirty-six. Find the link on our channel, under Video Picks.",
+   "hl": [
+    "thirty-six.",
+    "channel,",
+    "Video",
+    "Picks."
+   ]
+  }
+ ]
 }
