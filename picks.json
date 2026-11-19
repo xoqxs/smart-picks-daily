@@ -861,5 +861,65 @@
   "sales_signal": "4.7★, 60K+ ratings, #2 Makeup Blenders & Sponges (desertcart)",
   "short_score": 7,
   "in_weekly": false
+ },
+ {
+  "pick": 44,
+  "date": "2026-11-19",
+  "category": "Home & Kitchen",
+  "name": "AeroPress Original Coffee Press",
+  "asin": "B0047BIWSK",
+  "asin_sources": [
+   "bestreviews.com/camping-and-outdoors/camp-cooking/aeropress-original-coffee-and-espresso-maker: 'AeroPress Original Coffee and Espresso Maker' (model 85A01) → amazon.com/dp/B0047BIWSK",
+   "desertcart.co/products/777951679-aeropress-original: 'AeroPress Original Coffee Press', ASIN B0047BIWSK, model 85A01, GTIN 00085276000855 (+ asinsight)"
+  ],
+  "amazon": "https://www.amazon.com/dp/B0047BIWSK?tag=desksetuppi07-20",
+  "post": "https://smartpicksdaily-reviews.blogspot.com/2026/11/aeropress-original-review-smooth-coffee.html",
+  "short": null,
+  "short_date": null,
+  "pin": null,
+  "job": "jobs/2026-11-19-aeropress-original",
+  "sales_signal": "4.6★, ~26K ratings, ~4K/month (asinsight), #3 Coffee Presses (desertcart)",
+  "short_score": 8,
+  "in_weekly": false
+ },
+ {
+  "pick": 45,
+  "date": "2026-11-19",
+  "category": "Home & Kitchen",
+  "name": "OXO Good Grips Easy-Clean Compost Bin, 1.75 Gal (Charcoal)",
+  "asin": "B07ZDRTFYN",
+  "asin_sources": [
+   "asinsight.com/report/US/oxo-compost-bin: 'OXO Good Grips EASY-CLEAN COMPOST BIN - CHARCOAL - 1.75 GAL/6.62 L', ASIN B07ZDRTFYN",
+   "desertcart.sg/products/163952271: 'OXO Good Grips Easy-Clean Compost Bin - 1.75 GAL/6.62 L', ASIN B07ZDRTFYN, model 13294600"
+  ],
+  "amazon": "https://www.amazon.com/dp/B07ZDRTFYN?tag=desksetuppi07-20",
+  "post": "https://smartpicksdaily-reviews.blogspot.com/2026/11/oxo-easy-clean-compost-bin-review-tidy.html",
+  "short": null,
+  "short_date": null,
+  "pin": null,
+  "job": "jobs/2026-11-19-oxo-compost-bin",
+  "sales_signal": "4.6★, ~17.9K ratings, ~1K/month (asinsight, desertcart)",
+  "short_score": 6,
+  "in_weekly": false
+ },
+ {
+  "pick": 46,
+  "date": "2026-11-19",
+  "category": "Tech",
+  "name": "Samsung EVO Select 256GB microSDXC with Adapter (MB-ME256SA/AM)",
+  "asin": "B0CWPMKX5Y",
+  "asin_sources": [
+   "9to5toys.com/2024/10/21/samsung-256gb-evo-select-microsd-card-amazon-all-time-low: 2024 256GB EVO Select → amazon.com/dp/B0CWPMKX5Y",
+   "slickdeals.net/f/18736489: '256GB Samsung EVO Select U3 A2 V30 w/ Adapter' → amazon.com/dp/B0CWPMKX5Y (+ desertcart MB-ME256SA/AM)"
+  ],
+  "amazon": "https://www.amazon.com/dp/B0CWPMKX5Y?tag=desksetuppi07-20",
+  "post": "https://smartpicksdaily-reviews.blogspot.com/2026/11/samsung-evo-select-256gb-review-fast.html",
+  "short": null,
+  "short_date": null,
+  "pin": null,
+  "job": "jobs/2026-11-19-samsung-evo-select-256gb",
+  "sales_signal": "4.8★, 8.5K+ ratings (US listing, desertcart), 48K ratings EU listing, #38 Micro SD Cards",
+  "short_score": 7,
+  "in_weekly": false
  }
 ]
