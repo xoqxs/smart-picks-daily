@@ -921,5 +921,65 @@
   "sales_signal": "4.8★, 8.5K+ ratings (US listing, desertcart), 48K ratings EU listing, #38 Micro SD Cards",
   "short_score": 7,
   "in_weekly": false
+ },
+ {
+  "pick": 47,
+  "date": "2026-11-19",
+  "category": "Beauty",
+  "name": "Mario Badescu Facial Spray with Aloe, Herbs and Rosewater (8 fl oz)",
+  "asin": "B00172O9NO",
+  "asin_sources": [
+   "desertcart.sn/products/1490293-facial-spray-with-aloe-herbs-and-rose-water-for-all: ASIN B00172O9NO, 'Mario Badescu Facial Spray with Aloe, Herbs and Rose Water for All Skin Types... ', 8 Fluid Ounces, 4.5 stars, 83,727 ratings, #8 Face Mists",
+   "camelcamelcamel.com/product/B00172O9NO (search-result title): 'Mario Badescu Facial Spray with Aloe, Herbs and Rose Water for All Skin Types, Face Mist that Hydrates, Rejuvenates & Clarifies, 8 FL OZ'"
+  ],
+  "amazon": "https://www.amazon.com/dp/B00172O9NO?tag=desksetuppi07-20",
+  "post": "https://smartpicksdaily-reviews.blogspot.com/2026/11/mario-badescu-facial-spray-review.html",
+  "short": null,
+  "short_date": null,
+  "pin": null,
+  "job": "jobs/2026-11-19-mario-badescu-facial-spray",
+  "sales_signal": "4.5★, ~83.7K ratings (shared across sizes), #8 Face Mists, #1,297 Beauty & Personal Care (desertcart Amazon-data snapshot for B00172O9NO); frequent Amazon deal posts (Slickdeals Sep 2025, Hip2Save, Krazy Coupon Lady)",
+  "short_score": 8,
+  "in_weekly": false
+ },
+ {
+  "pick": 48,
+  "date": "2026-11-19",
+  "category": "Home & Kitchen",
+  "name": "LEVOIT Core 300-P Air Purifier (White)",
+  "asin": "B07VVK39F7",
+  "asin_sources": [
+   "slickdeals.net/f/17828073: 'LEVOIT Core300-P Air Purifier for Home - HEPA Filter, Quiet Sleep Mode, 1095 ft2 Coverage' deal, Amazon URL ending B07VVK39F7",
+   "asinsight.com/report/US/levoit-air-purifier: #2 'Levoit Air Purifier ... Core300-P, White' ASIN B07VVK39F7, 4.7, 108K ratings, 50K/month, $84.99 (also desertcart.nz/products/152299072: LEVOIT Core 300-P, ASIN B07VVK39F7, 4.7, 120K ratings, #1 HEPA Filter Air Purifiers)"
+  ],
+  "amazon": "https://www.amazon.com/dp/B07VVK39F7?tag=desksetuppi07-20",
+  "post": "https://smartpicksdaily-reviews.blogspot.com/2026/11/levoit-core-300-p-review-quiet-air.html",
+  "short": null,
+  "short_date": null,
+  "pin": null,
+  "job": "jobs/2026-11-19-levoit-core-300p",
+  "sales_signal": "4.7★, ~108K-128K ratings, 50K+ bought/month, #1 HEPA Filter Air Purifiers, #63 Home & Kitchen (ASINsight, desertcart, Slickdeals listing snapshot)",
+  "short_score": 8,
+  "in_weekly": false
+ },
+ {
+  "pick": 49,
+  "date": "2026-11-19",
+  "category": "Tech",
+  "name": "WYZE Cam v4 (Latest Model) 2.5K Indoor/Outdoor Security Camera, White, 1-Pack",
+  "asin": "B0CJ9YX7DG",
+  "asin_sources": [
+   "9to5toys.com/?p=1180884: 'WYZE Cam v4 Indoor/Outdoor Security Cam' deal ($20, reg. $36) → amazon.com/dp/B0CJ9YX7DG",
+   "asinsight.com/report/US/wyze-camera: ASIN B0CJ9YX7DG 'WYZE Cam v4 (Latest Model), 2.5K AI Security Camera, Indoor/Outdoor...' 4.4★, 13.2K ratings, 7K sold/month, $29.98 (also ca.camelcamelcamel.com/product/B0CJ9YX7DG appears in search for 'Wyze Cam v4')"
+  ],
+  "amazon": "https://www.amazon.com/dp/B0CJ9YX7DG?tag=desksetuppi07-20",
+  "post": "https://smartpicksdaily-reviews.blogspot.com/2026/11/wyze-cam-v4-review-25k-color-night.html",
+  "short": null,
+  "short_date": null,
+  "pin": null,
+  "job": "jobs/2026-11-19-wyze-cam-v4",
+  "sales_signal": "4.4★, 13.2K ratings, ~7K sold/month (+40% MoM), $29.98 — asinsight wyze-camera report (#2 Shoppers' Top Picks); frequent Amazon deal posts on Slickdeals/9to5toys",
+  "short_score": 7,
+  "in_weekly": false
  }
 ]
