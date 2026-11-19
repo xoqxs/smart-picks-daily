@@ -13,7 +13,7 @@
    1700
   ],
   "headline": "Tune out the commute, keep the bass",
-  "sub": "Hybrid ANC · 40-hr battery · App EQ · Multipoint",
+  "sub": "Hybrid ANC \u00b7 40-hr battery \u00b7 App EQ \u00b7 Multipoint",
   "badge": {
    "text": "60H",
    "xy": [
@@ -21,9 +21,143 @@
     1100
    ]
   },
-  "button": "See it on Amazon →"
+  "button": "See it on Amazon \u2192"
  },
  "images": {
   "kv": "img/kv.jpg"
- }
+ },
+ "scenes": [
+  {
+   "type": "card",
+   "image": "kv",
+   "from": [
+    960,
+    980,
+    1700
+   ],
+   "to": [
+    960,
+    980,
+    1200
+   ],
+   "line": "Up to sixty hours of music on one charge, and it's one of the top noise cancelling headphones on Amazon.",
+   "hl": [
+    "Sixty",
+    "hours",
+    "one",
+    "charge,",
+    "top",
+    "noise",
+    "cancelling"
+   ]
+  },
+  {
+   "type": "card",
+   "image": "kv",
+   "from": [
+    900,
+    950,
+    1400
+   ],
+   "to": [
+    960,
+    1000,
+    1100
+   ],
+   "line": "Meet the soundcore Q20i by Anker. Hybrid noise cancelling with four mics, up to forty hours with it on.",
+   "hl": [
+    "soundcore",
+    "Q20i",
+    "Hybrid",
+    "four",
+    "mics,",
+    "forty"
+   ],
+   "badge": {
+    "big": "40H",
+    "small": "with ANC on"
+   },
+   "chips": [
+    "Hybrid ANC",
+    "Transparency",
+    "Multipoint"
+   ]
+  },
+  {
+   "type": "card",
+   "image": "kv",
+   "from": [
+    1000,
+    900,
+    1300
+   ],
+   "to": [
+    900,
+    1000,
+    1500
+   ],
+   "line": "Made for commuters, students and travelers. Connect two devices at once and tune the sound with twenty-two app presets.",
+   "hl": [
+    "commuters,",
+    "students",
+    "travelers.",
+    "two",
+    "devices",
+    "twenty-two"
+   ],
+   "chips": [
+    "Commutes",
+    "Flights",
+    "Study time"
+   ]
+  },
+  {
+   "type": "tip",
+   "title": "PRO TIP",
+   "boxes": [
+    [
+     "5 min",
+     "charge"
+    ],
+    [
+     "4 hrs",
+     "playback"
+    ],
+    [
+     "USB-C",
+     "fast"
+    ]
+   ],
+   "note": "Want stronger ANC? See the Q30 (Pick #22).",
+   "line": "Pro tip: forgot to charge? Five minutes on USB-C gives you about four hours of listening.",
+   "hl": [
+    "Five",
+    "minutes",
+    "USB-C",
+    "four",
+    "hours"
+   ]
+  },
+  {
+   "type": "cta",
+   "image": "kv",
+   "from": [
+    960,
+    980,
+    1500
+   ],
+   "to": [
+    960,
+    980,
+    1700
+   ],
+   "line": "It's pick number forty-two. Find the link on our channel, under Video Picks.",
+   "hl": [
+    "forty-two.",
+    "channel,",
+    "Video",
+    "Picks."
+   ]
+  }
+ ]
 }
