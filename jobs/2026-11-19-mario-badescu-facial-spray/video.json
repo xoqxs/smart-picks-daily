@@ -1,0 +1,29 @@
+{
+ "slug": "2026-11-19-mario-badescu-facial-spray",
+ "pick": 47,
+ "category": "Beauty",
+ "asin": "B00172O9NO",
+ "name": "Mario Badescu Rosewater Facial Spray",
+ "credit": "Image: Mario Badescu",
+ "pin": {
+  "image": "kv",
+  "crop": [
+   1000,
+   1000,
+   1900
+  ],
+  "headline": "The Rose Mist for Instant Glow",
+  "sub": "Rosewater · Aloe · Dewy Finish · Face & Hair",
+  "badge": {
+   "text": "8 OZ",
+   "xy": [
+    690,
+    1110
+   ]
+  },
+  "button": "See it on Amazon →"
+ },
+ "images": {
+  "kv": "img/kv.jpg"
+ }
+}

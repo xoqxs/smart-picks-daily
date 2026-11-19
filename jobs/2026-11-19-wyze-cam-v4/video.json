@@ -1,0 +1,29 @@
+{
+ "slug": "2026-11-19-wyze-cam-v4",
+ "pick": 49,
+ "category": "Tech",
+ "asin": "B0CJ9YX7DG",
+ "name": "Wyze Cam v4 Security Camera",
+ "credit": "Image: Wyze",
+ "pin": {
+  "image": "kv",
+  "crop": [
+   1000,
+   1000,
+   1800
+  ],
+  "headline": "2.5K Security Cam, No Monthly Fee",
+  "sub": "Color Night Vision · Spotlight · IP65 · microSD",
+  "badge": {
+   "text": "2.5K",
+   "xy": [
+    690,
+    1110
+   ]
+  },
+  "button": "See it on Amazon →"
+ },
+ "images": {
+  "kv": "img/kv.jpg"
+ }
+}

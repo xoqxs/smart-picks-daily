@@ -1,0 +1,29 @@
+{
+ "slug": "2026-11-19-levoit-core-300p",
+ "pick": 48,
+ "category": "Home & Kitchen",
+ "asin": "B07VVK39F7",
+ "name": "LEVOIT Core 300-P Air Purifier",
+ "credit": "Image: LEVOIT",
+ "pin": {
+  "image": "kv",
+  "crop": [
+   1024,
+   1024,
+   2048
+  ],
+  "headline": "Fresher Air, Barely a Whisper",
+  "sub": "24 dB Sleep · 222 sq ft · Carbon Filter · 8 lb",
+  "badge": {
+   "text": "24dB",
+   "xy": [
+    690,
+    1110
+   ]
+  },
+  "button": "See it on Amazon →"
+ },
+ "images": {
+  "kv": "img/kv.jpg"
+ }
+}
