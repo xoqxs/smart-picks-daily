@@ -13,7 +13,7 @@
    1300
   ],
   "headline": "Two swipes to smoother skin",
-  "sub": "70 pads · AHA + BHA · Buff side + soothe side",
+  "sub": "70 pads \u00b7 AHA + BHA \u00b7 Buff side + soothe side",
   "badge": {
    "text": "70 pads",
    "xy": [
@@ -21,9 +21,145 @@
     1100
    ]
   },
-  "button": "See it on Amazon →"
+  "button": "See it on Amazon \u2192"
  },
  "images": {
   "kv": "img/kv.jpg"
- }
+ },
+ "scenes": [
+  {
+   "type": "card",
+   "image": "kv",
+   "from": [
+    480,
+    480,
+    900
+   ],
+   "to": [
+    720,
+    650,
+    1400
+   ],
+   "line": "Two sides, one swipe. This is the number one toner pad on Amazon's facial toner chart.",
+   "hl": [
+    "Two",
+    "sides,",
+    "one",
+    "swipe.",
+    "number",
+    "one"
+   ]
+  },
+  {
+   "type": "card",
+   "image": "kv",
+   "from": [
+    650,
+    720,
+    1300
+   ],
+   "to": [
+    650,
+    740,
+    1000
+   ],
+   "line": "Meet the medicube Zero Pore Pad two point oh. Seventy pre-soaked pads with lactic acid and salicylic acid.",
+   "hl": [
+    "medicube",
+    "Zero",
+    "Pore",
+    "Pad",
+    "Seventy",
+    "lactic",
+    "salicylic"
+   ],
+   "badge": {
+    "big": "70",
+    "small": "pads per jar"
+   },
+   "chips": [
+    "AHA + BHA",
+    "Panthenol",
+    "Hyaluronic"
+   ]
+  },
+  {
+   "type": "card",
+   "image": "kv",
+   "from": [
+    1450,
+    600,
+    1050
+   ],
+   "to": [
+    1340,
+    650,
+    1300
+   ],
+   "line": "The embossed side buffs away flakes, the silky side smooths. Great for oily or combination skin and a smoother base before makeup.",
+   "hl": [
+    "embossed",
+    "buffs",
+    "silky",
+    "smooths.",
+    "oily",
+    "combination",
+    "makeup."
+   ],
+   "chips": [
+    "Oily skin",
+    "Combination",
+    "Makeup prep"
+   ]
+  },
+  {
+   "type": "tip",
+   "title": "PRO TIP",
+   "boxes": [
+    [
+     "Bumpy",
+     "side first"
+    ],
+    [
+     "Center",
+     "outward"
+    ],
+    [
+     "Start",
+     "3x a week"
+    ]
+   ],
+   "note": "Sensitive skin? Skip retinol nights.",
+   "line": "Pro tip: swipe the bumpy side first, from the center outward, then the silky side. Start with three nights a week.",
+   "hl": [
+    "bumpy",
+    "first,",
+    "center",
+    "outward,",
+    "silky",
+    "three"
+   ]
+  },
+  {
+   "type": "cta",
+   "image": "kv",
+   "from": [
+    1000,
+    650,
+    1300
+   ],
+   "to": [
+    1000,
+    650,
+    1500
+   ],
+   "line": "It's pick number thirty-five. Find the link on our channel, under Video Picks.",
+   "hl": [
+    "thirty-five.",
+    "channel,",
+    "Video",
+    "Picks."
+   ]
+  }
+ ]
 }
