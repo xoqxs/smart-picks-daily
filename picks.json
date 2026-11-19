@@ -801,5 +801,65 @@
   "sales_signal": "4.6★, 25K+ ratings, #2–3 Laptop Docking Stations (desertcart/Amazon data)",
   "short_score": 6,
   "in_weekly": false
+ },
+ {
+  "pick": 41,
+  "date": "2026-11-19",
+  "category": "Beauty",
+  "name": "Neutrogena Hydro Boost Water Gel (1.7 oz)",
+  "asin": "B00NR1YQHM",
+  "asin_sources": [
+   "today.com/shop/neutrogena-hydro-boost-gel-t191376: links amazon.com/dp/B00NR1YQHM 'Neutrogena Hydro Boost Water Gel Daily Face Moisturizer' 1.7 fl oz",
+   "bustle.com/style/neutrogena-hydro-boost-water-gel-vs-gel-cream: Water Gel = B00NR1YQHM (Gel-Cream = B00NR1YQK4); camelcamelcamel.com/product/B00NR1YQHM search title matches"
+  ],
+  "amazon": "https://www.amazon.com/dp/B00NR1YQHM?tag=desksetuppi07-20",
+  "post": "https://smartpicksdaily-reviews.blogspot.com/2026/11/neutrogena-hydro-boost-water-gel-review.html",
+  "short": null,
+  "short_date": null,
+  "pin": null,
+  "job": "jobs/2026-11-19-neutrogena-hydro-boost-water-gel",
+  "sales_signal": "4.6★, 77K–100K+ ratings, long-time #1 Facial Creams & Moisturizers (Bustle/TopCrate/TODAY)",
+  "short_score": 7,
+  "in_weekly": false
+ },
+ {
+  "pick": 42,
+  "date": "2026-11-19",
+  "category": "Tech",
+  "name": "soundcore by Anker Q20i Hybrid ANC Headphones (Black)",
+  "asin": "B0C3HCD34R",
+  "asin_sources": [
+   "asinsight.com/report/US/soundcore-q20i: B0C3HCD34R 'Soundcore by Anker Q20i Hybrid ANC Headphones (Black)', 4.6★ 69.9K ratings, ~10K/month",
+   "desertcart.vn/products/536431102: 'Soundcore by Anker Q20i', ASIN B0C3HCD34R, #2 Noise Cancelling Headphones"
+  ],
+  "amazon": "https://www.amazon.com/dp/B0C3HCD34R?tag=desksetuppi07-20",
+  "post": "https://smartpicksdaily-reviews.blogspot.com/2026/11/soundcore-q20i-review-quiet-commutes.html",
+  "short": null,
+  "short_date": null,
+  "pin": null,
+  "job": "jobs/2026-11-19-soundcore-q20i",
+  "sales_signal": "4.6★, ~70K ratings, #1–2 Noise Cancelling Headphones, ~10K/month (asinsight/desertcart)",
+  "short_score": 8,
+  "in_weekly": false
+ },
+ {
+  "pick": 43,
+  "date": "2026-11-19",
+  "category": "Beauty",
+  "name": "Real Techniques Miracle Complexion Sponge, 4 Count",
+  "asin": "B01JINOV5E",
+  "asin_sources": [
+   "desertcart.sg/products/33448428: 'Real Techniques Miracle Complexion Beauty Sponge Set of 4', ASIN B01JINOV5E, model 1553, 4.7★ 60,649 ratings, #2 Makeup Blenders & Sponges",
+   "au.finance.yahoo.com/news/today-only-best-selling-makeup-160558888.html: 'Real Techniques Miracle Complexion Beauty Sponge, Set of 4' → amazon.com/dp/B01JINOV5E (+ slickdeals SKU B01JINOV5E)"
+  ],
+  "amazon": "https://www.amazon.com/dp/B01JINOV5E?tag=desksetuppi07-20",
+  "post": "https://smartpicksdaily-reviews.blogspot.com/2026/11/real-techniques-miracle-sponge-review.html",
+  "short": null,
+  "short_date": null,
+  "pin": null,
+  "job": "jobs/2026-11-19-real-techniques-miracle-sponge",
+  "sales_signal": "4.7★, 60K+ ratings, #2 Makeup Blenders & Sponges (desertcart)",
+  "short_score": 7,
+  "in_weekly": false
  }
 ]
