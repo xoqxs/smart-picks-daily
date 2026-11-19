@@ -1,0 +1,29 @@
+{
+ "slug": "2026-11-19-soundcore-q20i",
+ "pick": 42,
+ "category": "Tech",
+ "asin": "B0C3HCD34R",
+ "name": "soundcore by Anker Q20i ANC Headphones",
+ "credit": "Image: soundcore (Anker)",
+ "pin": {
+  "image": "kv",
+  "crop": [
+   960,
+   980,
+   1700
+  ],
+  "headline": "Tune out the commute, keep the bass",
+  "sub": "Hybrid ANC · 40-hr battery · App EQ · Multipoint",
+  "badge": {
+   "text": "60H",
+   "xy": [
+    650,
+    1100
+   ]
+  },
+  "button": "See it on Amazon →"
+ },
+ "images": {
+  "kv": "img/kv.jpg"
+ }
+}

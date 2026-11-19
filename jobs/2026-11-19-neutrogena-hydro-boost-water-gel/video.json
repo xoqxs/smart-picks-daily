@@ -1,0 +1,29 @@
+{
+ "slug": "2026-11-19-neutrogena-hydro-boost-water-gel",
+ "pick": 41,
+ "category": "Beauty",
+ "asin": "B00NR1YQHM",
+ "name": "Neutrogena Hydro Boost Water Gel",
+ "credit": "Image: Neutrogena",
+ "pin": {
+  "image": "kv",
+  "crop": [
+   600,
+   640,
+   1100
+  ],
+  "headline": "The cooling gel moisturizer oily skin loves",
+  "sub": "Hyaluronic acid · Weightless · Makeup-friendly",
+  "badge": {
+   "text": "24-hr",
+   "xy": [
+    640,
+    360
+   ]
+  },
+  "button": "See it on Amazon →"
+ },
+ "images": {
+  "kv": "img/kv.jpg"
+ }
+}
