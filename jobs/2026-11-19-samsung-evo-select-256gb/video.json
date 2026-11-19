@@ -1,0 +1,29 @@
+{
+ "slug": "2026-11-19-samsung-evo-select-256gb",
+ "pick": 46,
+ "category": "Tech",
+ "asin": "B0CWPMKX5Y",
+ "name": "Samsung EVO Select 256GB microSD",
+ "credit": "Image: Samsung",
+ "pin": {
+  "image": "kv",
+  "crop": [
+   680,
+   600,
+   1200
+  ],
+  "headline": "256GB of room for games, photos and 4K",
+  "sub": "Up to 160MB/s · A2 · V30 · Adapter included",
+  "badge": {
+   "text": "160MB/s",
+   "xy": [
+    560,
+    360
+   ]
+  },
+  "button": "See it on Amazon →"
+ },
+ "images": {
+  "kv": "img/kv.jpg"
+ }
+}

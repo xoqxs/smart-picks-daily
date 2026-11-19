@@ -1,0 +1,29 @@
+{
+ "slug": "2026-11-19-oxo-compost-bin",
+ "pick": 45,
+ "category": "Home & Kitchen",
+ "asin": "B07ZDRTFYN",
+ "name": "OXO Good Grips Easy-Clean Compost Bin",
+ "credit": "Image: OXO",
+ "pin": {
+  "image": "kv",
+  "crop": [
+   600,
+   600,
+   1190
+  ],
+  "headline": "The scrap bin that's easy to keep clean",
+  "sub": "Smooth inside · Lid stays open · 1.75 gal",
+  "badge": {
+   "text": "1.75 GAL",
+   "xy": [
+    600,
+    1100
+   ]
+  },
+  "button": "See it on Amazon →"
+ },
+ "images": {
+  "kv": "img/kv.jpg"
+ }
+}

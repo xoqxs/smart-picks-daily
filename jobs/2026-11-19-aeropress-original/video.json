@@ -1,0 +1,29 @@
+{
+ "slug": "2026-11-19-aeropress-original",
+ "pick": 44,
+ "category": "Home & Kitchen",
+ "asin": "B0047BIWSK",
+ "name": "AeroPress Original Coffee Press",
+ "credit": "Image: AeroPress",
+ "pin": {
+  "image": "kv",
+  "crop": [
+   750,
+   750,
+   1480
+  ],
+  "headline": "Café-smooth coffee in about 2 minutes",
+  "sub": "No power needed · Rinse-clean · Travel-ready",
+  "badge": {
+   "text": "10 OZ",
+   "xy": [
+    680,
+    1080
+   ]
+  },
+  "button": "See it on Amazon →"
+ },
+ "images": {
+  "kv": "img/kv.jpg"
+ }
+}
