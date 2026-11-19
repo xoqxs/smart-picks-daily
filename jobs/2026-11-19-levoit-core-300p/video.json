@@ -25,5 +25,137 @@
  },
  "images": {
   "kv": "img/kv.jpg"
- }
+ },
+ "scenes": [
+  {
+   "type": "card",
+   "image": "kv",
+   "from": [
+    1024,
+    1100,
+    1900
+   ],
+   "to": [
+    1024,
+    1050,
+    1500
+   ],
+   "line": "Twenty-four decibels. That's how quiet this little purifier can run while you sleep.",
+   "hl": [
+    "Twenty-four",
+    "decibels.",
+    "quiet",
+    "sleep."
+   ]
+  },
+  {
+   "type": "card",
+   "image": "kv",
+   "from": [
+    1024,
+    380,
+    1100
+   ],
+   "to": [
+    1024,
+    350,
+    800
+   ],
+   "line": "Meet the LEVOIT Core three hundred P. A three-stage filter with activated carbon for everyday household odors.",
+   "hl": [
+    "LEVOIT",
+    "Core",
+    "three-stage",
+    "activated",
+    "carbon"
+   ],
+   "badge": {
+    "big": "24 dB",
+    "small": "sleep mode"
+   },
+   "chips": [
+    "3-stage",
+    "Carbon layer",
+    "360° intake"
+   ]
+  },
+  {
+   "type": "card",
+   "image": "kv",
+   "from": [
+    1024,
+    1150,
+    1700
+   ],
+   "to": [
+    1024,
+    1100,
+    1950
+   ],
+   "line": "It's sized for bedrooms and home offices around two hundred twenty square feet, and at under eight pounds it moves room to room.",
+   "hl": [
+    "bedrooms",
+    "home",
+    "offices",
+    "two",
+    "hundred",
+    "twenty",
+    "eight",
+    "pounds"
+   ],
+   "chips": [
+    "Bedrooms",
+    "Home office",
+    "Pet owners"
+   ]
+  },
+  {
+   "type": "tip",
+   "title": "PRO TIP",
+   "boxes": [
+    [
+     "Peel",
+     "the wrap"
+    ],
+    [
+     "Space",
+     "from walls"
+    ],
+    [
+     "High",
+     "then Sleep"
+    ]
+   ],
+   "note": "Want app control? Look at the Core 300S.",
+   "line": "Pro tip: unwrap the filter's plastic before first use, give it space from the wall, and run it on high before switching to sleep mode.",
+   "hl": [
+    "unwrap",
+    "plastic",
+    "space",
+    "high",
+    "sleep"
+   ]
+  },
+  {
+   "type": "cta",
+   "image": "kv",
+   "from": [
+    1024,
+    1050,
+    1600
+   ],
+   "to": [
+    1024,
+    1024,
+    1950
+   ],
+   "line": "It's pick number forty-eight. Find the link on our channel, under Video Picks.",
+   "hl": [
+    "forty-eight.",
+    "channel,",
+    "Video",
+    "Picks."
+   ]
+  }
+ ]
 }
