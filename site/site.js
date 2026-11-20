@@ -30,9 +30,14 @@
   function labelUrl(l) { return '/search/label/' + encodeURIComponent(l); }
 
   // ---- Label pages: chips
+  var q = (location.search.match(/[?&]q=([^&]+)/) || [])[1];
+  var h2 = document.querySelector('#picks .sec-head h2');
+  if (h2 && q && location.pathname === '/search') h2.textContent = 'Results for \u201c' + decodeURIComponent(q.replace(/\+/g, ' ')) + '\u201d';
   var m = location.pathname.match(/^\/search\/label\/([^/?#]+)/);
   if (m) {
     var cur = decodeURIComponent(m[1]);
+    if (h2) h2.textContent = cur;
+    document.title = cur + ' picks | Smart Picks Daily';
     var main = CATS[cur] ? cur : SUB2MAIN[cur];
     var head = document.querySelector('#picks .sec-head');
     if (main && head) {
