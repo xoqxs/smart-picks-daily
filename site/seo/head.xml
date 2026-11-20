@@ -79,12 +79,12 @@
 <meta content='article' property='og:type'/>
 <meta expr:content='data:view.title' property='og:title'/>
 <meta expr:content='data:blog.metaDescription' property='og:description'/>
-<meta expr:content='data:view.featuredImage' property='og:image'/>
+<meta expr:content='resizeImage(data:view.featuredImage, 1200)' property='og:image'/>
 <meta expr:content='data:view.title' property='og:image:alt'/>
 <meta expr:content='data:view.title' name='twitter:title'/>
 <meta expr:content='data:blog.metaDescription' name='twitter:description'/>
-<meta expr:content='data:view.featuredImage' name='twitter:image'/>
-<link expr:href='data:view.featuredImage' rel='image_src'/>
+<meta expr:content='resizeImage(data:view.featuredImage, 1200)' name='twitter:image'/>
+<link expr:href='resizeImage(data:view.featuredImage, 1200)' rel='image_src'/>
 <b:else/><meta expr:content='data:blog.metaDescription' name='description'/>
 <meta content='article' property='og:type'/>
 <meta expr:content='data:view.title' property='og:title'/>
