@@ -23,6 +23,7 @@
     '.spd-chips{display:flex;flex-wrap:wrap;gap:8px;margin:-6px 0 22px}.spd-chips a{background:#f5f5f7;border-radius:999px;padding:7px 14px;font-size:14px;font-weight:600;color:#1d1d1f!important;text-decoration:none!important}' +
     '.spd-chips a.on{background:#1d1d1f;color:#fff!important}' +
     '.nav .wrap .nav-links{margin-left:28px}' +
+    '@media(max-width:640px){.nav .wrap{padding:0 14px}.brand{font-size:15px!important;white-space:nowrap;gap:7px!important}.nav-search{margin-left:auto!important;margin-right:6px!important}.nav-search input{width:92px!important}.nav-search input:focus{width:120px!important}.nav-cta{white-space:nowrap;font-size:12px!important;padding:6px 10px!important}}' +
     '@media(max-width:700px){.spd-rel-grid{grid-template-columns:repeat(2,1fr)}}';
   var st = document.createElement('style'); st.textContent = css; document.head.appendChild(st);
 
