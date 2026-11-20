@@ -22,6 +22,7 @@
     '.spd-bf span{display:block;font-weight:400;font-size:14px;opacity:.8}' +
     '.spd-chips{display:flex;flex-wrap:wrap;gap:8px;margin:-6px 0 22px}.spd-chips a{background:#f5f5f7;border-radius:999px;padding:7px 14px;font-size:14px;font-weight:600;color:#1d1d1f!important;text-decoration:none!important}' +
     '.spd-chips a.on{background:#1d1d1f;color:#fff!important}' +
+    '.nav .wrap .nav-links{margin-left:28px}' +
     '@media(max-width:700px){.spd-rel-grid{grid-template-columns:repeat(2,1fr)}}';
   var st = document.createElement('style'); st.textContent = css; document.head.appendChild(st);
 
