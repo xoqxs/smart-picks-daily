@@ -13,7 +13,7 @@
    1700
   ],
   "headline": "Silky Hair in 5 Minutes",
-  "sub": "Jojoba \u00b7 Sea Buckthorn \u00b7 Color-Safe \u00b7 Vegan",
+  "sub": "Jojoba · Sea Buckthorn · Color-Safe · Vegan",
   "badge": {
    "text": "8 oz",
    "xy": [
@@ -21,9 +21,142 @@
     1090
    ]
   },
-  "button": "See it on Amazon \u2192"
+  "button": "See it on Amazon →"
  },
  "images": {
   "kv": "img/kv.jpg"
- }
+ },
+ "scenes": [
+  {
+   "type": "card",
+   "image": "kv",
+   "from": [
+    1000,
+    1000,
+    1900
+   ],
+   "to": [
+    1000,
+    960,
+    1400
+   ],
+   "line": "Dry, frizzy hair? This five-minute mask is one of the top-selling hair masks on Amazon right now.",
+   "hl": [
+    "five-minute",
+    "top-selling",
+    "hair",
+    "masks"
+   ]
+  },
+  {
+   "type": "card",
+   "image": "kv",
+   "from": [
+    1000,
+    1000,
+    1100
+   ],
+   "to": [
+    1000,
+    980,
+    850
+   ],
+   "line": "Meet the amika Soulfood Nourishing Mask. Jojoba and sea buckthorn oils, plus panthenol and vitamin E, for softer, shinier hair.",
+   "hl": [
+    "amika",
+    "Soulfood",
+    "Jojoba",
+    "sea",
+    "buckthorn",
+    "softer,",
+    "shinier"
+   ],
+   "badge": {
+    "big": "5 min",
+    "small": "after shampoo"
+   },
+   "chips": [
+    "Jojoba oil",
+    "Sea buckthorn",
+    "Vitamin E"
+   ]
+  },
+  {
+   "type": "card",
+   "image": "kv",
+   "from": [
+    1000,
+    950,
+    1600
+   ],
+   "to": [
+    1000,
+    1000,
+    1950
+   ],
+   "line": "It's made for every hair type, including color-treated hair, and it's vegan, cruelty-free and sulfate-free.",
+   "hl": [
+    "every",
+    "hair",
+    "type,",
+    "color-treated",
+    "vegan,",
+    "sulfate-free."
+   ],
+   "chips": [
+    "All hair types",
+    "Color-safe",
+    "Vegan"
+   ]
+  },
+  {
+   "type": "tip",
+   "title": "PRO TIP",
+   "boxes": [
+    [
+     "Less",
+     "water"
+    ],
+    [
+     "5–7",
+     "min"
+    ],
+    [
+     "Rinse",
+     "well"
+    ]
+   ],
+   "note": "Fine hair? One or two masks a week is plenty.",
+   "line": "Pro tip: squeeze out extra water first, leave it on five to seven minutes, then rinse well so fine hair stays light and bouncy.",
+   "hl": [
+    "squeeze",
+    "five",
+    "seven",
+    "minutes,",
+    "rinse",
+    "light"
+   ]
+  },
+  {
+   "type": "cta",
+   "image": "kv",
+   "from": [
+    1000,
+    980,
+    1500
+   ],
+   "to": [
+    1000,
+    960,
+    1950
+   ],
+   "line": "It's pick number fifty-two. Find the link on our channel, under Video Picks.",
+   "hl": [
+    "fifty-two.",
+    "channel,",
+    "Video",
+    "Picks."
+   ]
+  }
+ ]
 }
