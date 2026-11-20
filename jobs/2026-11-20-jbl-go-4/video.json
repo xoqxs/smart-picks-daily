@@ -25,5 +25,137 @@
  },
  "images": {
   "kv": "img/kv.jpg"
- }
+ },
+ "scenes": [
+  {
+   "type": "card",
+   "image": "kv",
+   "from": [
+    800,
+    820,
+    1600
+   ],
+   "to": [
+    800,
+    800,
+    1250
+   ],
+   "line": "A speaker the size of a deck of cards that survives a dunk in the pool? It's Amazon's number one portable Bluetooth speaker.",
+   "hl": [
+    "deck",
+    "cards",
+    "pool?",
+    "number",
+    "one"
+   ]
+  },
+  {
+   "type": "card",
+   "image": "kv",
+   "from": [
+    820,
+    860,
+    1400
+   ],
+   "to": [
+    820,
+    840,
+    1150
+   ],
+   "line": "Meet the JBL Go 4. It's IP67 waterproof and dustproof, runs up to seven hours, and works with the free JBL Portable app for custom EQ.",
+   "hl": [
+    "JBL",
+    "Go",
+    "4.",
+    "IP67",
+    "seven",
+    "hours,",
+    "EQ."
+   ],
+   "badge": {
+    "big": "IP67",
+    "small": "waterproof"
+   },
+   "chips": [
+    "Up to 7 hrs",
+    "Bluetooth 5.3",
+    "App EQ"
+   ]
+  },
+  {
+   "type": "card",
+   "image": "kv",
+   "from": [
+    700,
+    850,
+    1200
+   ],
+   "to": [
+    800,
+    820,
+    1550
+   ],
+   "line": "Perfect for beach days, showers, travel and kids' rooms. With Auracast, two Go fours pair up for stereo.",
+   "hl": [
+    "beach",
+    "showers,",
+    "travel",
+    "Auracast,",
+    "stereo."
+   ],
+   "chips": [
+    "Beach & pool",
+    "Travel",
+    "Stereo pair"
+   ]
+  },
+  {
+   "type": "tip",
+   "title": "PRO TIP",
+   "boxes": [
+    [
+     "Lay it",
+     "flat"
+    ],
+    [
+     "Tune",
+     "the EQ"
+    ],
+    [
+     "Add a",
+     "carabiner"
+    ]
+   ],
+   "note": "Want deeper bass and a clip? The JBL Clip 5 is the step up.",
+   "line": "Pro tip: lay it flat to fire sound upward, give the bass a small boost in the app, and clip it to your bag with a carabiner.",
+   "hl": [
+    "flat",
+    "upward,",
+    "bass",
+    "boost",
+    "carabiner."
+   ]
+  },
+  {
+   "type": "cta",
+   "image": "kv",
+   "from": [
+    800,
+    820,
+    1300
+   ],
+   "to": [
+    800,
+    800,
+    1600
+   ],
+   "line": "It's pick number fifty-three. Find the link on our channel, under Video Picks.",
+   "hl": [
+    "fifty-three.",
+    "channel,",
+    "Video",
+    "Picks."
+   ]
+  }
+ ]
 }
