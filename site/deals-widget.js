@@ -27,7 +27,8 @@
     '.dspd-disc{font-size:12px;color:#86868b;margin:6px 0 0}.dspd-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(190px,1fr));gap:14px}' +
     '.dspd-grid .dspd-card{flex:none}.dspd-event{display:block;margin:18px 0;padding:18px 20px;border-radius:22px;background:#1d1d1f;color:#fff!important;text-decoration:none}' +
     '.dspd-event b{display:block;font-size:20px}.dspd-event span{font-size:14px;opacity:.8}' +
-    '.nav-links a.dspd-navlink{color:#d70015!important;font-weight:700}';
+    '.nav-links a.dspd-navlink{color:#d70015!important;font-weight:700}' +
+    '@media(max-width:560px){.dspd-grid{grid-template-columns:repeat(2,1fr);gap:10px}.dspd-card{flex-basis:168px}.dspd-body{padding:10px 11px 12px}.dspd-name{font-size:14px}.dspd-btn{font-size:13px;padding:8px 6px}.dspd-head h2{font-size:22px}}';
 
   addNav();
   var bust = Math.floor(Date.now() / 600000);
