@@ -1101,5 +1101,65 @@
   "sales_signal": "4.6★, ~13.8K ratings, #2 Vocal Condenser Microphones (desertcart snapshot); in FIFINE best-sellers collection",
   "short_score": 8,
   "in_weekly": false
+ },
+ {
+  "pick": 56,
+  "date": "2026-11-20",
+  "category": "Beauty",
+  "name": "CeraVe Hydrating Facial Cleanser, 16 oz",
+  "asin": "B01MSSDEPK",
+  "asin_sources": [
+   "asinsight.com/report/US/cerave-hydrating-cleanser: 'CeraVe Hydrating Facial Cleanser, 16 oz', B01MSSDEPK, 4.7★ ~131.8K reviews, ~60K units/month",
+   "desertcart.nz/products/59184596: 'CeraVe Hydrating Facial Cleanser (16 oz)', ASIN B01MSSDEPK (+ filipinodoctors.org)"
+  ],
+  "amazon": "https://www.amazon.com/dp/B01MSSDEPK?tag=desksetuppi07-20",
+  "post": "https://smartpicksdaily-reviews.blogspot.com/2026/11/cerave-hydrating-cleanser-face-wash-dry.html",
+  "short": null,
+  "short_date": null,
+  "pin": null,
+  "job": "jobs/2026-11-20-cerave-hydrating-cleanser",
+  "sales_signal": "4.7★, ~130K ratings, ~60K bottles/month (asinsight); one of Amazon's top face washes",
+  "short_score": 8,
+  "in_weekly": false
+ },
+ {
+  "pick": 57,
+  "date": "2026-11-20",
+  "category": "Home & Kitchen",
+  "name": "Dreo Atom One Oscillating Ceramic Space Heater with Remote (Silver)",
+  "asin": "B097RG67QB",
+  "asin_sources": [
+   "asinsight.com/report/US/space-heaters-for-indoor-use: 'DREO 1500W PTC ceramic heater, remote, thermostat, 70° oscillation', B097RG67QB, 4.6★ 28.7K ratings, ~1K/month",
+   "desertcart.nz/products/373730509: 'Dreo Atom One' DR-HSH004-G Silver, ASIN B097RG67QB, 4.6★ 25.3K"
+  ],
+  "amazon": "https://www.amazon.com/dp/B097RG67QB?tag=desksetuppi07-20",
+  "post": "https://smartpicksdaily-reviews.blogspot.com/2026/11/dreo-atom-one-space-heater-fast-warmth.html",
+  "short": null,
+  "short_date": null,
+  "pin": null,
+  "job": "jobs/2026-11-20-dreo-atom-one-heater",
+  "sales_signal": "4.6★, ~28.7K ratings, ~1K/month; among top indoor space heaters (asinsight); PopSci best portable",
+  "short_score": 8,
+  "in_weekly": false
+ },
+ {
+  "pick": 58,
+  "date": "2026-11-20",
+  "category": "Beauty",
+  "name": "Physicians Formula Murumuru Butter Bronzer (Bronzer)",
+  "asin": "B018B8Q5Z6",
+  "asin_sources": [
+   "asinsight.com/report/US/physicians-formula-butter-bronzer: 'Physicians Formula Murumuru Butter Bronzer', B018B8Q5Z6, 4.6★ 42.7K ratings, ~7K/month",
+   "desertcart.kg/products/23133680: 'Physicians Formula Murumuru Butter Bronzer', ASIN B018B8Q5Z6, colour Bronzer, 4.6★ 42,282, #1 Face Bronzers"
+  ],
+  "amazon": "https://www.amazon.com/dp/B018B8Q5Z6?tag=desksetuppi07-20",
+  "post": "https://smartpicksdaily-reviews.blogspot.com/2026/11/physicians-formula-butter-bronzer-1.html",
+  "short": null,
+  "short_date": null,
+  "pin": null,
+  "job": "jobs/2026-11-20-physicians-formula-butter-bronzer",
+  "sales_signal": "#1 Face Bronzers, 4.6★, ~42K ratings, ~7K/month (asinsight/desertcart)",
+  "short_score": 8,
+  "in_weekly": false
  }
 ]
