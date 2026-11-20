@@ -41,6 +41,8 @@
     var a = document.createElement('a');
     a.href = '/p/black-friday-deals.html'; a.className = 'dspd-navlink'; a.textContent = 'Black Friday';
     nav.insertBefore(a, nav.firstChild);
+    var cta = document.querySelector('.nav-cta');
+    if (cta && window.innerWidth <= 640 && !/black-friday/.test(location.pathname)) { cta.href = '/p/black-friday-deals.html'; cta.textContent = 'Black Friday'; cta.style.background = '#d70015'; }
   }
 
   function esc(s) { return String(s || '').replace(/[&<>"']/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]; }); }
