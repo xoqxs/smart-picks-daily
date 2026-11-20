@@ -981,5 +981,65 @@
   "sales_signal": "4.4★, 13.2K ratings, ~7K sold/month (+40% MoM), $29.98 — asinsight wyze-camera report (#2 Shoppers' Top Picks); frequent Amazon deal posts on Slickdeals/9to5toys",
   "short_score": 7,
   "in_weekly": false
+ },
+ {
+  "pick": 50,
+  "date": "2026-11-20",
+  "category": "Beauty",
+  "name": "TruSkin Vitamin C Serum for Face, 2 fl oz",
+  "asin": "B01EKUBU5Y",
+  "asin_sources": [
+   "asinsight.com/report/US/truskin-vitamin-c-serum: B01EKUBU5Y 'TruSkin Vitamin C Serum for Face ... 2 Fl Oz' 4.4★, 156.1K ratings, ~40K sold/month",
+   "nullfake.com/analysis/B01EKUBU5Y/us: 'TruSkin Vitamin C Serum For Face' 2 fl oz"
+  ],
+  "amazon": "https://www.amazon.com/dp/B01EKUBU5Y?tag=desksetuppi07-20",
+  "post": "https://smartpicksdaily-reviews.blogspot.com/2026/11/truskin-vitamin-c-serum-review-gentle.html",
+  "short": null,
+  "short_date": null,
+  "pin": null,
+  "job": "jobs/2026-11-20-truskin-vitamin-c-serum",
+  "sales_signal": "4.4★, ~156K ratings, ~40K sold/month — asinsight (#3 in report); Shop TODAY 2024 best budget vitamin C serum",
+  "short_score": 8,
+  "in_weekly": false
+ },
+ {
+  "pick": 51,
+  "date": "2026-11-20",
+  "category": "Home & Kitchen",
+  "name": "GORILLA GRIP Reversible Kitchen Cutting Board Set of 3 (Black)",
+  "asin": "B01GP2MTXW",
+  "asin_sources": [
+   "asinsight.com/report/US/plastic-cutting-boards: #5 B01GP2MTXW 'GORILLA GRIP BPA-Free Reversible Kitchen Cutting Board Set of 3 ... Black' 4.6★, 51.9K ratings, ~8K/month",
+   "desertcart.com.sa/products/34158945: ASIN B01GP2MTXW 'GORILLA GRIP Reversible Kitchen Cutting Board Set' 16x11.2/13.8x9.6/11.8x8 in, 4.6★ 51,881 reviews"
+  ],
+  "amazon": "https://www.amazon.com/dp/B01GP2MTXW?tag=desksetuppi07-20",
+  "post": "https://smartpicksdaily-reviews.blogspot.com/2026/11/gorilla-grip-cutting-board-set-review-3.html",
+  "short": null,
+  "short_date": null,
+  "pin": null,
+  "job": "jobs/2026-11-20-gorilla-grip-cutting-boards",
+  "sales_signal": "4.6★, ~51.9K ratings, ~8K sold/month — asinsight #5 plastic cutting boards",
+  "short_score": 8,
+  "in_weekly": false
+ },
+ {
+  "pick": 52,
+  "date": "2026-11-20",
+  "category": "Beauty",
+  "name": "amika Soulfood Nourishing Hair Mask, 8 oz (250 ml)",
+  "asin": "B07H3GBSC3",
+  "asin_sources": [
+   "asinsight.com/report/US/amika-perk-up-dry-shampoo: B07H3GBSC3 'amika soulfood nourishing mask' 4.7★, 8.4K ratings, ~30K units/month",
+   "desertcart.co.th/products/88098402: 'Amika Soulfood Nourishing Mask' 250 ml (8.0 oz), ASIN B07H3GBSC3, 4.7★ 6,869 ratings, #13 Hair Treatment Masks (also desertcart.nz/products/154208025)"
+  ],
+  "amazon": "https://www.amazon.com/dp/B07H3GBSC3?tag=desksetuppi07-20",
+  "post": "https://smartpicksdaily-reviews.blogspot.com/2026/11/amika-soulfood-mask-review-silky-shiny.html",
+  "short": null,
+  "short_date": null,
+  "pin": null,
+  "job": "jobs/2026-11-20-amika-soulfood-mask",
+  "sales_signal": "4.7★, ~8.4K ratings, ~30K units/month (asinsight); #13 in Hair Treatment Masks (desertcart snapshot)",
+  "short_score": 9,
+  "in_weekly": false
  }
 ]
