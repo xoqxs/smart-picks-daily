@@ -97,6 +97,7 @@
 <link expr:href='&quot;https://raw.githubusercontent.com/xoqxs/smart-picks-daily/6b287ef4a2309fb04038726fd17124944e67b61d/site/og/default.jpg&quot;' rel='image_src'/></b:if>
 <b:elseif cond='data:view.url == &quot;https://www.yaypicks.com/p/black-friday-deals.html&quot;'/>
 <title><data:view.title.escaped/> | YayPicks</title>
+<b:if cond='data:blog.metaDescription'>
 <meta expr:content='data:blog.metaDescription' name='description'/>
 <meta content='website' property='og:type'/>
 <meta expr:content='data:view.title' property='og:title'/>
@@ -108,7 +109,20 @@
 <meta expr:content='&quot;https://raw.githubusercontent.com/xoqxs/smart-picks-daily/6b287ef4a2309fb04038726fd17124944e67b61d/site/og/black-friday.jpg&quot;' name='twitter:image'/>
 <link expr:href='&quot;https://raw.githubusercontent.com/xoqxs/smart-picks-daily/6b287ef4a2309fb04038726fd17124944e67b61d/site/og/black-friday.jpg&quot;' rel='image_src'/>
 <b:else/>
+<meta expr:content='&quot;Researched, easy-to-read reviews of top-rated Amazon bestsellers in tech, home &amp; kitchen and beauty.&quot;' name='description'/>
+<meta content='website' property='og:type'/>
+<meta expr:content='data:view.title' property='og:title'/>
+<meta expr:content='&quot;Researched, easy-to-read reviews of top-rated Amazon bestsellers in tech, home &amp; kitchen and beauty.&quot;' property='og:description'/>
+<meta expr:content='&quot;https://raw.githubusercontent.com/xoqxs/smart-picks-daily/6b287ef4a2309fb04038726fd17124944e67b61d/site/og/black-friday.jpg&quot;' property='og:image'/>
+<meta expr:content='data:view.title' property='og:image:alt'/>
+<meta expr:content='data:view.title' name='twitter:title'/>
+<meta expr:content='&quot;Researched, easy-to-read reviews of top-rated Amazon bestsellers in tech, home &amp; kitchen and beauty.&quot;' name='twitter:description'/>
+<meta expr:content='&quot;https://raw.githubusercontent.com/xoqxs/smart-picks-daily/6b287ef4a2309fb04038726fd17124944e67b61d/site/og/black-friday.jpg&quot;' name='twitter:image'/>
+<link expr:href='&quot;https://raw.githubusercontent.com/xoqxs/smart-picks-daily/6b287ef4a2309fb04038726fd17124944e67b61d/site/og/black-friday.jpg&quot;' rel='image_src'/>
+</b:if>
+<b:else/>
 <title><data:view.title.escaped/> | YayPicks</title>
+<b:if cond='data:blog.metaDescription'>
 <meta expr:content='data:blog.metaDescription' name='description'/>
 <meta content='website' property='og:type'/>
 <meta expr:content='data:view.title' property='og:title'/>
@@ -119,6 +133,18 @@
 <meta expr:content='data:blog.metaDescription' name='twitter:description'/>
 <meta expr:content='&quot;https://raw.githubusercontent.com/xoqxs/smart-picks-daily/6b287ef4a2309fb04038726fd17124944e67b61d/site/og/default.jpg&quot;' name='twitter:image'/>
 <link expr:href='&quot;https://raw.githubusercontent.com/xoqxs/smart-picks-daily/6b287ef4a2309fb04038726fd17124944e67b61d/site/og/default.jpg&quot;' rel='image_src'/>
+<b:else/>
+<meta expr:content='&quot;Researched, easy-to-read reviews of top-rated Amazon bestsellers in tech, home &amp; kitchen and beauty.&quot;' name='description'/>
+<meta content='website' property='og:type'/>
+<meta expr:content='data:view.title' property='og:title'/>
+<meta expr:content='&quot;Researched, easy-to-read reviews of top-rated Amazon bestsellers in tech, home &amp; kitchen and beauty.&quot;' property='og:description'/>
+<meta expr:content='&quot;https://raw.githubusercontent.com/xoqxs/smart-picks-daily/6b287ef4a2309fb04038726fd17124944e67b61d/site/og/default.jpg&quot;' property='og:image'/>
+<meta expr:content='data:view.title' property='og:image:alt'/>
+<meta expr:content='data:view.title' name='twitter:title'/>
+<meta expr:content='&quot;Researched, easy-to-read reviews of top-rated Amazon bestsellers in tech, home &amp; kitchen and beauty.&quot;' name='twitter:description'/>
+<meta expr:content='&quot;https://raw.githubusercontent.com/xoqxs/smart-picks-daily/6b287ef4a2309fb04038726fd17124944e67b61d/site/og/default.jpg&quot;' name='twitter:image'/>
+<link expr:href='&quot;https://raw.githubusercontent.com/xoqxs/smart-picks-daily/6b287ef4a2309fb04038726fd17124944e67b61d/site/og/default.jpg&quot;' rel='image_src'/>
+</b:if>
 </b:if>
 <b:if cond='data:view.isHomepage'>
 <script type='application/ld+json'>{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.yaypicks.com/#org","name":"YayPicks","url":"https://www.yaypicks.com/","logo":{"@type":"ImageObject","url":"https://raw.githubusercontent.com/xoqxs/smart-picks-daily/6b287ef4a2309fb04038726fd17124944e67b61d/brand/yaypicks-mark-1024.png","width":1024,"height":1024},"sameAs":["https://www.youtube.com/channel/UCxv_aGQCfArHi1rrwjBOPPw","https://www.pinterest.com/smartpicksdailyfinds/","https://www.tiktok.com/@smartpicksdailyfinds"]},{"@type":"WebSite","@id":"https://www.yaypicks.com/#website","url":"https://www.yaypicks.com/","name":"YayPicks","publisher":{"@id":"https://www.yaypicks.com/#org"},"potentialAction":{"@type":"SearchAction","target":"https://www.yaypicks.com/search?q={search_term_string}","query-input":"required name=search_term_string"}}]}</script>
