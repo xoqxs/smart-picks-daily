@@ -1,0 +1,29 @@
+{
+ "slug": "2026-11-20-gorilla-grip-cutting-boards",
+ "pick": 51,
+ "category": "Home & Kitchen",
+ "asin": "B01GP2MTXW",
+ "name": "Gorilla Grip Cutting Board Set of 3",
+ "credit": "Image: Gorilla Grip",
+ "pin": {
+  "image": "kv",
+  "crop": [
+   748,
+   750,
+   1490
+  ],
+  "headline": "3 Boards, One Easy Cleanup",
+  "sub": "3 Sizes \u00b7 Juice Grooves \u00b7 Rubber Grip \u00b7 Dishwasher",
+  "badge": {
+   "text": "3 sizes",
+   "xy": [
+    560,
+    370
+   ]
+  },
+  "button": "See it on Amazon \u2192"
+ },
+ "images": {
+  "kv": "img/kv.jpg"
+ }
+}

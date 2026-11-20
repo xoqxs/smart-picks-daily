@@ -1,0 +1,29 @@
+{
+ "slug": "2026-11-20-truskin-vitamin-c-serum",
+ "pick": 50,
+ "category": "Beauty",
+ "asin": "B01EKUBU5Y",
+ "name": "TruSkin Vitamin C Serum (2 fl oz)",
+ "credit": "Image: TruSkin",
+ "pin": {
+  "image": "kv",
+  "crop": [
+   1024,
+   1050,
+   1990
+  ],
+  "headline": "Vitamin C Glow in 3 Drops",
+  "sub": "Brightening \u00b7 Lightweight \u00b7 No Added Fragrance",
+  "badge": {
+   "text": "2 oz",
+   "xy": [
+    680,
+    1120
+   ]
+  },
+  "button": "See it on Amazon \u2192"
+ },
+ "images": {
+  "kv": "img/kv.jpg"
+ }
+}

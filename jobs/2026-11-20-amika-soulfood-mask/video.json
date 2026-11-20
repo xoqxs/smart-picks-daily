@@ -1,0 +1,29 @@
+{
+ "slug": "2026-11-20-amika-soulfood-mask",
+ "pick": 52,
+ "category": "Beauty",
+ "asin": "B07H3GBSC3",
+ "name": "amika Soulfood Nourishing Mask (8 oz)",
+ "credit": "Image: amika",
+ "pin": {
+  "image": "kv",
+  "crop": [
+   1000,
+   1000,
+   1700
+  ],
+  "headline": "Silky Hair in 5 Minutes",
+  "sub": "Jojoba \u00b7 Sea Buckthorn \u00b7 Color-Safe \u00b7 Vegan",
+  "badge": {
+   "text": "8 oz",
+   "xy": [
+    650,
+    1090
+   ]
+  },
+  "button": "See it on Amazon \u2192"
+ },
+ "images": {
+  "kv": "img/kv.jpg"
+ }
+}
