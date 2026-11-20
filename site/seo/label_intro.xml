@@ -1,0 +1,6 @@
+      <h2><b:if cond='data:view.isHomepage'>Latest picks<b:else/><data:view.title.escaped/></b:if></h2>
+      <a href='/p/about.html'>How we pick &#8250;</a>
+    </div>
+    <b:if cond='data:view.isLabelSearch'>
+      <p class='label-intro'><b:if cond='data:view.search.label == &quot;Tech&quot;'>Tech picks worth your money: headphones, speakers, chargers, desk gear and smart-home gadgets that buyers rate highly. Each review explains who it suits, the standout features and what to know before you buy.<b:elseif cond='data:view.search.label == &quot;Home &amp; Kitchen&quot;'/>Home and kitchen favorites: small appliances, cookware, coffee gear and home-care helpers with strong buyer ratings. Each review covers who it suits, what makes it stand out and practical tips.<b:elseif cond='data:view.search.label == &quot;Beauty&quot;'/>Beauty bestsellers, explained: skincare, hair care and makeup that people keep rebuying. Each review covers skin or hair types it suits, how to use it and what to know first.<b:elseif cond='data:view.search.label == &quot;Buying Guides&quot;'/>All of our buying guides in one place: researched reviews of top-rated Amazon bestsellers across tech, home and beauty.<b:else/>Our <data:view.search.label/> picks: researched reviews of top-rated Amazon bestsellers, with who each one suits and what to know before you buy.</b:if></p>
+    </b:if>

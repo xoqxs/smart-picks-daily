@@ -1,0 +1,15 @@
+    <article class='article'>
+      <div class='crumbs' itemscope='itemscope' itemtype='https://schema.org/BreadcrumbList'><span itemprop='itemListElement' itemscope='itemscope' itemtype='https://schema.org/ListItem'><a expr:href='data:blog.homepageUrl' itemprop='item'><span itemprop='name'>Home</span></a><meta content='1' itemprop='position'/></span><b:loop values='data:post.labels where (l =&gt; l.name == &quot;Tech&quot; or l.name == &quot;Home &amp; Kitchen&quot; or l.name == &quot;Beauty&quot;)' var='l'> &#8250; <span itemprop='itemListElement' itemscope='itemscope' itemtype='https://schema.org/ListItem'><a expr:href='data:l.url' itemprop='item'><span itemprop='name'><data:l.name/></span></a><meta content='2' itemprop='position'/></span></b:loop><b:loop values='data:post.labels where (l =&gt; l.name != &quot;Tech&quot; and l.name != &quot;Home &amp; Kitchen&quot; and l.name != &quot;Beauty&quot; and l.name != &quot;Buying Guides&quot;)' var='l'> &#8250; <span itemprop='itemListElement' itemscope='itemscope' itemtype='https://schema.org/ListItem'><a expr:href='data:l.url' itemprop='item'><span itemprop='name'><data:l.name/></span></a><meta content='3' itemprop='position'/></span></b:loop></div>
+      <b:if cond='data:view.isPost'>
+      <div itemscope='itemscope' itemtype='https://schema.org/BlogPosting' style='display:none'>
+        <link expr:href='data:post.url.canonical' itemprop='mainEntityOfPage'/>
+        <meta expr:content='data:post.title' itemprop='headline'/>
+        <meta expr:content='data:view.description ?: data:post.snippets.short' itemprop='description'/>
+        <meta expr:content='data:post.date.iso8601' itemprop='datePublished'/>
+        <meta expr:content='data:post.lastUpdated.iso8601' itemprop='dateModified'/>
+        <b:if cond='data:post.featuredImage'><link expr:href='data:post.featuredImage' itemprop='image'/></b:if>
+        <span itemprop='author' itemscope='itemscope' itemtype='https://schema.org/Organization'><meta content='YayPicks' itemprop='name'/><link href='https://www.yaypicks.com/p/about.html' itemprop='url'/></span>
+        <span itemprop='publisher' itemscope='itemscope' itemtype='https://schema.org/Organization'><meta content='YayPicks' itemprop='name'/><link href='https://www.yaypicks.com/' itemprop='url'/><span itemprop='logo' itemscope='itemscope' itemtype='https://schema.org/ImageObject'><link href='https://cdn.jsdelivr.net/gh/xoqxs/smart-picks-daily@6b287ef4a2309fb04038726fd17124944e67b61d/brand/yaypicks-mark-1024.png' itemprop='url'/></span></span>
+      </div>
+      </b:if>
+      <h1><data:post.title/></h1>
