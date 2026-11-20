@@ -1,0 +1,29 @@
+{
+ "slug": "2026-11-20-fifine-ampligame-a6v",
+ "pick": 55,
+ "category": "Tech",
+ "asin": "B09JG62KDJ",
+ "name": "FIFINE AmpliGame A6V USB Microphone",
+ "credit": "Image: FIFINE",
+ "pin": {
+  "image": "kv",
+  "crop": [
+   800,
+   800,
+   1580
+  ],
+  "headline": "Sound Clear on Discord",
+  "sub": "USB Plug & Play · Touch Mute · RGB",
+  "badge": {
+   "text": "USB",
+   "xy": [
+    90,
+    1080
+   ]
+  },
+  "button": "See it on Amazon →"
+ },
+ "images": {
+  "kv": "img/kv.jpg"
+ }
+}

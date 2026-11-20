@@ -1,0 +1,29 @@
+{
+ "slug": "2026-11-20-jbl-go-4",
+ "pick": 53,
+ "category": "Tech",
+ "asin": "B0CTNWBT1Z",
+ "name": "JBL Go 4 Portable Bluetooth Speaker",
+ "credit": "Image: JBL",
+ "pin": {
+  "image": "kv",
+  "crop": [
+   800,
+   820,
+   1500
+  ],
+  "headline": "Pocket Speaker, Big Sound",
+  "sub": "IP67 Waterproof · App EQ · Auracast",
+  "badge": {
+   "text": "IP67",
+   "xy": [
+    690,
+    1060
+   ]
+  },
+  "button": "See it on Amazon →"
+ },
+ "images": {
+  "kv": "img/kv.jpg"
+ }
+}

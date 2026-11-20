@@ -1,0 +1,29 @@
+{
+ "slug": "2026-11-20-thermopro-tp19h",
+ "pick": 54,
+ "category": "Home & Kitchen",
+ "asin": "B07XXSYLL8",
+ "name": "ThermoPro TP19H Instant-Read Thermometer",
+ "credit": "Image: TempPro (formerly ThermoPro)",
+ "pin": {
+  "image": "kv",
+  "crop": [
+   1000,
+   1000,
+   1960
+  ],
+  "headline": "No More Guessing If It's Done",
+  "sub": "Backlit · Flips for Lefties · Magnet",
+  "badge": {
+   "text": "±0.9°F",
+   "xy": [
+    600,
+    1080
+   ]
+  },
+  "button": "See it on Amazon →"
+ },
+ "images": {
+  "kv": "img/kv.jpg"
+ }
+}
