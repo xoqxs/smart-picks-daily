@@ -1219,5 +1219,47 @@
   "short_score": 8,
   "in_weekly": false,
   "sub": "Makeup"
+ },
+ {
+  "pick": 59,
+  "date": "2026-11-20",
+  "category": "Tech",
+  "name": "Logitech MK270 Wireless Keyboard and Mouse Combo (Black)",
+  "asin": "B079JLY5M5",
+  "asin_sources": [
+   "asinsight.com/report/US/wireless-mouse-and-keyboard-combo: #3 'Logitech MK270 Wireless Keyboard and Mouse Combo (Black)', B079JLY5M5, 4.5★ 109.9K ratings, ~10K/month",
+   "desertcart.sg/products/70680049: 'Logitech MK270 Wireless Keyboard and Mouse Combo', ASIN B079JLY5M5, 4.4★ 116,635"
+  ],
+  "amazon": "https://www.amazon.com/dp/B079JLY5M5?tag=desksetuppi07-20",
+  "post": "https://www.yaypicks.com/2026/11/logitech-mk270-review-easy-wireless.html",
+  "short": null,
+  "short_date": null,
+  "pin": null,
+  "job": "jobs/2026-11-20-logitech-mk270-combo",
+  "sales_signal": "Top-3 wireless keyboard & mouse combo (asinsight), 4.5★, ~110K ratings, ~10K/month",
+  "short_score": 7,
+  "in_weekly": false,
+  "sub": "Computer Accessories"
+ },
+ {
+  "pick": 60,
+  "date": "2026-11-20",
+  "category": "Tech",
+  "name": "soundcore P30i by Anker Noise Cancelling Earbuds (Black)",
+  "asin": "B0CRTYZG5C",
+  "asin_sources": [
+   "asinsight.com/report/US/ear-buds-wireless: #3 'Soundcore P30i by Anker Noise Cancelling Earbuds', B0CRTYZG5C, 4.4★ 34.3K ratings, ~10K/month",
+   "desertcart.nz/products/628591415: 'Soundcore P30i by Anker Noise Cancelling Earbuds' (A3959), ASIN B0CRTYZG5C, 4.4★ 23,357"
+  ],
+  "amazon": "https://www.amazon.com/dp/B0CRTYZG5C?tag=desksetuppi07-20",
+  "post": "https://www.yaypicks.com/2026/11/soundcore-p30i-review-budget-anc.html",
+  "short": null,
+  "short_date": null,
+  "pin": null,
+  "job": "jobs/2026-11-20-soundcore-p30i",
+  "sales_signal": "Top-3 wireless earbuds (asinsight), 4.4★, ~34K ratings, ~10K/month",
+  "short_score": 8,
+  "in_weekly": false,
+  "sub": "Headphones & Speakers"
  }
 ]
