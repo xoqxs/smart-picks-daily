@@ -1,0 +1,29 @@
+{
+ "slug": "2026-11-20-soundcore-p30i",
+ "pick": 60,
+ "category": "Tech",
+ "asin": "B0CRTYZG5C",
+ "name": "soundcore P30i Noise Cancelling Earbuds",
+ "credit": "Image: soundcore (Anker)",
+ "pin": {
+  "image": "kv",
+  "crop": [
+   600,
+   600,
+   1200
+  ],
+  "headline": "ANC Earbuds, Big Bass",
+  "sub": "Adaptive ANC \u00b7 45H Battery \u00b7 Phone Stand Case",
+  "badge": {
+   "text": "ANC",
+   "xy": [
+    700,
+    380
+   ]
+  },
+  "button": "See it on Amazon \u2192"
+ },
+ "images": {
+  "kv": "img/kv.jpg"
+ }
+}

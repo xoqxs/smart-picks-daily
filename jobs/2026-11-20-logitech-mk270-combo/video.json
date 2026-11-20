@@ -1,0 +1,29 @@
+{
+ "slug": "2026-11-20-logitech-mk270-combo",
+ "pick": 59,
+ "category": "Tech",
+ "asin": "B079JLY5M5",
+ "name": "Logitech MK270 Wireless Keyboard and Mouse Combo",
+ "credit": "Image: Logitech",
+ "pin": {
+  "image": "kv",
+  "crop": [
+   800,
+   600,
+   1200
+  ],
+  "headline": "Desk Upgrade in 60 Seconds",
+  "sub": "Full-size keys \u00b7 1 receiver \u00b7 Long battery life",
+  "badge": {
+   "text": "2-in-1",
+   "xy": [
+    640,
+    1080
+   ]
+  },
+  "button": "See it on Amazon \u2192"
+ },
+ "images": {
+  "kv": "img/kv.jpg"
+ }
+}
