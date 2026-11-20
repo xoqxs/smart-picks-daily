@@ -1261,5 +1261,26 @@
   "short_score": 8,
   "in_weekly": false,
   "sub": "Headphones & Speakers"
+ },
+ {
+  "pick": 61,
+  "date": "2026-11-20",
+  "category": "Home & Kitchen",
+  "name": "COSORI Original Electric Gooseneck Kettle (CO108-NK, Black)",
+  "asin": "B07T1CH2HH",
+  "asin_sources": [
+   "apartmenttherapy.com/cosori-electric-gooseneck-kettle-review-36887988: 'COSORI Electric Gooseneck Kettle' review links amazon /gp/product/B07T1CH2HH",
+   "desertcart.pl/products/140172269 (+ .nz): 'COSORI Electric Gooseneck Kettle CO108-NK', ASIN B07T1CH2HH, 4.6★ 19,103, #10 Electric Kettles"
+  ],
+  "amazon": "https://www.amazon.com/dp/B07T1CH2HH?tag=desksetuppi07-20",
+  "post": "https://www.yaypicks.com/2026/11/cosori-gooseneck-kettle-review-precise.html",
+  "short": null,
+  "short_date": null,
+  "pin": null,
+  "job": "jobs/2026-11-20-cosori-gooseneck-kettle",
+  "sales_signal": "#10–13 Electric Kettles, 4.6★, ~19K ratings (desertcart)",
+  "short_score": 8,
+  "in_weekly": false,
+  "sub": "Drinkware & Coffee"
  }
 ]
