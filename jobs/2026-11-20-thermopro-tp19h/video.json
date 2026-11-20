@@ -25,5 +25,136 @@
  },
  "images": {
   "kv": "img/kv.jpg"
- }
+ },
+ "scenes": [
+  {
+   "type": "card",
+   "image": "kv",
+   "from": [
+    1000,
+    1000,
+    2000
+   ],
+   "to": [
+    1100,
+    820,
+    1600
+   ],
+   "line": "Still cutting into the turkey to see if it's done? This thermometer is number one in its Amazon category, with fifty-four thousand ratings.",
+   "hl": [
+    "turkey",
+    "done?",
+    "number",
+    "one",
+    "fifty-four",
+    "thousand"
+   ]
+  },
+  {
+   "type": "card",
+   "image": "kv",
+   "from": [
+    1150,
+    900,
+    1700
+   ],
+   "to": [
+    1150,
+    850,
+    1500
+   ],
+   "line": "Meet the ThermoPro T P nineteen H: a two-inch backlit screen, accurate to within zero point nine degrees.",
+   "hl": [
+    "ThermoPro",
+    "backlit",
+    "zero",
+    "point",
+    "nine"
+   ],
+   "badge": {
+    "big": "±0.9°F",
+    "small": "accuracy"
+   },
+   "chips": [
+    "Backlit",
+    "-58–572°F",
+    "IP65"
+   ]
+  },
+  {
+   "type": "card",
+   "image": "kv",
+   "from": [
+    1050,
+    900,
+    1600
+   ],
+   "to": [
+    1000,
+    1000,
+    2000
+   ],
+   "line": "The screen flips for lefties, it wakes when you pick it up, and the magnet keeps it right on the fridge. Great for grillers and holiday hosts.",
+   "hl": [
+    "flips",
+    "lefties,",
+    "wakes",
+    "magnet",
+    "holiday"
+   ],
+   "chips": [
+    "Lefty flip",
+    "Auto wake",
+    "Magnet"
+   ]
+  },
+  {
+   "type": "tip",
+   "title": "PRO TIP",
+   "boxes": [
+    [
+     "Thick",
+     "part"
+    ],
+    [
+     "No",
+     "bone"
+    ],
+    [
+     "Poultry",
+     "165°F"
+    ]
+   ],
+   "note": "USDA: 165°F for all poultry, 145°F + 3-min rest for whole cuts.",
+   "line": "Pro tip: aim for the thickest part, away from the bone. Poultry is done at one hundred sixty-five degrees.",
+   "hl": [
+    "thickest",
+    "bone.",
+    "one",
+    "hundred",
+    "sixty-five"
+   ]
+  },
+  {
+   "type": "cta",
+   "image": "kv",
+   "from": [
+    1100,
+    850,
+    1600
+   ],
+   "to": [
+    1000,
+    1000,
+    2000
+   ],
+   "line": "It's pick number fifty-four. Find the link on our channel, under Video Picks.",
+   "hl": [
+    "fifty-four.",
+    "channel,",
+    "Video",
+    "Picks."
+   ]
+  }
+ ]
 }
