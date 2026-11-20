@@ -34,7 +34,7 @@ d.rounded_rectangle([(W - tw) / 2 - 50, y, (W + tw) / 2 + 50, y + 150], 75, fill
 d.text(((W - tw) / 2, y + 18), t, font=f1, fill=BG)
 t2 = f"Pick #{pick} · full review + link"
 d.text(((W - d.textlength(t2, font=f2)) / 2, y + 190), t2, font=f2, fill=(255, 255, 255))
-t3 = "smartpicksdaily-reviews.blogspot.com"
+t3 = "yaypicks.com"
 d.text(((W - d.textlength(t3, font=f3)) / 2, y + 270), t3, font=f3, fill=GREY)
 cardp = os.path.join(tmp, "end.png")
 card.save(cardp)

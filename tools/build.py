@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Smart Picks Daily - build one vertical Short from jobs/<slug>/video.json.
+"""YayPicks - build one vertical Short from jobs/<slug>/video.json.
 
 Usage:
   python3 tools/build.py jobs/<slug>            # voice + render + mix -> v/<slug>.mp4
@@ -103,7 +103,7 @@ class Video:
         total = sum(self.dur); done = sum(self.dur[:i]) + t
         d.rounded_rectangle([60, 120, W - 60, 128], 4, fill=(40, 46, 58))
         d.rounded_rectangle([60, 120, 60 + (W - 120) * min(1, done / total), 128], 4, fill=LIME)
-        f = XB(40); d.text((60, 160), "SMART PICKS DAILY", font=f, fill=GREY)
+        f = XB(40); d.text((60, 160), "YAYPICKS", font=f, fill=GREY)
         s = "#ad"; d.text((W - 60 - d.textlength(s, font=f), 160), s, font=f, fill=GREY)
         return im
 
