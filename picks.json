@@ -1041,5 +1041,65 @@
   "sales_signal": "4.7★, ~8.4K ratings, ~30K units/month (asinsight); #13 in Hair Treatment Masks (desertcart snapshot)",
   "short_score": 9,
   "in_weekly": false
+ },
+ {
+  "pick": 53,
+  "date": "2026-11-20",
+  "category": "Tech",
+  "name": "JBL Go 4 Portable Bluetooth Speaker (Black)",
+  "asin": "B0CTNWBT1Z",
+  "asin_sources": [
+   "slickdeals.net/f/18211000: 'JBL Go 4 Portable Bluetooth Speaker, Waterproof, Black' → amazon.com/gp/product/B0CTNWBT1Z",
+   "desertcart.nz/products/735616872: B0CTNWBT1Z 'JBL Go 4 - Ultra-Portable, Waterproof and Dustproof Bluetooth Speaker (Black)', 4.8★ 12,518 ratings, #1 Portable Bluetooth Speakers"
+  ],
+  "amazon": "https://www.amazon.com/dp/B0CTNWBT1Z?tag=desksetuppi07-20",
+  "post": "https://smartpicksdaily-reviews.blogspot.com/2026/11/jbl-go-4-review-pocket-speaker-that.html",
+  "short": null,
+  "short_date": null,
+  "pin": null,
+  "job": "jobs/2026-11-20-jbl-go-4",
+  "sales_signal": "4.8★, ~12.5K ratings, #1 in Portable Bluetooth Speakers, #35 in Electronics (desertcart snapshot)",
+  "short_score": 9,
+  "in_weekly": false
+ },
+ {
+  "pick": 54,
+  "date": "2026-11-20",
+  "category": "Home & Kitchen",
+  "name": "ThermoPro TP19H Instant-Read Meat Thermometer (Bright Orange)",
+  "asin": "B07XXSYLL8",
+  "asin_sources": [
+   "desertcart.tw/products/171808686: 'TP19H Digital Meat Thermometer ... (Previously ThermoPro)', ASIN B07XXSYLL8, Bright-orange, 4.7★ 54,499 ratings, #1 Candy Thermometers & Timers, #24 Kitchen & Dining",
+   "talkofthehouse.com/?p=16880: 'TempPro (ThermoPro) TP19H' → amazon.com/dp/B07XXSYLL8, 4.7★ 54K+ reviews (also homebrewfinds.com/634057)"
+  ],
+  "amazon": "https://www.amazon.com/dp/B07XXSYLL8?tag=desksetuppi07-20",
+  "post": "https://smartpicksdaily-reviews.blogspot.com/2026/11/thermopro-tp19h-review-easy-read-meat.html",
+  "short": null,
+  "short_date": null,
+  "pin": null,
+  "job": "jobs/2026-11-20-thermopro-tp19h",
+  "sales_signal": "4.7★, ~54.5K ratings, #1 Candy Thermometers & Timers, #24–27 Kitchen & Dining (desertcart, Talk of the House)",
+  "short_score": 8,
+  "in_weekly": false
+ },
+ {
+  "pick": 55,
+  "date": "2026-11-20",
+  "category": "Tech",
+  "name": "FIFINE AmpliGame A6V USB Gaming Microphone (Black, tripod)",
+  "asin": "B09JG62KDJ",
+  "asin_sources": [
+   "desertcart.com.ar/products/377559602: 'FIFINE AmpliGame A6V USB condenser microphone', ASIN B09JG62KDJ, 4.6★ 13,781 ratings, #2 Vocal Condenser Microphones (also desertcart.sg 378242264)",
+   "specpicks.com/product/B09JG62KDJ: 'FIFINE Gaming USB Microphone for PC PS5', Black (+ nullfake.com/amazon/us/B09JG62KDJ '... AmpliGame')"
+  ],
+  "amazon": "https://www.amazon.com/dp/B09JG62KDJ?tag=desksetuppi07-20",
+  "post": "https://smartpicksdaily-reviews.blogspot.com/2026/11/fifine-ampligame-a6v-review-plug-and.html",
+  "short": null,
+  "short_date": null,
+  "pin": null,
+  "job": "jobs/2026-11-20-fifine-ampligame-a6v",
+  "sales_signal": "4.6★, ~13.8K ratings, #2 Vocal Condenser Microphones (desertcart snapshot); in FIFINE best-sellers collection",
+  "short_score": 8,
+  "in_weekly": false
  }
 ]
