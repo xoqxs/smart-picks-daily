@@ -1,0 +1,29 @@
+{
+ "slug": "2026-11-20-cosori-gooseneck-kettle",
+ "pick": 61,
+ "category": "Home & Kitchen",
+ "asin": "B07T1CH2HH",
+ "name": "COSORI Original Electric Gooseneck Kettle",
+ "credit": "Image: COSORI",
+ "pin": {
+  "image": "kv",
+  "crop": [
+   1000,
+   1000,
+   2000
+  ],
+  "headline": "Perfect Pour-Over Kettle",
+  "sub": "5 Presets \u00b7 1-Hr Keep Warm \u00b7 1200W",
+  "badge": {
+   "text": "0.8 L",
+   "xy": [
+    700,
+    370
+   ]
+  },
+  "button": "See it on Amazon \u2192"
+ },
+ "images": {
+  "kv": "img/kv.jpg"
+ }
+}
