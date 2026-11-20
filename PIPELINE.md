@@ -149,3 +149,8 @@ Captcha, kimlik doğrulama, giriş isteme, telif/politika uyarısı, yükleme s�
 - Blogun yeni adresi **https://www.yaypicks.com** (Namecheap, BasicDNS; A @ → 216.239.32/34/36/38.21, CNAME www → ghs.google.com, doğrulama CNAME n22jwt77wbk5). Blogger özel alan adı kayıtlı, "yaypicks.com → www" yönlendirmesi açık, HTTPS sertifikası Google tarafından hazırlanıyor.
 - Eski smartpicksdaily-reviews.blogspot.com adresleri Blogger tarafından otomatik olarak www.yaypicks.com'a yönlenir; mevcut pinler/linkler bozulmaz. HTTPS etkinleşince (Blogger Ayarlar → HTTPS kullanılabilirliği: "Kullanılabilir") YENİ içeriklerde (pin linki, Short açıklaması, TikTok bio, Video Picks) `https://www.yaypicks.com/...` kullan. Blogger yayın URL'lerinde yalnızca alan adı değişir (yol aynı).
 - Namecheap'te yaypicks.com için "Stellar" hosting denemesi var (19 Aralık'ta biter); kullanılmıyor, DNS'i ona bağlı DEĞİL. Hosting'e ve DNS'e başka görev DOKUNMAZ.
+
+## ALT KATEGORİLER (Kadir Bey 20 Kasım 2026)
+- Her ürünün picks.json kaydında `sub` alanı ve Blogger'da 3 etiket olur: ana kategori (Electronics / Home & Kitchen / Beauty) + alt kategori + "Buying Guides".
+- Alt kategoriler (YALNIZCA bunlar; yeni alt kategori açmak için en az 3 ürün gerekir, Kadir Bey'e sor): Electronics → "Headphones & Speakers", "Computer Accessories", "Gadgets & Smart Home"; Home & Kitchen → "Kitchen Appliances", "Cookware & Kitchen Tools", "Drinkware & Coffee", "Home Care & Comfort"; Beauty → "Skincare", "Hair Care", "Makeup".
+- Ana sayfadaki kategori ızgarası ve menü bu etiketlere link verir (/search/label/<etiket>). Etiket yazımı birebir aynı olmalı.

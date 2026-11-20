@@ -15,7 +15,8 @@
   "pin": "https://www.pinterest.com/pin/264164334389194297/",
   "job": "jobs/2026-11-15-ugreen-nexode-air-65w",
   "in_weekly": false,
-  "short_date": "2026-11-15"
+  "short_date": "2026-11-15",
+  "sub": "Gadgets & Smart Home"
  },
  {
   "pick": 2,
@@ -35,7 +36,8 @@
   "job": "jobs/2026-11-15-laneige-lip-sleeping-mask",
   "sales_signal": "4.6★, 37K reviews, ~70K bought/month (asinsight est.)",
   "short_score": 8,
-  "in_weekly": false
+  "in_weekly": false,
+  "sub": "Skincare"
  },
  {
   "pick": 3,
@@ -55,7 +57,8 @@
   "job": "jobs/2026-11-15-ninja-af101-air-fryer",
   "sales_signal": "4.7★, 59.4K reviews, ~5K bought/month (asinsight est.)",
   "short_score": 8,
-  "in_weekly": false
+  "in_weekly": false,
+  "sub": "Kitchen Appliances"
  },
  {
   "pick": 4,
@@ -75,7 +78,8 @@
   "job": "jobs/2026-11-15-logitech-g502-hero",
   "sales_signal": "4.6★, 58.4K reviews, ~10K bought/month (asinsight est.)",
   "short_score": 7,
-  "in_weekly": false
+  "in_weekly": false,
+  "sub": "Computer Accessories"
  },
  {
   "pick": 5,
@@ -95,7 +99,8 @@
   "job": "jobs/2026-11-15-laneige-lip-glowy-balm",
   "sales_signal": "4.7★, 19.6K reviews, ~90K bought/month (asinsight est.)",
   "short_score": 9,
-  "in_weekly": false
+  "in_weekly": false,
+  "sub": "Skincare"
  },
  {
   "pick": 6,
@@ -115,7 +120,8 @@
   "job": "jobs/2026-11-15-olaplex-no7-bonding-oil",
   "sales_signal": "4.7★, 60.8K reviews, ~70K bought/month (asinsight est.)",
   "short_score": 8,
-  "in_weekly": false
+  "in_weekly": false,
+  "sub": "Hair Care"
  },
  {
   "pick": 7,
@@ -135,7 +141,8 @@
   "job": "jobs/2026-11-15-lodge-cast-iron-skillet",
   "sales_signal": "4.6★, 144K reviews, ~6K bought/month (asinsight est.)",
   "short_score": 7,
-  "in_weekly": false
+  "in_weekly": false,
+  "sub": "Cookware & Kitchen Tools"
  },
  {
   "pick": 8,
@@ -155,7 +162,8 @@
   "job": "jobs/2026-11-15-anker-power-bank-20k-87w",
   "sales_signal": "4.6★, 8K reviews, ~10K bought/month (asinsight est.)",
   "short_score": 9,
-  "in_weekly": false
+  "in_weekly": false,
+  "sub": "Gadgets & Smart Home"
  },
  {
   "pick": 9,
@@ -175,7 +183,8 @@
   "job": "jobs/2026-11-15-color-wow-dream-coat",
   "sales_signal": "4.3★, 109.7K reviews, ~100K bought/month (asinsight est.)",
   "short_score": 8,
-  "in_weekly": false
+  "in_weekly": false,
+  "sub": "Hair Care"
  },
  {
   "pick": 10,
@@ -195,7 +204,8 @@
   "job": "jobs/2026-11-15-elf-power-grip-primer",
   "sales_signal": "4.6★, 40.1K reviews, ~40K bought/month (asinsight est.)",
   "short_score": 8,
-  "in_weekly": false
+  "in_weekly": false,
+  "sub": "Makeup"
  },
  {
   "pick": 11,
@@ -215,7 +225,8 @@
   "job": "jobs/2026-11-15-dash-rapid-egg-cooker",
   "sales_signal": "4.6★, 136.3K reviews (all colors), ~10K bought/month (asinsight est.)",
   "short_score": 8,
-  "in_weekly": false
+  "in_weekly": false,
+  "sub": "Kitchen Appliances"
  },
  {
   "pick": 12,
@@ -235,7 +246,8 @@
   "job": "jobs/2026-11-15-jbl-clip-5",
   "sales_signal": "4.7★, 8.1K reviews, ~5K bought/month (asinsight est.)",
   "short_score": 7,
-  "in_weekly": false
+  "in_weekly": false,
+  "sub": "Headphones & Speakers"
  },
  {
   "pick": 13,
@@ -255,7 +267,8 @@
   "job": "jobs/2026-11-16-maybelline-sky-high",
   "sales_signal": "4.5★, ~187K reviews, ~70K units/month, #1 of 115 tracked Sky High listings (ASINsight); 80K+ bought in past month (Slickdeals snapshot, Jan 2026)",
   "short_score": 9,
-  "in_weekly": false
+  "in_weekly": false,
+  "sub": "Makeup"
  },
  {
   "pick": 14,
@@ -276,7 +289,8 @@
   "job": "jobs/2026-11-16-bissell-little-green",
   "sales_signal": "4.5★, 92K+ ratings, #1 in Carpet & Upholstery Cleaning Machines, #23 in Home & Kitchen (Amazon data via desertcart mirror)",
   "short_score": 9,
-  "in_weekly": false
+  "in_weekly": false,
+  "sub": "Home Care & Comfort"
  },
  {
   "pick": 15,
@@ -297,7 +311,8 @@
   "job": "jobs/2026-11-16-apple-airtag-4-pack",
   "sales_signal": "4.6★, ~5.3K-6.8K ratings, ~10K+ bought/month (Kotaku 'amazon is offloading the new airtag 4 pack' + ASINsight); Apple calls AirTag 'the bestselling item finder'",
   "short_score": 9,
-  "in_weekly": false
+  "in_weekly": false,
+  "sub": "Gadgets & Smart Home"
  },
  {
   "pick": 16,
@@ -318,7 +333,8 @@
   "job": "jobs/2026-11-16-sol-de-janeiro-bum-bum-cream",
   "sales_signal": "4.6★, ~55K ratings, ~10K units/month est. (Flapen, ASINsight)",
   "short_score": 8,
-  "in_weekly": false
+  "in_weekly": false,
+  "sub": "Skincare"
  },
  {
   "pick": 17,
@@ -338,7 +354,8 @@
   "job": "jobs/2026-11-16-stanley-quencher-40oz",
   "sales_signal": "4.7★, ~87K ratings, #3 Kitchen & Dining, #1 Insulated Tumblers (desertcart mirror)",
   "short_score": 9,
-  "in_weekly": false
+  "in_weekly": false,
+  "sub": "Drinkware & Coffee"
  },
  {
   "pick": 18,
@@ -359,7 +376,8 @@
   "job": "jobs/2026-11-16-logitech-mx-master-3s",
   "sales_signal": "4.5★, ~8.7K reviews, #22 Computer Mice, 6K+ bought/month (tonyreviewsthings Jun 2026, pricehistory.app)",
   "short_score": 7,
-  "in_weekly": false
+  "in_weekly": false,
+  "sub": "Computer Accessories"
  },
  {
   "pick": 19,
@@ -380,7 +398,8 @@
   "job": "jobs/2026-11-16-wet-brush-original-detangler",
   "sales_signal": "4.7★, ~74K ratings, #1 Hair Brushes, 8K+ bought/month (desertcart mirror, Slickdeals Jan 2026)",
   "short_score": 8,
-  "in_weekly": false
+  "in_weekly": false,
+  "sub": "Hair Care"
  },
  {
   "pick": 20,
@@ -400,7 +419,8 @@
   "job": "jobs/2026-11-16-anua-heartleaf-cleansing-oil",
   "sales_signal": "4.4★, ~25K ratings, #111 Beauty, #1 Makeup Cleansing Oils (desertcart mirror)",
   "short_score": 8,
-  "in_weekly": false
+  "in_weekly": false,
+  "sub": "Skincare"
  },
  {
   "pick": 21,
@@ -420,7 +440,8 @@
   "job": "jobs/2026-11-16-oxo-salad-spinner",
   "sales_signal": "4.7★, ~52K ratings, #1 Salad Spinners, #117 Kitchen & Dining (desertcart mirror, Tasting Table)",
   "short_score": 8,
-  "in_weekly": false
+  "in_weekly": false,
+  "sub": "Cookware & Kitchen Tools"
  },
  {
   "pick": 22,
@@ -440,7 +461,8 @@
   "job": "jobs/2026-11-16-soundcore-q30",
   "sales_signal": "4.4★, ~91K ratings, #17 Over-Ear Headphones, #249 Electronics (desertcart mirror)",
   "short_score": 7,
-  "in_weekly": false
+  "in_weekly": false,
+  "sub": "Headphones & Speakers"
  },
  {
   "pick": 23,
@@ -460,7 +482,8 @@
   "job": "jobs/2026-11-17-paulas-choice-bha",
   "sales_signal": "4.5★, ~113K ratings, #1 Facial Polishes, #34 Beauty & Personal Care (desertcart mirror)",
   "short_score": 7,
-  "in_weekly": false
+  "in_weekly": false,
+  "sub": "Skincare"
  },
  {
   "pick": 24,
@@ -480,7 +503,8 @@
   "job": "jobs/2026-11-17-samsung-t7-1tb",
   "sales_signal": "4.7★, ~37K ratings, #2 External Solid State Drives (desertcart mirror)",
   "short_score": 7,
-  "in_weekly": false
+  "in_weekly": false,
+  "sub": "Computer Accessories"
  },
  {
   "pick": 25,
@@ -500,7 +524,8 @@
   "job": "jobs/2026-11-17-dash-mini-waffle-maker",
   "sales_signal": "4.6★, ~185K ratings, #1 Waffle Irons (desertcart mirror)",
   "short_score": 9,
-  "in_weekly": false
+  "in_weekly": false,
+  "sub": "Kitchen Appliances"
  },
  {
   "pick": 26,
@@ -520,7 +545,8 @@
   "job": "jobs/2026-11-17-olaplex-no6-bond-smoother",
   "sales_signal": "4.6–4.7★, ~52K ratings, ~50K bought/month est., #1 Hair Styling Putty/Clay/Wax",
   "short_score": 8,
-  "in_weekly": false
+  "in_weekly": false,
+  "sub": "Hair Care"
  },
  {
   "pick": 27,
@@ -540,7 +566,8 @@
   "job": "jobs/2026-11-17-logitech-pebble-keys-2",
   "sales_signal": "4.4★, ~1.5–2K ratings, ~1K bought/month est., #78 Computer Keyboards",
   "short_score": 6,
-  "in_weekly": false
+  "in_weekly": false,
+  "sub": "Computer Accessories"
  },
  {
   "pick": 28,
@@ -560,7 +587,8 @@
   "job": "jobs/2026-11-17-yeti-rambler-20oz",
   "sales_signal": "4.8★, ~149K ratings (parent listing), #4 Tumblers & Water Glasses, #47 Kitchen & Dining",
   "short_score": 8,
-  "in_weekly": false
+  "in_weekly": false,
+  "sub": "Drinkware & Coffee"
  },
  {
   "pick": 29,
@@ -580,7 +608,8 @@
   "job": "jobs/2026-11-17-moroccanoil-treatment",
   "sales_signal": "4.7★, ~89K ratings, #2 Hair Treatment Oils, ~10K bought/month est.",
   "short_score": 8,
-  "in_weekly": false
+  "in_weekly": false,
+  "sub": "Hair Care"
  },
  {
   "pick": 30,
@@ -600,7 +629,8 @@
   "job": "jobs/2026-11-17-chefman-glass-kettle",
   "sales_signal": "4.5★, ~24K ratings, #5 Electric Kettles, ~20K bought/month est.",
   "short_score": 7,
-  "in_weekly": false
+  "in_weekly": false,
+  "sub": "Kitchen Appliances"
  },
  {
   "pick": 31,
@@ -620,7 +650,8 @@
   "job": "jobs/2026-11-17-jlab-go-pop-plus",
   "sales_signal": "4.4★, ~21K ratings, #5 Earbud & In-Ear Headphones, #26 Electronics",
   "short_score": 8,
-  "in_weekly": false
+  "in_weekly": false,
+  "sub": "Headphones & Speakers"
  },
  {
   "pick": 32,
@@ -640,7 +671,8 @@
   "job": "jobs/2026-11-18-essence-lash-princess",
   "sales_signal": "4.3★, ~417K ratings, #2 Mascara (#13 Beauty), ~80–90K bought/month (est.)",
   "short_score": 9,
-  "in_weekly": false
+  "in_weekly": false,
+  "sub": "Makeup"
  },
  {
   "pick": 33,
@@ -660,7 +692,8 @@
   "job": "jobs/2026-11-18-cuisinart-color-knife-set",
   "sales_signal": "4.8★, 25K+ ratings, top-20 Kitchen Knife Sets",
   "short_score": 8,
-  "in_weekly": false
+  "in_weekly": false,
+  "sub": "Cookware & Kitchen Tools"
  },
  {
   "pick": 34,
@@ -680,7 +713,8 @@
   "job": "jobs/2026-11-18-sony-wh-ch520",
   "sales_signal": "4.4–4.5★, ~30–35K ratings, #3 On-Ear Headphones, ~9K/month (est.)",
   "short_score": 8,
-  "in_weekly": false
+  "in_weekly": false,
+  "sub": "Headphones & Speakers"
  },
  {
   "pick": 35,
@@ -700,7 +734,8 @@
   "job": "jobs/2026-11-18-medicube-zero-pore-pad",
   "sales_signal": "4.6★, 23K+ ratings, #1 Facial Toners & Astringents, ~100K/month (est.)",
   "short_score": 8,
-  "in_weekly": false
+  "in_weekly": false,
+  "sub": "Skincare"
  },
  {
   "pick": 36,
@@ -720,7 +755,8 @@
   "job": "jobs/2026-11-18-cosori-turboblaze",
   "sales_signal": "4.8★, 20.7K ratings, ~20K bought/month (est.)",
   "short_score": 8,
-  "in_weekly": false
+  "in_weekly": false,
+  "sub": "Kitchen Appliances"
  },
  {
   "pick": 37,
@@ -740,7 +776,8 @@
   "job": "jobs/2026-11-18-logitech-c920x-webcam",
   "sales_signal": "4.6★, ~22–38K ratings, #4 Webcams, ~10K/month (est.)",
   "short_score": 7,
-  "in_weekly": false
+  "in_weekly": false,
+  "sub": "Computer Accessories"
  },
  {
   "pick": 38,
@@ -760,7 +797,8 @@
   "job": "jobs/2026-11-18-biodance-collagen-mask",
   "sales_signal": "4.5★, 45K+ ratings, #1 Facial Masks, ~100K/month (est.)",
   "short_score": 9,
-  "in_weekly": false
+  "in_weekly": false,
+  "sub": "Skincare"
  },
  {
   "pick": 39,
@@ -780,7 +818,8 @@
   "job": "jobs/2026-11-18-etekcity-kitchen-scale",
   "sales_signal": "4.7★, 170K+ ratings, #1 Digital Kitchen Scales",
   "short_score": 6,
-  "in_weekly": false
+  "in_weekly": false,
+  "sub": "Cookware & Kitchen Tools"
  },
  {
   "pick": 40,
@@ -800,7 +839,8 @@
   "job": "jobs/2026-11-18-ugreen-revodok-105-hub",
   "sales_signal": "4.6★, 25K+ ratings, #2–3 Laptop Docking Stations (desertcart/Amazon data)",
   "short_score": 6,
-  "in_weekly": false
+  "in_weekly": false,
+  "sub": "Computer Accessories"
  },
  {
   "pick": 41,
@@ -820,7 +860,8 @@
   "job": "jobs/2026-11-19-neutrogena-hydro-boost-water-gel",
   "sales_signal": "4.6★, 77K–100K+ ratings, long-time #1 Facial Creams & Moisturizers (Bustle/TopCrate/TODAY)",
   "short_score": 7,
-  "in_weekly": false
+  "in_weekly": false,
+  "sub": "Skincare"
  },
  {
   "pick": 42,
@@ -840,7 +881,8 @@
   "job": "jobs/2026-11-19-soundcore-q20i",
   "sales_signal": "4.6★, ~70K ratings, #1–2 Noise Cancelling Headphones, ~10K/month (asinsight/desertcart)",
   "short_score": 8,
-  "in_weekly": false
+  "in_weekly": false,
+  "sub": "Headphones & Speakers"
  },
  {
   "pick": 43,
@@ -860,7 +902,8 @@
   "job": "jobs/2026-11-19-real-techniques-miracle-sponge",
   "sales_signal": "4.7★, 60K+ ratings, #2 Makeup Blenders & Sponges (desertcart)",
   "short_score": 7,
-  "in_weekly": false
+  "in_weekly": false,
+  "sub": "Makeup"
  },
  {
   "pick": 44,
@@ -880,7 +923,8 @@
   "job": "jobs/2026-11-19-aeropress-original",
   "sales_signal": "4.6★, ~26K ratings, ~4K/month (asinsight), #3 Coffee Presses (desertcart)",
   "short_score": 8,
-  "in_weekly": false
+  "in_weekly": false,
+  "sub": "Drinkware & Coffee"
  },
  {
   "pick": 45,
@@ -900,7 +944,8 @@
   "job": "jobs/2026-11-19-oxo-compost-bin",
   "sales_signal": "4.6★, ~17.9K ratings, ~1K/month (asinsight, desertcart)",
   "short_score": 6,
-  "in_weekly": false
+  "in_weekly": false,
+  "sub": "Cookware & Kitchen Tools"
  },
  {
   "pick": 46,
@@ -920,7 +965,8 @@
   "job": "jobs/2026-11-19-samsung-evo-select-256gb",
   "sales_signal": "4.8★, 8.5K+ ratings (US listing, desertcart), 48K ratings EU listing, #38 Micro SD Cards",
   "short_score": 7,
-  "in_weekly": false
+  "in_weekly": false,
+  "sub": "Computer Accessories"
  },
  {
   "pick": 47,
@@ -940,7 +986,8 @@
   "job": "jobs/2026-11-19-mario-badescu-facial-spray",
   "sales_signal": "4.5★, ~83.7K ratings (shared across sizes), #8 Face Mists, #1,297 Beauty & Personal Care (desertcart Amazon-data snapshot for B00172O9NO); frequent Amazon deal posts (Slickdeals Sep 2025, Hip2Save, Krazy Coupon Lady)",
   "short_score": 8,
-  "in_weekly": false
+  "in_weekly": false,
+  "sub": "Skincare"
  },
  {
   "pick": 48,
@@ -960,7 +1007,8 @@
   "job": "jobs/2026-11-19-levoit-core-300p",
   "sales_signal": "4.7★, ~108K-128K ratings, 50K+ bought/month, #1 HEPA Filter Air Purifiers, #63 Home & Kitchen (ASINsight, desertcart, Slickdeals listing snapshot)",
   "short_score": 8,
-  "in_weekly": false
+  "in_weekly": false,
+  "sub": "Home Care & Comfort"
  },
  {
   "pick": 49,
@@ -980,7 +1028,8 @@
   "job": "jobs/2026-11-19-wyze-cam-v4",
   "sales_signal": "4.4★, 13.2K ratings, ~7K sold/month (+40% MoM), $29.98 — asinsight wyze-camera report (#2 Shoppers' Top Picks); frequent Amazon deal posts on Slickdeals/9to5toys",
   "short_score": 7,
-  "in_weekly": false
+  "in_weekly": false,
+  "sub": "Gadgets & Smart Home"
  },
  {
   "pick": 50,
@@ -1000,7 +1049,8 @@
   "job": "jobs/2026-11-20-truskin-vitamin-c-serum",
   "sales_signal": "4.4★, ~156K ratings, ~40K sold/month — asinsight (#3 in report); Shop TODAY 2024 best budget vitamin C serum",
   "short_score": 8,
-  "in_weekly": false
+  "in_weekly": false,
+  "sub": "Skincare"
  },
  {
   "pick": 51,
@@ -1020,7 +1070,8 @@
   "job": "jobs/2026-11-20-gorilla-grip-cutting-boards",
   "sales_signal": "4.6★, ~51.9K ratings, ~8K sold/month — asinsight #5 plastic cutting boards",
   "short_score": 8,
-  "in_weekly": false
+  "in_weekly": false,
+  "sub": "Cookware & Kitchen Tools"
  },
  {
   "pick": 52,
@@ -1040,7 +1091,8 @@
   "job": "jobs/2026-11-20-amika-soulfood-mask",
   "sales_signal": "4.7★, ~8.4K ratings, ~30K units/month (asinsight); #13 in Hair Treatment Masks (desertcart snapshot)",
   "short_score": 9,
-  "in_weekly": false
+  "in_weekly": false,
+  "sub": "Hair Care"
  },
  {
   "pick": 53,
@@ -1060,7 +1112,8 @@
   "job": "jobs/2026-11-20-jbl-go-4",
   "sales_signal": "4.8★, ~12.5K ratings, #1 in Portable Bluetooth Speakers, #35 in Electronics (desertcart snapshot)",
   "short_score": 9,
-  "in_weekly": false
+  "in_weekly": false,
+  "sub": "Headphones & Speakers"
  },
  {
   "pick": 54,
@@ -1080,7 +1133,8 @@
   "job": "jobs/2026-11-20-thermopro-tp19h",
   "sales_signal": "4.7★, ~54.5K ratings, #1 Candy Thermometers & Timers, #24–27 Kitchen & Dining (desertcart, Talk of the House)",
   "short_score": 8,
-  "in_weekly": false
+  "in_weekly": false,
+  "sub": "Cookware & Kitchen Tools"
  },
  {
   "pick": 55,
@@ -1100,7 +1154,8 @@
   "job": "jobs/2026-11-20-fifine-ampligame-a6v",
   "sales_signal": "4.6★, ~13.8K ratings, #2 Vocal Condenser Microphones (desertcart snapshot); in FIFINE best-sellers collection",
   "short_score": 8,
-  "in_weekly": false
+  "in_weekly": false,
+  "sub": "Computer Accessories"
  },
  {
   "pick": 56,
@@ -1120,7 +1175,8 @@
   "job": "jobs/2026-11-20-cerave-hydrating-cleanser",
   "sales_signal": "4.7★, ~130K ratings, ~60K bottles/month (asinsight); one of Amazon's top face washes",
   "short_score": 8,
-  "in_weekly": false
+  "in_weekly": false,
+  "sub": "Skincare"
  },
  {
   "pick": 57,
@@ -1140,7 +1196,8 @@
   "job": "jobs/2026-11-20-dreo-atom-one-heater",
   "sales_signal": "4.6★, ~28.7K ratings, ~1K/month; among top indoor space heaters (asinsight); PopSci best portable",
   "short_score": 8,
-  "in_weekly": false
+  "in_weekly": false,
+  "sub": "Home Care & Comfort"
  },
  {
   "pick": 58,
@@ -1160,6 +1217,7 @@
   "job": "jobs/2026-11-20-physicians-formula-butter-bronzer",
   "sales_signal": "#1 Face Bronzers, 4.6★, ~42K ratings, ~7K/month (asinsight/desertcart)",
   "short_score": 8,
-  "in_weekly": false
+  "in_weekly": false,
+  "sub": "Makeup"
  }
 ]
