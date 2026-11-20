@@ -38,7 +38,7 @@
   if (m) {
     var cur = decodeURIComponent(m[1]);
     if (h2) h2.textContent = cur;
-    document.title = cur + ' picks | Smart Picks Daily';
+    document.title = cur + ' picks | YayPicks';
     var main = CATS[cur] ? cur : SUB2MAIN[cur];
     var head = document.querySelector('#picks .sec-head');
     if (main && head) {
