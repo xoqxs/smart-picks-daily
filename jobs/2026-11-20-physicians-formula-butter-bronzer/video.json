@@ -1,0 +1,30 @@
+{
+ "slug": "2026-11-20-physicians-formula-butter-bronzer",
+ "pick": 58,
+ "category": "Beauty",
+ "asin": "B018B8Q5Z6",
+ "name": "Physicians Formula Butter Bronzer",
+ "credit": "Image: Physicians Formula",
+ "pin": {
+  "image": "kv",
+  "crop": [
+   600,
+   600,
+   1200
+  ],
+  "headline": "The #1 Bronzer on Amazon",
+  "sub": "Buttery powder · Sun-kissed glow · Coconut scent",
+  "badge": {
+   "text": "#1 PICK",
+   "xy": [
+    600,
+    1100
+   ]
+  },
+  "button": "See it on Amazon →"
+ },
+ "images": {
+  "kv": "img/kv.jpg",
+  "open": "img/open.jpg"
+ }
+}

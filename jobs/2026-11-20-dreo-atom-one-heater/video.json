@@ -1,0 +1,29 @@
+{
+ "slug": "2026-11-20-dreo-atom-one-heater",
+ "pick": 57,
+ "category": "Home & Kitchen",
+ "asin": "B097RG67QB",
+ "name": "Dreo Atom One Space Heater",
+ "credit": "Image: Dreo",
+ "pin": {
+  "image": "kv",
+  "crop": [
+   1000,
+   1050,
+   1900
+  ],
+  "headline": "Cozy Up Any Small Room Fast",
+  "sub": "70° oscillation · ECO mode · Remote included",
+  "badge": {
+   "text": "WARM UP",
+   "xy": [
+    480,
+    1100
+   ]
+  },
+  "button": "See it on Amazon →"
+ },
+ "images": {
+  "kv": "img/kv.jpg"
+ }
+}

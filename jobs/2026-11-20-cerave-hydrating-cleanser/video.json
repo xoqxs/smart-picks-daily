@@ -1,0 +1,29 @@
+{
+ "slug": "2026-11-20-cerave-hydrating-cleanser",
+ "pick": 56,
+ "category": "Beauty",
+ "asin": "B01MSSDEPK",
+ "name": "CeraVe Hydrating Facial Cleanser",
+ "credit": "Image: CeraVe",
+ "pin": {
+  "image": "kv",
+  "crop": [
+   720,
+   1000,
+   1400
+  ],
+  "headline": "No-Tight-Feel Face Wash",
+  "sub": "Ceramides + HA · Fragrance-free · Pump bottle",
+  "badge": {
+   "text": "DERM FAV",
+   "xy": [
+    470,
+    1100
+   ]
+  },
+  "button": "See it on Amazon →"
+ },
+ "images": {
+  "kv": "img/kv.jpg"
+ }
+}
