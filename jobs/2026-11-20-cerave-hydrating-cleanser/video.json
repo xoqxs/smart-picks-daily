@@ -25,5 +25,127 @@
  },
  "images": {
   "kv": "img/kv.jpg"
- }
+ },
+ "scenes": [
+  {
+   "type": "card",
+   "image": "kv",
+   "from": [
+    720,
+    900,
+    1440
+   ],
+   "to": [
+    720,
+    820,
+    1000
+   ],
+   "line": "Does your face feel tight the second you rinse? Around sixty thousand people a month grab this wash instead.",
+   "hl": [
+    "tight",
+    "sixty",
+    "thousand",
+    "month"
+   ]
+  },
+  {
+   "type": "card",
+   "image": "kv",
+   "from": [
+    720,
+    800,
+    1000
+   ],
+   "to": [
+    720,
+    760,
+    820
+   ],
+   "line": "Meet the CeraVe Hydrating Facial Cleanser: a creamy, fragrance-free wash with three ceramides and hyaluronic acid.",
+   "hl": [
+    "CeraVe",
+    "Hydrating",
+    "fragrance-free",
+    "ceramides",
+    "hyaluronic"
+   ],
+   "badge": {
+    "big": "4.7★",
+    "small": "130K ratings"
+   }
+  },
+  {
+   "type": "card",
+   "image": "kv",
+   "from": [
+    720,
+    900,
+    1300
+   ],
+   "to": [
+    720,
+    880,
+    1100
+   ],
+   "line": "It's made for normal to dry skin, it won't clog pores, and it plays nicely with retinol or acids.",
+   "hl": [
+    "normal",
+    "dry",
+    "clog",
+    "retinol"
+   ],
+   "chips": [
+    "Dry skin",
+    "Pore-safe",
+    "Retinol OK"
+   ]
+  },
+  {
+   "type": "tip",
+   "title": "PRO TIP",
+   "boxes": [
+    [
+     "Warm",
+     "not hot"
+    ],
+    [
+     "1–2",
+     "pumps"
+    ],
+    [
+     "Then",
+     "moisturize"
+    ]
+   ],
+   "note": "No foam by design: it rinses silky, not squeaky.",
+   "line": "Pro tip: use lukewarm water, massage in one or two pumps, then moisturize while your skin is still damp.",
+   "hl": [
+    "lukewarm",
+    "two",
+    "pumps,",
+    "damp."
+   ]
+  },
+  {
+   "type": "cta",
+   "image": "kv",
+   "from": [
+    720,
+    760,
+    820
+   ],
+   "to": [
+    720,
+    900,
+    1440
+   ],
+   "line": "It's pick number fifty-six. Find the link on our channel, under Video Picks.",
+   "hl": [
+    "fifty-six.",
+    "channel,",
+    "Video",
+    "Picks."
+   ]
+  }
+ ]
 }
