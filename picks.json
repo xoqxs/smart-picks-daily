@@ -1282,5 +1282,89 @@
   "short_score": 8,
   "in_weekly": false,
   "sub": "Drinkware & Coffee"
+ },
+ {
+  "pick": 62,
+  "date": "2026-11-21",
+  "category": "Beauty",
+  "name": "Summer Fridays Lip Butter Balm (Vanilla, 0.5 oz)",
+  "asin": "B09FYHDW6P",
+  "asin_sources": [
+   "desertcart.pl/products/363437566-summer-fridays: 'Summer Fridays Lip Butter Balm' Vanilla, ASIN B09FYHDW6P, 4.7★ 8,689, #3 Lip Balms & Moisturizers",
+   "asinsight.com/report/US/summers-friday: B09FYHDW6P 'Summer Fridays Lip Butter Balm – Conditioning Lip Mask and Lip Balm' Vanilla, 4.7★ 9.9K, ~5K sold/month"
+  ],
+  "amazon": "https://www.amazon.com/dp/B09FYHDW6P?tag=desksetuppi07-20",
+  "post": "https://www.yaypicks.com/2026/11/summer-fridays-lip-butter-balm-review.html",
+  "short": null,
+  "short_date": null,
+  "pin": null,
+  "job": "jobs/2026-11-21-summer-fridays-lip-butter-balm",
+  "sales_signal": "4.7★, ~9.9K ratings, #3 in Lip Balms & Moisturizers, ~5K sold/month (desertcart/asinsight)",
+  "short_score": 7,
+  "in_weekly": false,
+  "sub": "Skincare"
+ },
+ {
+  "pick": 63,
+  "date": "2026-11-21",
+  "category": "Beauty",
+  "name": "Kitsch Satin Pillowcase with Zipper (Standard/Queen, Ivory)",
+  "asin": "B07XFQVN57",
+  "asin_sources": [
+   "desertcart.nz/products/182732355: 'Kitsch Satin Pillowcase (19x26)', ASIN B07XFQVN57, Ivory, Standard/Queen, 4.6★ 29,796, #4 Bed Pillow Pillowcases",
+   "search-result snippet of amazon.com/Kitsch-Satin-Pillowcase-Hair-Ivory/dp/B07XFQVN57: 'Kitsch Satin Pillowcase With Zipper - Standard Size, Ivory'"
+  ],
+  "amazon": "https://www.amazon.com/dp/B07XFQVN57?tag=desksetuppi07-20",
+  "post": "https://www.yaypicks.com/2026/11/kitsch-satin-pillowcase-review-smoother.html",
+  "short": null,
+  "short_date": null,
+  "pin": null,
+  "job": "jobs/2026-11-21-kitsch-satin-pillowcase",
+  "sales_signal": "4.6★, 29.8K ratings, #4 in Bed Pillow Pillowcases (desertcart)",
+  "short_score": 7,
+  "in_weekly": false,
+  "sub": "Hair Care"
+ },
+ {
+  "pick": 64,
+  "date": "2026-11-21",
+  "category": "Home & Kitchen",
+  "name": "Dash Mini Rice Cooker with Keep Warm, 2 Cups (Aqua)",
+  "asin": "B07DTPC1QB",
+  "asin_sources": [
+   "desertcart.pl/products/71359649-dash-mini-rice-cooker-steamer-with-removable-nonstick-pot-keep: Dash Mini Rice Cooker, Aqua, B07DTPC1QB, 4.4★ 46,677, #13 Rice Cookers",
+   "wcpo.com/review-dash-mini-rice-cooker (Scripps) + StyleCaster/Yahoo: 'Dash Mini Rice Cooker' links amazon.com/dp/B07DTPC1QB"
+  ],
+  "amazon": "https://www.amazon.com/dp/B07DTPC1QB?tag=desksetuppi07-20",
+  "post": "https://www.yaypicks.com/2026/11/dash-mini-rice-cooker-review-fluffy.html",
+  "short": null,
+  "short_date": null,
+  "pin": null,
+  "job": "jobs/2026-11-21-dash-mini-rice-cooker",
+  "sales_signal": "4.4★, 46.7K ratings, #13 in Rice Cookers (desertcart)",
+  "short_score": 7,
+  "in_weekly": false,
+  "sub": "Kitchen Appliances"
+ },
+ {
+  "pick": 65,
+  "date": "2026-11-21",
+  "category": "Tech",
+  "name": "Anker MagGo Power Bank (10K, Slim), Qi2 15W, A1664 (Black)",
+  "asin": "B0D7DKJ75M",
+  "asin_sources": [
+   "asinsight.com/report/US/anker-powerbank: B0D7DKJ75M 'Anker MagGo Power Bank, Slim 10,000mAh Magnetic Battery Pack, Qi2 Certified 15W', 4.4★ 8.6K, ~10K sold/month",
+   "slickdeals.net/f/18607717: 'Anker MagGo Power Bank, Ultra-Slim 10,000mAh ... Qi2 Certified 15W' links amazon.com/dp/B0D7DKJ75M"
+  ],
+  "amazon": "https://www.amazon.com/dp/B0D7DKJ75M?tag=desksetuppi07-20",
+  "post": "https://www.yaypicks.com/2026/11/anker-maggo-slim-10k-review-thin-qi2.html",
+  "short": null,
+  "short_date": null,
+  "pin": null,
+  "job": "jobs/2026-11-21-anker-maggo-10k-slim",
+  "sales_signal": "4.4★, 8.6K ratings, ~10K sold/month, top Anker magnetic power bank (asinsight)",
+  "short_score": 8,
+  "in_weekly": false,
+  "sub": "Gadgets & Smart Home"
  }
 ]
