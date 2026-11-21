@@ -25,5 +25,130 @@
  },
  "images": {
   "kv": "img/kv.jpg"
- }
+ },
+ "scenes": [
+  {
+   "type": "card",
+   "image": "kv",
+   "from": [
+    1000,
+    1000,
+    2000
+   ],
+   "to": [
+    1000,
+    900,
+    1300
+   ],
+   "line": "Phone at ten percent by four p.m.? This ten thousand milliamp-hour battery is just over half an inch thin.",
+   "hl": [
+    "ten",
+    "percent",
+    "thousand",
+    "half"
+   ]
+  },
+  {
+   "type": "card",
+   "image": "kv",
+   "from": [
+    900,
+    800,
+    1300
+   ],
+   "to": [
+    850,
+    700,
+    1000
+   ],
+   "line": "Meet the Anker MagGo Power Bank Slim: Qi2 certified, so it snaps on and charges your iPhone wirelessly at up to fifteen watts.",
+   "hl": [
+    "Anker",
+    "MagGo",
+    "Slim:",
+    "Qi2",
+    "fifteen",
+    "watts."
+   ],
+   "badge": {
+    "big": "0.58 in",
+    "small": "thin"
+   }
+  },
+  {
+   "type": "card",
+   "image": "kv",
+   "from": [
+    1000,
+    1000,
+    1700
+   ],
+   "to": [
+    1000,
+    1450,
+    1200
+   ],
+   "line": "It fits iPhone twelve through seventeen and AirPods cases, and the USB-C port fast-charges at up to thirty watts.",
+   "hl": [
+    "iPhone",
+    "twelve",
+    "seventeen",
+    "AirPods",
+    "thirty",
+    "watts."
+   ],
+   "chips": [
+    "iPhone 12–17",
+    "AirPods",
+    "USB-C 30W"
+   ]
+  },
+  {
+   "type": "tip",
+   "title": "PRO TIP",
+   "boxes": [
+    [
+     "Cable",
+     "for speed"
+    ],
+    [
+     "30W",
+     "to refill"
+    ],
+    [
+     "Mag",
+     "case"
+    ]
+   ],
+   "note": "No kickstand or screen: that's how it stays so slim.",
+   "line": "Pro tip: plug in a cable when you need a big boost fast, refill it with a thirty watt charger, and use a MagSafe case.",
+   "hl": [
+    "cable",
+    "fast,",
+    "thirty",
+    "MagSafe"
+   ]
+  },
+  {
+   "type": "cta",
+   "image": "kv",
+   "from": [
+    850,
+    700,
+    1000
+   ],
+   "to": [
+    1000,
+    1000,
+    2000
+   ],
+   "line": "It's pick number sixty-five. Find the link on our channel, under Video Picks.",
+   "hl": [
+    "sixty-five.",
+    "channel,",
+    "Video",
+    "Picks."
+   ]
+  }
+ ]
 }
