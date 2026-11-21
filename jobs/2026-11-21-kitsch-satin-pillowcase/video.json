@@ -1,0 +1,29 @@
+{
+ "slug": "2026-11-21-kitsch-satin-pillowcase",
+ "pick": 63,
+ "category": "Beauty",
+ "asin": "B07XFQVN57",
+ "name": "Kitsch Satin Pillowcase (Ivory)",
+ "credit": "Image: Kitsch",
+ "pin": {
+  "image": "kv",
+  "crop": [
+   600,
+   600,
+   1200
+  ],
+  "headline": "Wake Up With Smoother Hair",
+  "sub": "Zip Closure · OEKO-TEX · Machine Washable",
+  "badge": {
+   "text": "Satin",
+   "xy": [
+    680,
+    370
+   ]
+  },
+  "button": "See it on Amazon →"
+ },
+ "images": {
+  "kv": "img/kv.jpg"
+ }
+}

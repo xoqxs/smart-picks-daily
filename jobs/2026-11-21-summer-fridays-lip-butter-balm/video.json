@@ -1,0 +1,29 @@
+{
+ "slug": "2026-11-21-summer-fridays-lip-butter-balm",
+ "pick": 62,
+ "category": "Beauty",
+ "asin": "B09FYHDW6P",
+ "name": "Summer Fridays Lip Butter Balm (Vanilla)",
+ "credit": "Image: Summer Fridays",
+ "pin": {
+  "image": "kv",
+  "crop": [
+   650,
+   650,
+   1300
+  ],
+  "headline": "The Cult Lip Balm for Day & Night",
+  "sub": "Shea + Murumuru Butters · Vegan · Overnight Mask",
+  "badge": {
+   "text": "Allure Winner",
+   "xy": [
+    360,
+    1100
+   ]
+  },
+  "button": "See it on Amazon →"
+ },
+ "images": {
+  "kv": "img/kv.jpg"
+ }
+}

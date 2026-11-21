@@ -1,0 +1,29 @@
+{
+ "slug": "2026-11-21-dash-mini-rice-cooker",
+ "pick": 64,
+ "category": "Home & Kitchen",
+ "asin": "B07DTPC1QB",
+ "name": "Dash Mini Rice Cooker (Aqua)",
+ "credit": "Image: Dash",
+ "pin": {
+  "image": "kv",
+  "crop": [
+   1000,
+   1000,
+   1900
+  ],
+  "headline": "Fluffy Rice for One or Two",
+  "sub": "One Switch · Keep Warm · Rice, Oats & Quinoa",
+  "badge": {
+   "text": "2 Cups",
+   "xy": [
+    620,
+    370
+   ]
+  },
+  "button": "See it on Amazon →"
+ },
+ "images": {
+  "kv": "img/kv.jpg"
+ }
+}

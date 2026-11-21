@@ -1,0 +1,29 @@
+{
+ "slug": "2026-11-21-anker-maggo-10k-slim",
+ "pick": 65,
+ "category": "Tech",
+ "asin": "B0D7DKJ75M",
+ "name": "Anker MagGo Power Bank 10K Slim (Black)",
+ "credit": "Image: Anker",
+ "pin": {
+  "image": "kv",
+  "crop": [
+   1000,
+   1000,
+   2000
+  ],
+  "headline": "The Slim Power Bank That Snaps On",
+  "sub": "Qi2 15W Wireless · 30W USB-C · 0.58 in Thin",
+  "badge": {
+   "text": "10K",
+   "xy": [
+    690,
+    1080
+   ]
+  },
+  "button": "See it on Amazon →"
+ },
+ "images": {
+  "kv": "img/kv.jpg"
+ }
+}
