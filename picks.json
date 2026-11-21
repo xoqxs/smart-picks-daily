@@ -1366,5 +1366,68 @@
   "short_score": 8,
   "in_weekly": false,
   "sub": "Gadgets & Smart Home"
+ },
+ {
+  "pick": 66,
+  "date": "2026-11-21",
+  "category": "Home & Kitchen",
+  "name": "BLACK+DECKER dustbuster AdvancedClean Cordless Handheld Vacuum (CHV1410L)",
+  "asin": "B006LXOJC0",
+  "asin_sources": [
+   "desertcart.sg/products/1146100: ASIN B006LXOJC0, model CHV1410L 'BLACK+DECKER dustbuster AdvancedClean Cordless Handheld Vacuum', 4.4★ 110K, #1 Handheld Vacuums",
+   "asinsight.com/report/US/black-%26-decker-handheld-vacuum: B006LXOJC0 'Black+Decker Dustbuster AdvancedClean Handheld Vacuum', #1, ~20K/month"
+  ],
+  "amazon": "https://www.amazon.com/dp/B006LXOJC0?tag=desksetuppi07-20",
+  "post": "https://www.yaypicks.com/2026/11/blackdecker-dustbuster-review-crumbs.html",
+  "short": null,
+  "short_date": null,
+  "pin": null,
+  "job": "jobs/2026-11-21-black-decker-dustbuster",
+  "sales_signal": "4.4★, 110K+ ratings, #1 Handheld Vacuums, ~20K sold/month (desertcart, asinsight)",
+  "short_score": 7,
+  "in_weekly": false,
+  "sub": "Home Care & Comfort"
+ },
+ {
+  "pick": 67,
+  "date": "2026-11-21",
+  "category": "Tech",
+  "name": "HyperX Cloud III Wired Gaming Headset (Black/Red, 727A9AA)",
+  "asin": "B0C3BV19Q3",
+  "asin_sources": [
+   "search result amazon.com/HyperX-Cloud-III-Ultra-Clear-USB/dp/B0C3BV19Q3 'HyperX Cloud III Wired Gaming Headset for PC, PS5, PS4, Xbox Series X'",
+   "desertcart.com.cy/products/533660091: ASIN B0C3BV19Q3, Black/Red, model 727A9AA, 4.4★ 10K, #1 PC Game Headsets"
+  ],
+  "amazon": "https://www.amazon.com/dp/B0C3BV19Q3?tag=desksetuppi07-20",
+  "post": "https://www.yaypicks.com/2026/11/hyperx-cloud-iii-review-comfy-gaming.html",
+  "short": null,
+  "short_date": null,
+  "pin": null,
+  "job": "jobs/2026-11-21-hyperx-cloud-iii",
+  "sales_signal": "4.4★, 10K+ ratings, #1 PC Game Headsets (desertcart mirror)",
+  "short_score": 8,
+  "in_weekly": false,
+  "sub": "Headphones & Speakers"
+ },
+ {
+  "pick": 68,
+  "date": "2026-11-21",
+  "category": "Tech",
+  "name": "Logitech Signature M650 Wireless Mouse (Graphite, Small to Medium)",
+  "asin": "B09NQNWT76",
+  "asin_sources": [
+   "search result amazon.com/Logitech-Signature-Wireless-Mouse-Graphite/dp/B09NQNWT76 'Logitech Signature M650 Wireless Mouse ... (Graphite)'",
+   "a.ubuy.com.kw/en/product/54KOLLDPK: ASIN B09NQNWT76, model 910-006250 Graphite, 4.6★"
+  ],
+  "amazon": "https://www.amazon.com/dp/B09NQNWT76?tag=desksetuppi07-20",
+  "post": "https://www.yaypicks.com/2026/11/logitech-signature-m650-quiet-mouse.html",
+  "short": null,
+  "short_date": null,
+  "pin": null,
+  "job": "jobs/2026-11-21-logitech-signature-m650",
+  "sales_signal": "4.5★, 14K+ ratings; M650 L alone ~3K sold/month, top 10 in 'logitech m650' (asinsight)",
+  "short_score": 7,
+  "in_weekly": false,
+  "sub": "Computer Accessories"
  }
 ]
