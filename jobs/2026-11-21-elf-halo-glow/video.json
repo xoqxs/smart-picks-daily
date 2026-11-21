@@ -13,7 +13,7 @@
    1900
   ],
   "headline": "Filter Glow in a Bottle",
-  "sub": "Dewy Finish · Squalane + Hyaluronic Acid · 4 Ways",
+  "sub": "Dewy Finish \u00b7 Squalane + Hyaluronic Acid \u00b7 4 Ways",
   "badge": {
    "text": "Glow Pick",
    "xy": [
@@ -21,9 +21,133 @@
     360
    ]
   },
-  "button": "See it on Amazon →"
+  "button": "See it on Amazon \u2192"
  },
  "images": {
   "kv": "img/kv.jpg"
- }
+ },
+ "scenes": [
+  {
+   "type": "card",
+   "image": "kv",
+   "from": [
+    1000,
+    1000,
+    2000
+   ],
+   "to": [
+    650,
+    1050,
+    1300
+   ],
+   "line": "Want that phone-filter glow in real life? This little bottle is number one in Amazon's face highlighter chart.",
+   "hl": [
+    "phone-filter",
+    "glow",
+    "number",
+    "one"
+   ]
+  },
+  {
+   "type": "card",
+   "image": "kv",
+   "from": [
+    700,
+    1050,
+    1300
+   ],
+   "to": [
+    760,
+    1000,
+    1100
+   ],
+   "line": "Meet the e.l.f. Halo Glow Liquid Filter: a sheer, dewy glow booster made with squalane and hyaluronic acid.",
+   "hl": [
+    "Halo",
+    "Glow",
+    "dewy",
+    "squalane",
+    "hyaluronic"
+   ],
+   "badge": {
+    "big": "#1",
+    "small": "face highlighters"
+   }
+  },
+  {
+   "type": "card",
+   "image": "kv",
+   "from": [
+    1000,
+    1000,
+    2000
+   ],
+   "to": [
+    1000,
+    1000,
+    1700
+   ],
+   "line": "Wear it four ways: on its own, under makeup, mixed into foundation, or as a highlighter. It comes in fifteen shades.",
+   "hl": [
+    "four",
+    "ways:",
+    "foundation,",
+    "highlighter.",
+    "fifteen"
+   ],
+   "chips": [
+    "Skin tint",
+    "Mix-in",
+    "Highlighter"
+   ]
+  },
+  {
+   "type": "tip",
+   "title": "PRO TIP",
+   "boxes": [
+    [
+     "Dots",
+     "to start"
+    ],
+    [
+     "Blend",
+     "sponge"
+    ],
+    [
+     "Set",
+     "T-zone"
+    ]
+   ],
+   "note": "Light coverage: layer over foundation if you want more.",
+   "line": "Pro tip: start with just a few dots, blend with a sponge, and if you're oily, powder your T-zone.",
+   "hl": [
+    "few",
+    "dots,",
+    "sponge,",
+    "oily,",
+    "T-zone."
+   ]
+  },
+  {
+   "type": "cta",
+   "image": "kv",
+   "from": [
+    760,
+    1000,
+    1100
+   ],
+   "to": [
+    1000,
+    1000,
+    2000
+   ],
+   "line": "It's pick number seventy. Find the link on our channel, under Video Picks.",
+   "hl": [
+    "seventy.",
+    "channel,",
+    "Video",
+    "Picks."
+   ]
+  }
+ ]
 }
