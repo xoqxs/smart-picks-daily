@@ -1,0 +1,29 @@
+{
+ "slug": "2026-11-21-logitech-signature-m650",
+ "pick": 68,
+ "category": "Tech",
+ "asin": "B09NQNWT76",
+ "name": "Logitech Signature M650 Wireless Mouse",
+ "credit": "Image: Logitech",
+ "pin": {
+  "image": "kv",
+  "crop": [
+   1000,
+   960,
+   1800
+  ],
+  "headline": "Shh! The Quiet-Click Mouse",
+  "sub": "Silent Clicks \u00b7 SmartWheel \u00b7 2-Yr Battery",
+  "badge": {
+   "text": "Quiet",
+   "xy": [
+    660,
+    370
+   ]
+  },
+  "button": "See it on Amazon \u2192"
+ },
+ "images": {
+  "kv": "img/kv.jpg"
+ }
+}

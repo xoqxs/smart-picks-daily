@@ -1,0 +1,29 @@
+{
+ "slug": "2026-11-21-hyperx-cloud-iii",
+ "pick": 67,
+ "category": "Tech",
+ "asin": "B0C3BV19Q3",
+ "name": "HyperX Cloud III Wired Gaming Headset",
+ "credit": "Image: HyperX",
+ "pin": {
+  "image": "kv",
+  "crop": [
+   800,
+   820,
+   1500
+  ],
+  "headline": "Comfy Headset, Clear Mic",
+  "sub": "53mm Drivers \u00b7 Memory Foam \u00b7 Detachable Mic",
+  "badge": {
+   "text": "Gamer Gift",
+   "xy": [
+    90,
+    360
+   ]
+  },
+  "button": "See it on Amazon \u2192"
+ },
+ "images": {
+  "kv": "img/kv.jpg"
+ }
+}

@@ -1,0 +1,29 @@
+{
+ "slug": "2026-11-21-black-decker-dustbuster",
+ "pick": 66,
+ "category": "Home & Kitchen",
+ "asin": "B006LXOJC0",
+ "name": "BLACK+DECKER dustbuster AdvancedClean",
+ "credit": "Image: BLACK+DECKER",
+ "pin": {
+  "image": "kv",
+  "crop": [
+   1000,
+   1000,
+   2000
+  ],
+  "headline": "Crumbs Gone in Seconds",
+  "sub": "Cordless \u00b7 Swivel Nozzle \u00b7 Home & Car",
+  "badge": {
+   "text": "#1 Handheld",
+   "xy": [
+    90,
+    360
+   ]
+  },
+  "button": "See it on Amazon \u2192"
+ },
+ "images": {
+  "kv": "img/kv.jpg"
+ }
+}
