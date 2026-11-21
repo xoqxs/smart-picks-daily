@@ -1,112 +1,119 @@
 [
- {
-  "type": "video",
-  "pick": 1,
-  "file": "v/2026-11-15-ugreen-nexode-air-65w.mp4",
-  "posted": "2026-11-16",
-  "url": "https://www.tiktok.com/@smartpicksdailyfinds/video/7708534480604056853",
-  "note": "ilk test paylaşımı; Markalı içerik açık"
- },
- {
-  "type": "photo",
-  "pick": 3,
-  "file": "pins/2026-11-15-ninja-af101-air-fryer.jpg",
-  "posted": "2026-11-16",
-  "url": "https://www.tiktok.com/@smartpicksdailyfinds/video/7708536859814612245",
-  "note": "ilk foto testi; Markalı içerik açık"
- },
- {
-  "type": "video",
-  "pick": 5,
-  "file": "v/2026-11-15-laneige-lip-glowy-balm.mp4",
-  "posted": "2026-11-16",
-  "url": "https://www.tiktok.com/@smartpicksdailyfinds/video/7708542174949854484"
- },
- {
-  "type": "video",
-  "pick": 25,
-  "file": "v/2026-11-17-dash-mini-waffle-maker.mp4",
-  "posted": "2026-11-17",
-  "url": "https://www.tiktok.com/@smartpicksdailyfinds/video/7709213388135615765"
- },
- {
-  "type": "video",
-  "pick": 8,
-  "file": "v/2026-11-15-anker-power-bank-20k-87w.mp4",
-  "posted": "2026-11-17",
-  "url": "https://www.tiktok.com/@smartpicksdailyfinds/video/7709216732379893013"
- },
- {
-  "type": "video",
-  "pick": 15,
-  "file": "v/2026-11-16-apple-airtag-4-pack.mp4",
-  "posted": "2026-11-17",
-  "url": "https://www.tiktok.com/@smartpicksdailyfinds/video/7709259638167981318",
-  "note": "00:41 (18 Kas) çalışması, 17 Kas sayılır"
- },
- {
-  "type": "video",
-  "pick": 38,
-  "file": "v/2026-11-18-biodance-collagen-mask.mp4",
-  "posted": "2026-11-18",
-  "url": "https://www.tiktok.com/@smartpicksdailyfinds/video/7709476158642965781"
- },
- {
-  "type": "video",
-  "pick": 32,
-  "file": "v/2026-11-18-essence-lash-princess.mp4",
-  "posted": "2026-11-18",
-  "url": "https://www.tiktok.com/@smartpicksdailyfinds/video/7709586990848658708"
- },
- {
-  "type": "video",
-  "pick": 36,
-  "file": "v/2026-11-18-cosori-turboblaze.mp4",
-  "posted": "2026-11-18",
-  "url": "https://www.tiktok.com/@smartpicksdailyfinds/video/7709632457988967681",
-  "note": "00:41 (19 Kas) çalışması, 18 Kas sayılır"
- },
- {
-  "type": "video",
-  "pick": 48,
-  "file": "v/2026-11-19-levoit-core-300p.mp4",
-  "posted": "2026-11-19",
-  "url": "https://www.tiktok.com/@smartpicksdailyfinds/video/7709847348691602709"
- },
- {
-  "type": "video",
-  "pick": 35,
-  "file": "v/2026-11-18-medicube-zero-pore-pad.mp4",
-  "posted": "2026-11-19",
-  "url": "https://www.tiktok.com/@smartpicksdailyfinds/video/7709956999957449990"
- },
- {
-  "type": "video",
-  "pick": 42,
-  "file": "v/2026-11-19-soundcore-q20i.mp4",
-  "posted": "2026-11-19",
-  "url": "https://www.tiktok.com/@smartpicksdailyfinds/video/7710004763403816193"
- },
- {
-  "type": "video",
-  "pick": 52,
-  "file": "v/2026-11-20-amika-soulfood-mask.mp4",
-  "posted": "2026-11-20",
-  "url": "https://www.tiktok.com/@smartpicksdailyfinds/video/7710219997070691604"
- },
- {
-  "type": "video",
-  "pick": 53,
-  "file": "v/2026-11-20-jbl-go-4.mp4",
-  "posted": "2026-11-20",
-  "url": "https://www.tiktok.com/@smartpicksdailyfinds/video/7710326606530743573"
- },
- {
-  "type": "video",
-  "pick": 54,
-  "file": "v/2026-11-20-thermopro-tp19h.mp4",
-  "posted": "2026-11-20",
-  "url": "https://www.tiktok.com/@smartpicksdailyfinds/video/7710372956425243924",
-  "note": "00:41 (21 Kas) çalışması, 20 Kas sayılır"
- }
+  {
+    "type": "video",
+    "pick": 1,
+    "file": "v/2026-11-15-ugreen-nexode-air-65w.mp4",
+    "posted": "2026-11-16",
+    "url": "https://www.tiktok.com/@smartpicksdailyfinds/video/7708534480604056853",
+    "note": "ilk test paylaşımı; Markalı içerik açık"
+  },
+  {
+    "type": "photo",
+    "pick": 3,
+    "file": "pins/2026-11-15-ninja-af101-air-fryer.jpg",
+    "posted": "2026-11-16",
+    "url": "https://www.tiktok.com/@smartpicksdailyfinds/video/7708536859814612245",
+    "note": "ilk foto testi; Markalı içerik açık"
+  },
+  {
+    "type": "video",
+    "pick": 5,
+    "file": "v/2026-11-15-laneige-lip-glowy-balm.mp4",
+    "posted": "2026-11-16",
+    "url": "https://www.tiktok.com/@smartpicksdailyfinds/video/7708542174949854484"
+  },
+  {
+    "type": "video",
+    "pick": 25,
+    "file": "v/2026-11-17-dash-mini-waffle-maker.mp4",
+    "posted": "2026-11-17",
+    "url": "https://www.tiktok.com/@smartpicksdailyfinds/video/7709213388135615765"
+  },
+  {
+    "type": "video",
+    "pick": 8,
+    "file": "v/2026-11-15-anker-power-bank-20k-87w.mp4",
+    "posted": "2026-11-17",
+    "url": "https://www.tiktok.com/@smartpicksdailyfinds/video/7709216732379893013"
+  },
+  {
+    "type": "video",
+    "pick": 15,
+    "file": "v/2026-11-16-apple-airtag-4-pack.mp4",
+    "posted": "2026-11-17",
+    "url": "https://www.tiktok.com/@smartpicksdailyfinds/video/7709259638167981318",
+    "note": "00:41 (18 Kas) çalışması, 17 Kas sayılır"
+  },
+  {
+    "type": "video",
+    "pick": 38,
+    "file": "v/2026-11-18-biodance-collagen-mask.mp4",
+    "posted": "2026-11-18",
+    "url": "https://www.tiktok.com/@smartpicksdailyfinds/video/7709476158642965781"
+  },
+  {
+    "type": "video",
+    "pick": 32,
+    "file": "v/2026-11-18-essence-lash-princess.mp4",
+    "posted": "2026-11-18",
+    "url": "https://www.tiktok.com/@smartpicksdailyfinds/video/7709586990848658708"
+  },
+  {
+    "type": "video",
+    "pick": 36,
+    "file": "v/2026-11-18-cosori-turboblaze.mp4",
+    "posted": "2026-11-18",
+    "url": "https://www.tiktok.com/@smartpicksdailyfinds/video/7709632457988967681",
+    "note": "00:41 (19 Kas) çalışması, 18 Kas sayılır"
+  },
+  {
+    "type": "video",
+    "pick": 48,
+    "file": "v/2026-11-19-levoit-core-300p.mp4",
+    "posted": "2026-11-19",
+    "url": "https://www.tiktok.com/@smartpicksdailyfinds/video/7709847348691602709"
+  },
+  {
+    "type": "video",
+    "pick": 35,
+    "file": "v/2026-11-18-medicube-zero-pore-pad.mp4",
+    "posted": "2026-11-19",
+    "url": "https://www.tiktok.com/@smartpicksdailyfinds/video/7709956999957449990"
+  },
+  {
+    "type": "video",
+    "pick": 42,
+    "file": "v/2026-11-19-soundcore-q20i.mp4",
+    "posted": "2026-11-19",
+    "url": "https://www.tiktok.com/@smartpicksdailyfinds/video/7710004763403816193"
+  },
+  {
+    "type": "video",
+    "pick": 52,
+    "file": "v/2026-11-20-amika-soulfood-mask.mp4",
+    "posted": "2026-11-20",
+    "url": "https://www.tiktok.com/@smartpicksdailyfinds/video/7710219997070691604"
+  },
+  {
+    "type": "video",
+    "pick": 53,
+    "file": "v/2026-11-20-jbl-go-4.mp4",
+    "posted": "2026-11-20",
+    "url": "https://www.tiktok.com/@smartpicksdailyfinds/video/7710326606530743573"
+  },
+  {
+    "type": "video",
+    "pick": 54,
+    "file": "v/2026-11-20-thermopro-tp19h.mp4",
+    "posted": "2026-11-20",
+    "url": "https://www.tiktok.com/@smartpicksdailyfinds/video/7710372956425243924",
+    "note": "00:41 (21 Kas) çalışması, 20 Kas sayılır"
+  },
+  {
+    "type": "video",
+    "pick": 70,
+    "file": "v/2026-11-21-elf-halo-glow.mp4",
+    "posted": "2026-11-21",
+    "url": "https://www.tiktok.com/@smartpicksdailyfinds/video/7710589426627333397"
+  }
 ]
