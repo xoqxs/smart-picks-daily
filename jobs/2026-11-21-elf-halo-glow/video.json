@@ -1,0 +1,29 @@
+{
+ "slug": "2026-11-21-elf-halo-glow",
+ "pick": 70,
+ "category": "Beauty",
+ "asin": "B0B5MGBDHZ",
+ "name": "e.l.f. Halo Glow Liquid Filter",
+ "credit": "Image: e.l.f. Cosmetics",
+ "pin": {
+  "image": "kv",
+  "crop": [
+   1000,
+   1000,
+   1900
+  ],
+  "headline": "Filter Glow in a Bottle",
+  "sub": "Dewy Finish · Squalane + Hyaluronic Acid · 4 Ways",
+  "badge": {
+   "text": "Glow Pick",
+   "xy": [
+    90,
+    360
+   ]
+  },
+  "button": "See it on Amazon →"
+ },
+ "images": {
+  "kv": "img/kv.jpg"
+ }
+}

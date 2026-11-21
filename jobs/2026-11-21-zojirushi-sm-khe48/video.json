@@ -1,0 +1,29 @@
+{
+ "slug": "2026-11-21-zojirushi-sm-khe48",
+ "pick": 71,
+ "category": "Home & Kitchen",
+ "asin": "B005PO9T44",
+ "name": "Zojirushi SM-KHE48 16 oz Travel Mug",
+ "credit": "Image: Zojirushi",
+ "pin": {
+  "image": "kv",
+  "crop": [
+   1000,
+   1060,
+   1800
+  ],
+  "headline": "Coffee Still Hot at 3 PM",
+  "sub": "Locking Flip Lid · Cup-Holder Slim · 16 oz",
+  "badge": {
+   "text": "Top Pick",
+   "xy": [
+    90,
+    360
+   ]
+  },
+  "button": "See it on Amazon →"
+ },
+ "images": {
+  "kv": "img/kv.jpg"
+ }
+}

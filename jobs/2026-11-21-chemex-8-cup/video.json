@@ -1,0 +1,30 @@
+{
+ "slug": "2026-11-21-chemex-8-cup",
+ "pick": 69,
+ "category": "Home & Kitchen",
+ "asin": "B000I1WP7W",
+ "name": "Chemex Classic 8-Cup Pour-Over Coffeemaker",
+ "credit": "Image: Chemex",
+ "pin": {
+  "image": "kv_pin",
+  "crop": [
+   1050,
+   1050,
+   2100
+  ],
+  "headline": "Smooth, Grit-Free Pour-Over",
+  "sub": "40 oz Glass Carafe · Bonded Filters · Since 1941",
+  "badge": {
+   "text": "Gift Pick",
+   "xy": [
+    90,
+    360
+   ]
+  },
+  "button": "See it on Amazon →"
+ },
+ "images": {
+  "kv": "img/kv.jpg",
+  "kv_pin": "img/kv_pin.jpg"
+ }
+}
