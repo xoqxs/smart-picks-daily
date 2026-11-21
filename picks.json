@@ -1429,5 +1429,68 @@
   "short_score": 7,
   "in_weekly": false,
   "sub": "Computer Accessories"
+ },
+ {
+  "pick": 69,
+  "date": "2026-11-21",
+  "category": "Home & Kitchen",
+  "name": "Chemex Classic Series Pour-Over Glass Coffeemaker, 8-Cup (CM-8A)",
+  "asin": "B000I1WP7W",
+  "asin_sources": [
+   "search result amazon.com/Chemex-Classic-Pour-over-Glass-Coffeemaker/dp/B000I1WP7W 'Chemex Pour-Over Glass Coffeemaker - Classic Series - 8-Cup'",
+   "desertcart.co.th/products/672632: 'Chemex ... Classic Series 8-Cup', 40 fl oz, ASIN B000I1WP7W"
+  ],
+  "amazon": "https://www.amazon.com/dp/B000I1WP7W?tag=desksetuppi07-20",
+  "post": "https://www.yaypicks.com/2026/11/chemex-8-cup-review-clean-smooth-pour.html",
+  "short": null,
+  "short_date": null,
+  "pin": null,
+  "job": "jobs/2026-11-21-chemex-8-cup",
+  "sales_signal": "4.8★, 8.5K+ ratings, #4 in Pour Over Coffee Makers (desertcart); Reviewed Editor's Choice, Popular Science best overall",
+  "short_score": 8,
+  "in_weekly": false,
+  "sub": "Drinkware & Coffee"
+ },
+ {
+  "pick": 70,
+  "date": "2026-11-21",
+  "category": "Beauty",
+  "name": "e.l.f. Halo Glow Liquid Filter (3 Light/Medium)",
+  "asin": "B0B5MGBDHZ",
+  "asin_sources": [
+   "search result amazon.com/clp/B0B5MGBDHZ 'e.l.f. Halo Glow Liquid Filter, Hydrating Complexion Boost, 3 Light/Medium'",
+   "desertcart.tw/products/453147700: 'e.l.f. Halo Glow Liquid Filter ... Light - Medium', ASIN B0B5MGBDHZ"
+  ],
+  "amazon": "https://www.amazon.com/dp/B0B5MGBDHZ?tag=desksetuppi07-20",
+  "post": "https://www.yaypicks.com/2026/11/elf-halo-glow-liquid-filter-review-glow.html",
+  "short": null,
+  "short_date": null,
+  "pin": null,
+  "job": "jobs/2026-11-21-elf-halo-glow",
+  "sales_signal": "4.4★, 19K ratings, #1 in Face Highlighters & Luminizers (desertcart); Walmart 'Best seller'; ~$14 (band edge)",
+  "short_score": 9,
+  "in_weekly": false,
+  "sub": "Makeup"
+ },
+ {
+  "pick": 71,
+  "date": "2026-11-21",
+  "category": "Home & Kitchen",
+  "name": "Zojirushi SM-KHE48 Stainless Steel Travel Mug, 16 oz (Smoky Blue)",
+  "asin": "B005PO9T44",
+  "asin_sources": [
+   "desertcart.co.th/products/1499375: 'Zojirushi Stainless Steel Mug (16oz, Smoky Blue)' SM-KHE48AG, ASIN B005PO9T44",
+   "kk.org/cooltools/zojirushi-stainless-steel-mug: Amazon link 'Zojirushi SM-KHE48AG ... 16-ounce' dp/B005PO9T44 (+ Pack Hacker link)"
+  ],
+  "amazon": "https://www.amazon.com/dp/B005PO9T44?tag=desksetuppi07-20",
+  "post": "https://www.yaypicks.com/2026/11/zojirushi-sm-khe48-review-hot-coffee.html",
+  "short": null,
+  "short_date": null,
+  "pin": null,
+  "job": "jobs/2026-11-21-zojirushi-sm-khe48",
+  "sales_signal": "4.6★, 26K+ ratings, #7 in Insulated Cups & Mugs (desertcart); Reviewed Best Overall travel mug",
+  "short_score": 8,
+  "in_weekly": false,
+  "sub": "Drinkware & Coffee"
  }
 ]
