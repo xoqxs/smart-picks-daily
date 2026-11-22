@@ -1,0 +1,22 @@
+{
+ "slug": "2026-11-22-logitech-g305",
+ "pick": 82,
+ "category": "Tech",
+ "asin": "B07CMS5Q6P",
+ "name": "Logitech G305 LIGHTSPEED Wireless Mouse",
+ "credit": "Image: Logitech",
+ "pin": {
+  "image": "kv",
+  "crop": [
+   1000,
+   1000,
+   1500
+  ],
+  "headline": "Wireless. Fast. Light.",
+  "sub": "HERO sensor \u00b7 250h battery \u00b7 99 g",
+  "button": "See it on Amazon \u2192"
+ },
+ "images": {
+  "kv": "img/kv.jpg"
+ }
+}

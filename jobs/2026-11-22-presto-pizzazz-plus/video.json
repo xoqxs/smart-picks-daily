@@ -1,0 +1,22 @@
+{
+ "slug": "2026-11-22-presto-pizzazz-plus",
+ "pick": 80,
+ "category": "Home & Kitchen",
+ "asin": "B00005IBXJ",
+ "name": "Presto Pizzazz Plus Rotating Oven",
+ "credit": "Image: Presto",
+ "pin": {
+  "image": "kv",
+  "crop": [
+   760,
+   760,
+   1400
+  ],
+  "headline": "No-Preheat Pizza Oven",
+  "sub": "No preheat \u00b7 Even bake \u00b7 Easy cleanup",
+  "button": "See it on Amazon \u2192"
+ },
+ "images": {
+  "kv": "img/kv.jpg"
+ }
+}
