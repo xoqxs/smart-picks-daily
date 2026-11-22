@@ -1,0 +1,22 @@
+{
+ "slug": "2026-11-22-oxo-herb-scissors",
+ "pick": 83,
+ "category": "Home & Kitchen",
+ "asin": "B000KILLXM",
+ "name": "OXO Good Grips Kitchen & Herbs Scissors",
+ "credit": "Image: OXO",
+ "pin": {
+  "image": "kv",
+  "crop": [
+   1050,
+   1050,
+   2100
+  ],
+  "headline": "Shears Cooks Grab Daily",
+  "sub": "Herbs \u00b7 Chicken \u00b7 Comes Apart",
+  "button": "See it on Amazon \u2192"
+ },
+ "images": {
+  "kv": "img/kv.jpg"
+ }
+}
