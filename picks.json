@@ -1766,5 +1766,71 @@
   "short_score": 7,
   "in_weekly": false,
   "sub": "Cookware & Kitchen Tools"
+ },
+ {
+  "pick": 84,
+  "date": "2026-11-22",
+  "category": "Home & Kitchen",
+  "name": "Owala FreeSip Insulated Stainless Steel Water Bottle, 32 oz (Shy Marshmallow)",
+  "asin": "B085DVNHHK",
+  "asin_sources": [
+   "asinsight.com/report/US/owala-freesip-32-oz: 'Owala FreeSip Stainless Steel Water Bottle 32 oz Shy Marshmallow' B085DVNHHK (4.6★, 134,225 ratings, #2 in report)",
+   "wholefoodsmarket.com/grocery/product/32-ounces-b085dvnhhk: 'Owala FreeSip Stainless Steel Water Bottle 32 oz Shy Marshmallow' B085DVNHHK"
+  ],
+  "amazon": "https://www.amazon.com/dp/B085DVNHHK?tag=desksetuppi07-20",
+  "post": "https://www.yaypicks.com/2026/11/owala-freesip-32-oz-review-sip-or-swig.html",
+  "short": null,
+  "short_date": null,
+  "pin": null,
+  "job": "jobs/2026-11-22-owala-freesip-32oz",
+  "sales_signal": "4.6★, 134K ratings (FreeSip family), #2 asinsight 'owala freesip 32 oz'; FreeSip #7 Water Bottles (desertcart)",
+  "short_score": 9,
+  "in_weekly": false,
+  "sub": "Drinkware & Coffee",
+  "batch": "sprint50"
+ },
+ {
+  "pick": 85,
+  "date": "2026-11-22",
+  "category": "Beauty",
+  "name": "Laura Mercier Translucent Loose Setting Powder (Translucent, 1 oz / 29 g)",
+  "asin": "B00062ADKO",
+  "asin_sources": [
+   "asinsight.com/report/US/loose-setting-powder: 'Laura Mercier Translucent Loose Setting Powder, 24HR Shine Control, Soft Matte Finish' B00062ADKO (4.7★, 2,149 ratings, #6 in report; #9 in 'setting-powder')",
+   "desertcart.com.kw/products/771342: 'Laura Mercier Translucent Loose Setting Powder' (Translucent, 29 g) B00062ADKO (4.7★, 2,022 ratings, #16 Face Powder)"
+  ],
+  "amazon": "https://www.amazon.com/dp/B00062ADKO?tag=desksetuppi07-20",
+  "post": "https://www.yaypicks.com/2026/11/laura-mercier-setting-powder-review.html",
+  "short": null,
+  "short_date": null,
+  "pin": null,
+  "job": "jobs/2026-11-22-laura-mercier-setting-powder",
+  "sales_signal": "4.7★, ~2.1K ratings, #16 Face Powder (desertcart), #6 asinsight 'loose setting powder'; premium beauty",
+  "short_score": 8,
+  "in_weekly": false,
+  "sub": "Makeup",
+  "batch": "sprint50"
+ },
+ {
+  "pick": 86,
+  "date": "2026-11-22",
+  "category": "Tech",
+  "name": "TP-Link Tapo P125M Matter Smart Plug Mini, 15A/1800W, White (3-Pack)",
+  "asin": "B0BXMNJDW3",
+  "asin_sources": [
+   "asinsight.com/report/US/matter-smart-plug: 'TP-Link Tapo Matter Supported Smart Plug Mini, Compact Design, 15A/1800W' B0BXMNJDW3 (4.5★, 2,774 ratings, #8 in report; #10 in 'smart-plug')",
+   "desertcart.ae/products/518196548: 'TP-Link Tapo Matter Supported Smart Plug Mini ... Tapo P125M(3-Pack)' B0BXMNJDW3 (4.5★, 2,606 ratings)"
+  ],
+  "amazon": "https://www.amazon.com/dp/B0BXMNJDW3?tag=desksetuppi07-20",
+  "post": "https://www.yaypicks.com/2026/11/tapo-p125m-review-matter-smart-plug-for.html",
+  "short": null,
+  "short_date": null,
+  "pin": null,
+  "job": "jobs/2026-11-22-tapo-p125m-smart-plug",
+  "sales_signal": "4.5★, ~2.8K ratings, #8 asinsight 'matter smart plug', #10 'smart plug'; Bestseller tag on Tapo store",
+  "short_score": 6,
+  "in_weekly": false,
+  "sub": "Gadgets & Smart Home",
+  "batch": "sprint50"
  }
 ]
