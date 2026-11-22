@@ -13,10 +13,135 @@
    1452
   ],
   "headline": "Bum Bum Scent in a Mist",
-  "sub": "Pistachio \u00b7 salted caramel \u00b7 body & hair",
-  "button": "See it on Amazon \u2192"
+  "sub": "Pistachio · salted caramel · body & hair",
+  "button": "See it on Amazon →"
  },
  "images": {
   "kv": "img/kv.jpg"
- }
+ },
+ "scenes": [
+  {
+   "type": "card",
+   "image": "kv",
+   "from": [
+    726,
+    726,
+    1452
+   ],
+   "to": [
+    726,
+    700,
+    1050
+   ],
+   "line": "Pistachio, salted caramel and warm vanilla, all in one quick spritz. This is the scent behind a cult-favorite body cream.",
+   "hl": [
+    "Pistachio,",
+    "salted",
+    "caramel",
+    "vanilla,",
+    "cult-favorite"
+   ]
+  },
+  {
+   "type": "card",
+   "image": "kv",
+   "from": [
+    726,
+    600,
+    900
+   ],
+   "to": [
+    726,
+    560,
+    700
+   ],
+   "line": "Meet Sol de Janeiro Cheirosa sixty-two. The same signature scent as the Brazilian Bum Bum Cream, in a big two-hundred-forty milliliter mist.",
+   "hl": [
+    "Cheirosa",
+    "sixty-two.",
+    "Bum",
+    "Bum",
+    "Cream,",
+    "mist."
+   ],
+   "badge": {
+    "big": "240 mL",
+    "small": "hair & body mist"
+   }
+  },
+  {
+   "type": "card",
+   "image": "kv",
+   "from": [
+    726,
+    700,
+    1000
+   ],
+   "to": [
+    726,
+    760,
+    1350
+   ],
+   "line": "Spray it on your body, your hair, or your clothes. An easy gift idea for any Bum Bum Cream fan.",
+   "hl": [
+    "body,",
+    "hair,",
+    "clothes.",
+    "gift"
+   ],
+   "chips": [
+    "Body",
+    "Hair",
+    "Clothes"
+   ]
+  },
+  {
+   "type": "tip",
+   "title": "PRO TIP",
+   "boxes": [
+    [
+     "Cream",
+     "first"
+    ],
+    [
+     "Pulse",
+     "points"
+    ],
+    [
+     "Mist",
+     "fabric"
+    ]
+   ],
+   "note": "A sweet gourmand scent, not crisp citrus.",
+   "line": "Pro tip: put the cream on first, then mist your pulse points. A light spray on a scarf lingers even longer.",
+   "hl": [
+    "cream",
+    "first,",
+    "pulse",
+    "points.",
+    "scarf"
+   ]
+  },
+  {
+   "type": "cta",
+   "image": "kv",
+   "from": [
+    726,
+    760,
+    1350
+   ],
+   "to": [
+    726,
+    726,
+    1452
+   ],
+   "line": "It's pick number eighty-one. Find the link on our channel, under Video Picks.",
+   "hl": [
+    "eighty-one.",
+    "channel,",
+    "Video",
+    "Picks."
+   ]
+  }
+ ]
 }
