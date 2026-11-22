@@ -144,14 +144,17 @@
   function load() {
     if (idx) return Promise.resolve(idx);
     if (loading) return loading;
-    loading = fetch('/feeds/posts/summary?alt=json&max-results=500').then(function (r) { return r.json(); }).then(function (j) {
+    var CDN = 'https://cdn.jsdelivr.net/gh/xoqxs/smart-picks-daily@main/', TH = {};
+    var thumbs = fetch(CDN + 'site/search.json?v=' + Math.floor(Date.now() / 3600000)).then(function (r) { return r.json(); }).then(function (m) { TH = m; }).catch(function () {});
+    loading = Promise.all([fetch('/feeds/posts/summary?alt=json&max-results=500').then(function (r) { return r.json(); }), thumbs]).then(function (res) { var j = res[0];
       idx = (j.feed.entry || []).map(function (e) {
         var link = (e.link.filter(function (k) { return k.rel === 'alternate'; })[0] || {}).href || '';
         var labels = (e.category || []).map(function (c) { return c.term; });
         var sub = labels.filter(function (l) { return MAIN.indexOf(l) < 0; })[0] || labels.filter(function (l) { return l !== 'Buying Guides'; })[0] || '';
-        var img = e.media$thumbnail ? e.media$thumbnail.url.replace(/\/s72-c\//, '/s144-c/').replace(/=s72-c$/, '=s144-c') : '';
+        var path = link.replace(/^https?:\/\/[^/]+/, '');
+        var img = TH[path] ? CDN + TH[path] : '';
         var title = e.title.$t;
-        return { url: link.replace(/^https?:\/\/[^/]+/, ''), title: title, img: img, sub: sub, guide: labels.indexOf('Gift Guides') >= 0,
+        return { url: path, title: title, img: img, sub: sub, guide: labels.indexOf('Gift Guides') >= 0,
           hay: (title + ' ' + labels.join(' ') + ' ' + ((e.summary && e.summary.$t) || '')).toLowerCase() };
       });
       return idx;
@@ -159,7 +162,7 @@
     return loading;
   }
   function item(p) {
-    return '<a class="it" href="' + esc(p.url) + '">' + (p.img ? '<img loading="lazy" alt="" src="' + esc(p.img) + '">' : '<img alt="">') +
+    return '<a class="it" href="' + esc(p.url) + '">' + (p.img ? '<img loading="lazy" alt="" src="' + esc(p.img) + '">' : '<i style="width:52px;height:52px;border-radius:10px;background:#f5f5f7;flex:none;display:grid;place-items:center;font-style:normal;font-size:24px">' + (p.guide ? '🎁' : '✨') + '</i>') +
       '<span>' + esc(p.title) + '<em>' + esc(p.guide ? 'Gift guide' : p.sub) + '</em></span></a>';
   }
   function render() {
