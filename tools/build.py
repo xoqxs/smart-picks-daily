@@ -103,7 +103,7 @@ class Video:
         total = sum(self.dur); done = sum(self.dur[:i]) + t
         d.rounded_rectangle([60, 120, W - 60, 128], 4, fill=(40, 46, 58))
         d.rounded_rectangle([60, 120, 60 + (W - 120) * min(1, done / total), 128], 4, fill=LIME)
-        f = XB(40); d.text((60, 160), "YAYPICKS", font=f, fill=GREY)
+        f = XB(40); d.text((60, 160), "YAYPICKS.COM", font=f, fill=GREY)
         s = "#ad"; d.text((W - 60 - d.textlength(s, font=f), 160), s, font=f, fill=GREY)
         return im
 
@@ -164,6 +164,8 @@ class Video:
                 d.text(((W - d.textlength(s, font=f)) / 2, 1110 + bob), s, font=f, fill=mix(LIME, a))
                 f2 = MD(40); s2 = "Tap the channel name  ·  Video Picks"
                 d.text(((W - d.textlength(s2, font=f2)) / 2, 1190 + bob), s2, font=f2, fill=mix(GREY, a))
+                f3 = XB(44); s3 = "or search it on yaypicks.com"
+                d.text(((W - d.textlength(s3, font=f3)) / 2, 1258 + bob), s3, font=f3, fill=mix(WHITE, a))
         self.subtitle(d, t, sc["line"], sc.get("hl", []))
         return im
 

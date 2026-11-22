@@ -65,7 +65,7 @@ def build(out_slug, title, jobs, stills=False):
         im = Image.new("RGB", (W, H), BG); d = ImageDraw.Draw(im)
         d.rounded_rectangle([90, 60, W - 90, 66], 3, fill=(40, 46, 58))
         d.rounded_rectangle([90, 60, 90 + (W - 180) * min(1, (s.start + tt) / total), 66], 3, fill=LIME)
-        d.text((90, 84), "YAYPICKS", font=XB(30), fill=GREY)
+        d.text((90, 84), "YAYPICKS.COM", font=XB(30), fill=GREY)
         d.text((W - 90 - d.textlength("#ad", font=XB(30)), 84), "#ad", font=XB(30), fill=GREY)
         if s.kind == "intro":
             a = prog(tt, 0.1, 0.5)

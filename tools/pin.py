@@ -26,7 +26,7 @@ cx, cy, s = p["crop"]
 crop = src.crop((cx - s // 2, cy - s // 2, cx + s // 2, cy + s // 2)).resize((900, 900), Image.LANCZOS)
 m = Image.new("L", (900, 900), 0); ImageDraw.Draw(m).rounded_rectangle((0, 0, 899, 899), radius=48, fill=255)
 im.paste(crop, (50, 330), m)
-d.text((60, 70), "YAYPICKS", font=XB(34), fill=GREY)
+d.text((60, 70), "YAYPICKS.COM", font=XB(34), fill=GREY)
 y = 130
 for ln in wrap(d, p["headline"], XB(72), 880)[:2]:
     d.text((60, y), ln, font=XB(72), fill=WHITE); y += 84
