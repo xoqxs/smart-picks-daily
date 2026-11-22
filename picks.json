@@ -1724,5 +1724,26 @@
   "short_score": 9,
   "in_weekly": false,
   "sub": "Computer Accessories"
+ },
+ {
+  "pick": 83,
+  "date": "2026-11-22",
+  "category": "Home & Kitchen",
+  "name": "OXO Good Grips Multi-Purpose Kitchen & Herbs Scissors (1072121)",
+  "asin": "B000KILLXM",
+  "asin_sources": [
+   "desertcart.nl/products/762426-oxo-good-grips-multi-purpose-kitchen-and-herbs-scissors: 'OXO Good Grips Multi-Purpose Kitchen & Herbs Scissors, Shears' B000KILLXM (4.8★, 12,944 ratings, #7 Kitchen Shears)",
+   "reviewed.com/cooking/best-right-nows/the-best-kitchen-shears-and-scissors: 'OXO Good Grips Kitchen And Herb Scissors' Best Overall, links amazon.com/dp/B000KILLXM"
+  ],
+  "amazon": "https://www.amazon.com/dp/B000KILLXM?tag=desksetuppi07-20",
+  "post": "https://www.yaypicks.com/2026/11/oxo-herb-scissors-review-sharp-comfy.html",
+  "short": null,
+  "short_date": null,
+  "pin": null,
+  "job": "jobs/2026-11-22-oxo-herb-scissors",
+  "sales_signal": "4.8★, ~12.9K ratings, #7 Kitchen Shears (desertcart.nl; #16 Kitchen Scissors on .nz), Reviewed Best Overall",
+  "short_score": 7,
+  "in_weekly": false,
+  "sub": "Cookware & Kitchen Tools"
  }
 ]
