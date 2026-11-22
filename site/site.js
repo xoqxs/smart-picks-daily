@@ -144,7 +144,7 @@
   function load() {
     if (idx) return Promise.resolve(idx);
     if (loading) return loading;
-    var CDN = 'https://cdn.jsdelivr.net/gh/xoqxs/smart-picks-daily@main/', TH = {};
+    var CDN = 'https://raw.githubusercontent.com/xoqxs/smart-picks-daily/main/', TH = {};
     var thumbs = fetch(CDN + 'site/search.json?v=' + Math.floor(Date.now() / 3600000)).then(function (r) { return r.json(); }).then(function (m) { TH = m; }).catch(function () {});
     loading = Promise.all([fetch('/feeds/posts/summary?alt=json&max-results=500').then(function (r) { return r.json(); }), thumbs]).then(function (res) { var j = res[0];
       idx = (j.feed.entry || []).map(function (e) {
@@ -175,12 +175,13 @@
       var g = idx.filter(function (p) { return p.guide; }).slice(0, 3);
       if (g.length) html += '<h4>Gift guides</h4>' + g.map(item).join('');
       html += '<h4>Latest picks</h4>' + idx.filter(function (p) { return !p.guide; }).slice(0, 8).map(item).join('');
+      html += '<a class="all" href="/search">Browse all ' + idx.filter(function (p) { return !p.guide; }).length + ' picks ›</a>';
     } else {
       var words = q.split(/\s+/);
       var hits = idx.filter(function (p) { return words.every(function (w) { return p.hay.indexOf(w) >= 0; }); });
       hits.sort(function (a, b) { return (b.title.toLowerCase().indexOf(q) >= 0) - (a.title.toLowerCase().indexOf(q) >= 0); });
       html += hits.length ? '<h4>' + hits.length + ' pick' + (hits.length > 1 ? 's' : '') + '</h4>' + hits.slice(0, 12).map(item).join('') +
-        (hits.length > 12 ? '<a class="all" href="/search?q=' + encodeURIComponent(input.value.trim()) + '">See all results ›</a>' : '')
+        '<a class="all" href="/search?q=' + encodeURIComponent(input.value.trim()) + '">See all results for “' + esc(input.value.trim()) + '” ›</a>'
         : '<div class="none">No picks match “' + esc(input.value.trim()) + '” yet. Try a brand or a product type, like “kettle” or “serum”.</div>';
     }
     box.innerHTML = html;
