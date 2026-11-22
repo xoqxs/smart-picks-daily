@@ -1,0 +1,22 @@
+{
+ "slug": "2026-11-22-tapo-p125m-smart-plug",
+ "pick": 86,
+ "category": "Tech",
+ "asin": "B0BXMNJDW3",
+ "name": "Tapo P125M Matter Smart Plug Mini (3-Pack)",
+ "credit": "Image: TP-Link Tapo",
+ "pin": {
+  "image": "kv",
+  "crop": [
+   750,
+   750,
+   1500
+  ],
+  "headline": "Make Any Lamp Smart",
+  "sub": "Matter \u00b7 Alexa \u00b7 Apple Home \u00b7 Google",
+  "button": "See it on Amazon \u2192"
+ },
+ "images": {
+  "kv": "img/kv.jpg"
+ }
+}
