@@ -1,10 +1,10 @@
-/* Smart Picks Daily – site helpers (loaded by the theme from jsDelivr).
+/* YayPicks – site helpers (loaded by the theme from jsDelivr).
    1) Post pages: "More picks like this" (same subcategory, then main category) + Black Friday banner during the event.
    2) Label pages: subcategory chips under the heading.
    No prices are shown anywhere. */
 (function () {
   var CATS = {
-    'Electronics': ['Headphones & Speakers', 'Computer Accessories', 'Gadgets & Smart Home'],
+    'Tech': ['Headphones & Speakers', 'Computer Accessories', 'Gadgets & Smart Home'],
     'Home & Kitchen': ['Kitchen Appliances', 'Cookware & Kitchen Tools', 'Drinkware & Coffee', 'Home Care & Comfort'],
     'Beauty': ['Skincare', 'Hair Care', 'Makeup']
   };
@@ -24,7 +24,12 @@
     '.spd-chips a.on{background:#1d1d1f;color:#fff!important}' +
     '.nav .wrap .nav-links{margin-left:28px}' +
     '@media(max-width:640px){.nav .wrap{padding:0 14px}.brand{font-size:15px!important;white-space:nowrap;gap:7px!important}.nav-search{margin-left:auto!important;margin-right:6px!important}.nav-search input{width:92px!important}.nav-search input:focus{width:120px!important}.nav-cta{white-space:nowrap;font-size:12px!important;padding:6px 10px!important}}' +
-    '@media(max-width:700px){.spd-rel-grid{grid-template-columns:repeat(2,1fr)}}';
+    '@media(max-width:700px){.spd-rel-grid{grid-template-columns:repeat(2,1fr)}}' +
+    '.spd-buy{position:fixed;left:10px;right:10px;bottom:10px;z-index:60;display:none;align-items:center;gap:10px;background:#1d1d1f;color:#fff;border-radius:18px;padding:10px 10px 10px 16px;box-shadow:0 8px 30px rgba(0,0,0,.25);transform:translateY(140%);transition:transform .25s ease}' +
+    '.spd-buy.show{transform:none}.spd-buy b{flex:1;font-size:14px;line-height:1.25;overflow:hidden;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}' +
+    '.spd-buy a{background:#b6e324;color:#1d1d1f!important;font-weight:700;font-size:14px;padding:11px 14px;border-radius:12px;white-space:nowrap;text-decoration:none!important}' +
+    '.spd-buy small{display:block;font-size:10px;opacity:.6;font-weight:400}' +
+    '@media(max-width:760px){.spd-buy{display:flex}body.spd-has-buy{padding-bottom:84px}}';
   var st = document.createElement('style'); st.textContent = css; document.head.appendChild(st);
 
   function esc(s) { return String(s || '').replace(/[&<>"']/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]; }); }
@@ -48,6 +53,32 @@
       head.parentNode.insertBefore(div, head.nextSibling);
     }
   }
+
+  // ---- Nav: Gift Guides link
+  var nl = document.querySelector('.nav-links');
+  if (nl && !nl.querySelector('a[href*="Gift%20Guides"]')) {
+    var g = document.createElement('a'); g.href = '/search/label/Gift%20Guides'; g.textContent = 'Gift Guides';
+    nl.insertBefore(g, nl.firstChild);
+  }
+
+  // ---- Post pages: sticky "Check it on Amazon" bar (mobile), single-product reviews only
+  (function () {
+    var b = document.querySelector('article.article .post-body');
+    if (!b || !/\/\d{4}\/\d{2}\//.test(location.pathname)) return;
+    var links = [].slice.call(b.querySelectorAll('a[href*="amazon.com/dp/"]'));
+    var asins = {}; links.forEach(function (a) { var m = a.href.match(/\/dp\/([A-Z0-9]{10})/); if (m) asins[m[1]] = a.href; });
+    var keys = Object.keys(asins);
+    if (keys.length !== 1) return;
+    var h1 = document.querySelector('article.article h1');
+    var name = (h1 ? h1.textContent : '').split(/:| Review| – | - /)[0].trim();
+    var bar = document.createElement('div'); bar.className = 'spd-buy';
+    bar.innerHTML = '<b>' + esc(name) + '<small>As an Amazon Associate we earn from qualifying purchases.</small></b>' +
+      '<a target="_blank" rel="nofollow sponsored noopener" href="' + esc(asins[keys[0]]) + '">Check it on Amazon</a>';
+    document.body.appendChild(bar); document.body.classList.add('spd-has-buy');
+    var shown = false;
+    function onScroll() { var y = window.scrollY || 0; var s = y > 500; if (s !== shown) { shown = s; bar.classList.toggle('show', s); } }
+    window.addEventListener('scroll', onScroll, { passive: true }); onScroll();
+  })();
 
   // ---- Post pages: related picks
   var body = document.querySelector('article.article .post-body');
