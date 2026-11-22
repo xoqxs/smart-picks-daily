@@ -1,0 +1,22 @@
+{
+ "slug": "2026-11-22-microplane-premium-classic-zester",
+ "pick": 75,
+ "category": "Home & Kitchen",
+ "asin": "B00151WA06",
+ "name": "Microplane Premium Classic Zester",
+ "credit": "Image: Microplane",
+ "pin": {
+  "image": "kv",
+  "crop": [
+   600,
+   600,
+   1200
+  ],
+  "headline": "Fluffy Parmesan in Seconds",
+  "sub": "Cheese \u00b7 Citrus zest \u00b7 Ginger \u00b7 Garlic",
+  "button": "See it on Amazon \u2192"
+ },
+ "images": {
+  "kv": "img/kv.jpg"
+ }
+}

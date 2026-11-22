@@ -1,0 +1,29 @@
+{
+ "slug": "2026-11-22-black-decker-toaster-oven",
+ "pick": 74,
+ "category": "Home & Kitchen",
+ "asin": "B00GGFHH4U",
+ "name": "BLACK+DECKER 4-Slice Toaster Oven",
+ "credit": "Image: BLACK+DECKER",
+ "pin": {
+  "image": "kv",
+  "crop": [
+   980,
+   965,
+   1400
+  ],
+  "headline": "Tiny Toaster Oven, Big Jobs",
+  "sub": "Fits a 9\" pizza \u00b7 Bake \u00b7 Broil \u00b7 Toast",
+  "badge": {
+   "text": "4 SL",
+   "xy": [
+    700,
+    1110
+   ]
+  },
+  "button": "See it on Amazon \u2192"
+ },
+ "images": {
+  "kv": "img/kv.jpg"
+ }
+}

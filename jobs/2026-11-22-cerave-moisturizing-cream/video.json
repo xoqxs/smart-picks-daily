@@ -1,0 +1,22 @@
+{
+ "slug": "2026-11-22-cerave-moisturizing-cream",
+ "pick": 76,
+ "category": "Beauty",
+ "asin": "B00TTD9BRC",
+ "name": "CeraVe Moisturizing Cream",
+ "credit": "Image: CeraVe",
+ "pin": {
+  "image": "kv",
+  "crop": [
+   720,
+   1190,
+   1120
+  ],
+  "headline": "One Tub, Face to Toes",
+  "sub": "3 ceramides \u00b7 Fragrance-free \u00b7 Face & body",
+  "button": "See it on Amazon \u2192"
+ },
+ "images": {
+  "kv": "img/kv.jpg"
+ }
+}
