@@ -1492,5 +1492,47 @@
   "short_score": 8,
   "in_weekly": false,
   "sub": "Drinkware & Coffee"
+ },
+ {
+  "pick": 72,
+  "date": "2026-11-22",
+  "category": "Tech",
+  "name": "JBL Tune 520BT Wireless On-Ear Headphones (Black)",
+  "asin": "B0C1HGKNG7",
+  "asin_sources": [
+   "Slickdeals thread 18733318: 'JBL Tune 520BT - Wireless On-Ear Headphones, Up to 57H Battery Life ... Hands-Free Calls with Voice Aware (Black) $34 - 2025-10-25' linking https://www.amazon.com/dp/B0C1HGKNG7",
+   "camelcamelcamel (ca.camelcamelcamel.com/product/B0C1HGKNG7) title: 'JBL Tune 520BT - Wireless On-Ear Headphones, Up to 57H Battery Life and Speed Charge, ... Hands-Free Calls with Voice Aware (Black)'; also Recording Now review links amazon.com/JBL-Tune-520BT-Ear-Headphones/dp/B0C1HGKNG7 and SoundGuys 'See price at Amazon' -> dealhunt.co/us-B0C1HGKNG7"
+  ],
+  "amazon": "https://www.amazon.com/dp/B0C1HGKNG7?tag=desksetuppi07-20",
+  "post": "https://www.yaypicks.com/2026/11/jbl-tune-520bt-review-57-hour-battery.html",
+  "short": null,
+  "short_date": null,
+  "pin": null,
+  "job": "jobs/2026-11-22-jbl-tune-520bt",
+  "sales_signal": "4.7★, ~14.9K ratings (shared across colors), top-10 in 'JBL headphones' best sellers, ~3K/month on Purple listing alone (asinsight); Walmart 'Best seller'",
+  "short_score": 8,
+  "in_weekly": false,
+  "sub": "Headphones & Speakers"
+ },
+ {
+  "pick": 73,
+  "date": "2026-11-22",
+  "category": "Beauty",
+  "name": "SKIN1004 Madagascar Centella Ampoule, 100 ml (3.38 fl oz)",
+  "asin": "B06Y15D1LH",
+  "asin_sources": [
+   "asinsight.com/report/US/skin1004-madagascar-centella: 'B06Y15D1LH — SKIN1004 [Hudson's Pick] Madagascar Centella Ampoule, Korean Face Serum ... 3.38 fl.oz, 100ml' (4.7 stars, 9.4K ratings)",
+   "slickdeals.net/f/19354023 (Mar 27, 2026): 'SKIN1004 Madagascar Centella Ampoule, Korean Face Serum ... 3.38 fl oz (100 ml)' linking https://www.amazon.com/dp/B06Y15D1LH (also camelcamelcamel.com/product/B06Y15D1LH titled 'SKIN1004 Madagascar Centella Asiatica Ampoule Facial Serum 3.38 fl.oz(100ml)' in search results)"
+  ],
+  "amazon": "https://www.amazon.com/dp/B06Y15D1LH?tag=desksetuppi07-20",
+  "post": "https://www.yaypicks.com/2026/11/skin1004-centella-ampoule-light.html",
+  "short": null,
+  "short_date": null,
+  "pin": null,
+  "job": "jobs/2026-11-22-skin1004-centella-ampoule",
+  "sales_signal": "Asinsight (US): 4.7 stars from ~9.4K ratings, est. ~10,000 units/month; #6 in its 'skin1004 madagascar centella' keyword report (no category rank shown)",
+  "short_score": 9,
+  "in_weekly": false,
+  "sub": "Skincare"
  }
 ]
