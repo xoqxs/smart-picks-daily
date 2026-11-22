@@ -1,0 +1,29 @@
+{
+ "slug": "2026-11-22-skin1004-centella-ampoule",
+ "pick": 73,
+ "category": "Beauty",
+ "asin": "B06Y15D1LH",
+ "name": "SKIN1004 Centella Ampoule",
+ "credit": "Image: SKIN1004",
+ "pin": {
+  "image": "kv",
+  "crop": [
+   1024,
+   1024,
+   2040
+  ],
+  "headline": "7 Ingredients, Pure Comfort",
+  "sub": "Watery · Fragrance-Free · Layers Easily",
+  "badge": {
+   "text": "100 ml",
+   "xy": [
+    600,
+    1090
+   ]
+  },
+  "button": "See it on Amazon →"
+ },
+ "images": {
+  "kv": "img/kv.jpg"
+ }
+}

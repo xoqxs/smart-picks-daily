@@ -1,0 +1,29 @@
+{
+ "slug": "2026-11-22-jbl-tune-520bt",
+ "pick": 72,
+ "category": "Tech",
+ "asin": "B0C1HGKNG7",
+ "name": "JBL Tune 520BT Headphones",
+ "credit": "Image: JBL",
+ "pin": {
+  "image": "kv",
+  "crop": [
+   800,
+   800,
+   1560
+  ],
+  "headline": "57 Hours of Big JBL Bass",
+  "sub": "57-hr battery · Multipoint · Foldable",
+  "badge": {
+   "text": "57H",
+   "xy": [
+    640,
+    1080
+   ]
+  },
+  "button": "See it on Amazon →"
+ },
+ "images": {
+  "kv": "img/kv.jpg"
+ }
+}
