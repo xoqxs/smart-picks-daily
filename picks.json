@@ -1534,5 +1534,68 @@
   "short_score": 9,
   "in_weekly": false,
   "sub": "Skincare"
+ },
+ {
+  "pick": 74,
+  "date": "2026-11-22",
+  "category": "Home & Kitchen",
+  "name": "BLACK+DECKER TO1313SBD 4-Slice Toaster Oven (Stainless Steel/Silver)",
+  "asin": "B00GGFHH4U",
+  "asin_sources": [
+   "asinsight.com/report/US/black-and-decker-toaster-oven: 'B00GGFHH4U — BLACK+DECKER TO1313SBD Toaster Oven, 15.47 Inch, Silver' (4.4 stars)",
+   "money.com/best-toaster-oven: BLACK+DECKER TO1313SBD linking amazon.com/dp/B00GGFHH4U (also tastingtable.com best budget toaster ovens)"
+  ],
+  "amazon": "https://www.amazon.com/dp/B00GGFHH4U?tag=desksetuppi07-20",
+  "post": "https://www.yaypicks.com/2026/11/blackdecker-toaster-oven-review-big.html",
+  "short": null,
+  "short_date": null,
+  "pin": null,
+  "job": "jobs/2026-11-22-black-decker-toaster-oven",
+  "sales_signal": "4.4★, ~22K ratings (asinsight; desertcart 4.3★/21.9K), #9 in asinsight Toaster Oven report, also listed in its B+D toaster oven report",
+  "short_score": 8,
+  "in_weekly": false,
+  "sub": "Kitchen Appliances"
+ },
+ {
+  "pick": 75,
+  "date": "2026-11-22",
+  "category": "Home & Kitchen",
+  "name": "Microplane Premium Classic Series Zester Grater (46020, Black)",
+  "asin": "B00151WA06",
+  "asin_sources": [
+   "desertcart.ni/products/3941237: 'Premium Classic Series Zester 18/8, Black' B00151WA06 (4.8★, 47.8K ratings, #2 Zesters)",
+   "toolsandtoys.net/microplane-46020-premium-classic-zester-grater: Microplane 46020 linking amazon.com/dp/B00151WA06 (also asinsight microplane-zester-grater #1)"
+  ],
+  "amazon": "https://www.amazon.com/dp/B00151WA06?tag=desksetuppi07-20",
+  "post": "https://www.yaypicks.com/2026/11/microplane-zester-review-tiny-tool.html",
+  "short": null,
+  "short_date": null,
+  "pin": null,
+  "job": "jobs/2026-11-22-microplane-premium-classic-zester",
+  "sales_signal": "4.8★, ~48K ratings, #2 in Zesters (desertcart), #1 in asinsight 'microplane zester grater' report, ~10K units/month",
+  "short_score": 7,
+  "in_weekly": false,
+  "sub": "Cookware & Kitchen Tools"
+ },
+ {
+  "pick": 76,
+  "date": "2026-11-22",
+  "category": "Beauty",
+  "name": "CeraVe Moisturizing Cream (19 oz)",
+  "asin": "B00TTD9BRC",
+  "asin_sources": [
+   "asinsight.com/report/US/cerave-face-moisturizing-cream: 'CeraVe Moisturizing Cream, Face Moisturizer & Body Cream, 19oz' B00TTD9BRC (4.7★, ~146K reviews)",
+   "desertcart.nz/products/18841705: 'CeraVe Moisturizing Cream 19 oz' B00TTD9BRC (4.7★, 141,851 ratings, #3 Face Moisturizers)"
+  ],
+  "amazon": "https://www.amazon.com/dp/B00TTD9BRC?tag=desksetuppi07-20",
+  "post": "https://www.yaypicks.com/2026/11/cerave-moisturizing-cream-review-19-oz.html",
+  "short": null,
+  "short_date": null,
+  "pin": null,
+  "job": "jobs/2026-11-22-cerave-moisturizing-cream",
+  "sales_signal": "4.7★, ~146K ratings, #3 Face Moisturizers / #21 Beauty (desertcart), ~80K units/month (asinsight)",
+  "short_score": 8,
+  "in_weekly": false,
+  "sub": "Skincare"
  }
 ]
