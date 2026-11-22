@@ -13,10 +13,135 @@
    1400
   ],
   "headline": "Sip It or Swig It",
-  "sub": "32 oz \u00b7 24h Cold \u00b7 Locking Lid",
-  "button": "See it on Amazon \u2192"
+  "sub": "32 oz · 24h Cold · Locking Lid",
+  "button": "See it on Amazon →"
  },
  "images": {
   "kv": "img/kv.jpg"
- }
+ },
+ "scenes": [
+  {
+   "type": "card",
+   "image": "kv",
+   "from": [
+    750,
+    760,
+    1500
+   ],
+   "to": [
+    750,
+    700,
+    1150
+   ],
+   "line": "One lid, two ways to drink. That's why this water bottle shows up on so many gift lists.",
+   "hl": [
+    "One",
+    "lid,",
+    "two",
+    "ways",
+    "gift",
+    "lists."
+   ]
+  },
+  {
+   "type": "card",
+   "image": "kv",
+   "from": [
+    720,
+    450,
+    1000
+   ],
+   "to": [
+    700,
+    320,
+    700
+   ],
+   "line": "Meet the Owala FreeSip, thirty-two ounces. Sip through the built-in straw, or tip it back and swig from the wide opening.",
+   "hl": [
+    "Owala",
+    "FreeSip,",
+    "thirty-two",
+    "straw,",
+    "swig"
+   ],
+   "badge": {
+    "big": "2-in-1",
+    "small": "sip or swig"
+   }
+  },
+  {
+   "type": "card",
+   "image": "kv",
+   "from": [
+    700,
+    320,
+    800
+   ],
+   "to": [
+    750,
+    800,
+    1300
+   ],
+   "line": "Triple-layer insulation keeps drinks cold for up to twenty-four hours. Perfect for the desk, the gym, or the commute.",
+   "hl": [
+    "Triple-layer",
+    "cold",
+    "twenty-four",
+    "hours."
+   ],
+   "chips": [
+    "Desk",
+    "Gym",
+    "Commute"
+   ]
+  },
+  {
+   "type": "tip",
+   "title": "PRO TIP",
+   "boxes": [
+    [
+     "Lock",
+     "the loop"
+    ],
+    [
+     "Ice",
+     "first"
+    ],
+    [
+     "24h",
+     "cold"
+    ]
+   ],
+   "note": "Made for cold drinks, not hot coffee.",
+   "line": "Pro tip: fold the carry loop over the lid to lock it for your bag. And add ice first for longer-lasting cold.",
+   "hl": [
+    "carry",
+    "loop",
+    "lock",
+    "ice",
+    "first"
+   ]
+  },
+  {
+   "type": "cta",
+   "image": "kv",
+   "from": [
+    750,
+    700,
+    1150
+   ],
+   "to": [
+    750,
+    760,
+    1500
+   ],
+   "line": "It's pick number eighty-four. Find the link on our channel, under Video Picks.",
+   "hl": [
+    "eighty-four.",
+    "channel,",
+    "Video",
+    "Picks."
+   ]
+  }
+ ]
 }
