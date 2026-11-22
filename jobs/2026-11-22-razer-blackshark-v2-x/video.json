@@ -1,0 +1,22 @@
+{
+ "slug": "2026-11-22-razer-blackshark-v2-x",
+ "pick": 78,
+ "category": "Tech",
+ "asin": "B086PKMZ21",
+ "name": "Razer BlackShark V2 X Gaming Headset",
+ "credit": "Image: Razer",
+ "pin": {
+  "image": "kv",
+  "crop": [
+   750,
+   500,
+   1000
+  ],
+  "headline": "Light Gaming Headset",
+  "sub": "240 g \u00b7 Clear cardioid mic \u00b7 Every platform",
+  "button": "See it on Amazon \u2192"
+ },
+ "images": {
+  "kv": "img/kv.jpg"
+ }
+}

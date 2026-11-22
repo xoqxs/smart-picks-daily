@@ -1,0 +1,22 @@
+{
+ "slug": "2026-11-22-anker-nano-charger-30w",
+ "pick": 77,
+ "category": "Tech",
+ "asin": "B0B2MM1W65",
+ "name": "Anker Nano Charger (30W)",
+ "credit": "Image: Anker",
+ "pin": {
+  "image": "kv",
+  "crop": [
+   600,
+   750,
+   1200
+  ],
+  "headline": "Tiny 30W Fast Charger",
+  "sub": "Foldable \u00b7 iPhone & Android \u00b7 Pocket-size",
+  "button": "See it on Amazon \u2192"
+ },
+ "images": {
+  "kv": "img/kv.jpg"
+ }
+}
