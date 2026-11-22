@@ -123,3 +123,79 @@
     body.parentNode.appendChild(sec);
   });
 })();
+
+/* Live product search: focusing "Search picks" lists products right away and filters as you type. */
+(function () {
+  var form = document.querySelector('form.nav-search'); if (!form) return;
+  var input = form.querySelector('input[name="q"]') || form.querySelector('input'); if (!input) return;
+  var css = '.spd-sr{position:fixed;left:50%;transform:translateX(-50%);top:62px;width:min(560px,calc(100vw - 20px));max-height:min(72vh,620px);overflow:auto;background:#fff;border:1px solid #e8e8ed;border-radius:18px;box-shadow:0 18px 50px rgba(0,0,0,.18);z-index:80;display:none;padding:8px}' +
+    '.spd-sr.open{display:block}.spd-sr h4{margin:8px 10px 6px;font-size:12px;letter-spacing:.06em;text-transform:uppercase;color:#86868b}' +
+    '.spd-sr a.it{display:flex;align-items:center;gap:12px;padding:8px 10px;border-radius:12px;color:#1d1d1f!important;text-decoration:none!important}' +
+    '.spd-sr a.it:hover,.spd-sr a.it.on{background:#f5f5f7}.spd-sr a.it img{width:52px;height:52px;object-fit:cover;border-radius:10px;background:#f5f5f7;flex:none}' +
+    '.spd-sr a.it span{font-size:14px;line-height:1.3;font-weight:600}.spd-sr a.it em{display:block;font-style:normal;font-weight:400;font-size:12px;color:#86868b;margin-top:2px}' +
+    '.spd-sr .chips{display:flex;flex-wrap:wrap;gap:6px;padding:4px 10px 8px}.spd-sr .chips a{background:#f5f5f7;border-radius:999px;padding:6px 12px;font-size:13px;font-weight:600;color:#1d1d1f!important;text-decoration:none!important}' +
+    '.spd-sr .all{display:block;text-align:center;padding:10px;font-weight:600;font-size:14px}.spd-sr .none{padding:14px 10px;color:#86868b;font-size:14px}';
+  var st = document.createElement('style'); st.textContent = css; document.head.appendChild(st);
+  input.setAttribute('autocomplete', 'off');
+  var box = document.createElement('div'); box.className = 'spd-sr'; document.body.appendChild(box);
+  var MAIN = ['Electronics', 'Home & Kitchen', 'Beauty', 'Gift Guides', 'Buying Guides'];
+  var idx = null, loading = null, sel = -1;
+  function esc(s) { return String(s || '').replace(/[&<>"']/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]; }); }
+  function load() {
+    if (idx) return Promise.resolve(idx);
+    if (loading) return loading;
+    loading = fetch('/feeds/posts/summary?alt=json&max-results=500').then(function (r) { return r.json(); }).then(function (j) {
+      idx = (j.feed.entry || []).map(function (e) {
+        var link = (e.link.filter(function (k) { return k.rel === 'alternate'; })[0] || {}).href || '';
+        var labels = (e.category || []).map(function (c) { return c.term; });
+        var sub = labels.filter(function (l) { return MAIN.indexOf(l) < 0; })[0] || labels.filter(function (l) { return l !== 'Buying Guides'; })[0] || '';
+        var img = e.media$thumbnail ? e.media$thumbnail.url.replace(/\/s72-c\//, '/s144-c/').replace(/=s72-c$/, '=s144-c') : '';
+        var title = e.title.$t;
+        return { url: link.replace(/^https?:\/\/[^/]+/, ''), title: title, img: img, sub: sub, guide: labels.indexOf('Gift Guides') >= 0,
+          hay: (title + ' ' + labels.join(' ') + ' ' + ((e.summary && e.summary.$t) || '')).toLowerCase() };
+      });
+      return idx;
+    }).catch(function () { idx = []; return idx; });
+    return loading;
+  }
+  function item(p) {
+    return '<a class="it" href="' + esc(p.url) + '">' + (p.img ? '<img loading="lazy" alt="" src="' + esc(p.img) + '">' : '<img alt="">') +
+      '<span>' + esc(p.title) + '<em>' + esc(p.guide ? 'Gift guide' : p.sub) + '</em></span></a>';
+  }
+  function render() {
+    var q = input.value.trim().toLowerCase(); sel = -1;
+    if (!idx) { box.innerHTML = '<div class="none">Loading picks…</div>'; return; }
+    var html = '';
+    if (!q) {
+      html += '<h4>Shop by category</h4><div class="chips">' + ['Electronics', 'Home & Kitchen', 'Beauty', 'Gift Guides'].map(function (c) {
+        return '<a href="/search/label/' + encodeURIComponent(c) + '">' + esc(c) + '</a>'; }).join('') + '</div>';
+      var g = idx.filter(function (p) { return p.guide; }).slice(0, 3);
+      if (g.length) html += '<h4>Gift guides</h4>' + g.map(item).join('');
+      html += '<h4>Latest picks</h4>' + idx.filter(function (p) { return !p.guide; }).slice(0, 8).map(item).join('');
+    } else {
+      var words = q.split(/\s+/);
+      var hits = idx.filter(function (p) { return words.every(function (w) { return p.hay.indexOf(w) >= 0; }); });
+      hits.sort(function (a, b) { return (b.title.toLowerCase().indexOf(q) >= 0) - (a.title.toLowerCase().indexOf(q) >= 0); });
+      html += hits.length ? '<h4>' + hits.length + ' pick' + (hits.length > 1 ? 's' : '') + '</h4>' + hits.slice(0, 12).map(item).join('') +
+        (hits.length > 12 ? '<a class="all" href="/search?q=' + encodeURIComponent(input.value.trim()) + '">See all results ›</a>' : '')
+        : '<div class="none">No picks match “' + esc(input.value.trim()) + '” yet. Try a brand or a product type, like “kettle” or “serum”.</div>';
+    }
+    box.innerHTML = html;
+  }
+  function open() { box.classList.add('open'); render(); load().then(render); }
+  function close() { box.classList.remove('open'); }
+  input.addEventListener('focus', open);
+  input.addEventListener('click', open);
+  input.addEventListener('input', function () { box.classList.add('open'); load().then(render); render(); });
+  input.addEventListener('keydown', function (ev) {
+    var its = box.querySelectorAll('a.it');
+    if (ev.key === 'ArrowDown' || ev.key === 'ArrowUp') {
+      ev.preventDefault(); if (!its.length) return;
+      sel = (sel + (ev.key === 'ArrowDown' ? 1 : -1) + its.length) % its.length;
+      [].forEach.call(its, function (a, i) { a.classList.toggle('on', i === sel); });
+      its[sel].scrollIntoView({ block: 'nearest' });
+    } else if (ev.key === 'Enter' && sel >= 0 && its[sel]) { ev.preventDefault(); location.href = its[sel].getAttribute('href'); }
+    else if (ev.key === 'Escape') { close(); input.blur(); }
+  });
+  document.addEventListener('click', function (ev) { if (!box.contains(ev.target) && ev.target !== input) close(); });
+})();
