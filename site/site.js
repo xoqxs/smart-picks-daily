@@ -22,7 +22,13 @@
     '.spd-bf span{display:block;font-weight:400;font-size:14px;opacity:.8}' +
     '.spd-chips{display:flex;flex-wrap:wrap;gap:8px;margin:-6px 0 22px}.spd-chips a{background:#f5f5f7;border-radius:999px;padding:7px 14px;font-size:14px;font-weight:600;color:#1d1d1f!important;text-decoration:none!important}' +
     '.spd-chips a.on{background:#1d1d1f;color:#fff!important}' +
-    '.nav .wrap .nav-links{margin-left:28px}' +
+    '.nav .wrap{gap:0}.nav .wrap .nav-links{margin-left:28px;gap:22px!important;flex-wrap:nowrap;align-items:center;min-width:0}' +
+    '.nav-links a{white-space:nowrap;flex-shrink:0;font-size:14px!important;line-height:1}.nav-links a[href="/#cats"]{display:none!important}' +
+    '.brand,.nav-cta,.nav-search{flex-shrink:0}.nav-cta{white-space:nowrap}' +
+    '@media(min-width:641px){.nav-search input{width:170px!important}.nav-search input:focus{width:210px!important}}' +
+    '@media(max-width:1120px){.nav-links a[href="/p/video-picks.html"]{display:none!important}}' +
+    '@media(max-width:1000px){.nav-links a[href*="/search/label/Electronics"],.nav-links a[href*="/search/label/Home"],.nav-links a[href*="/search/label/Beauty"]{display:none!important}}' +
+    '@media(max-width:760px){.nav .wrap .nav-links{display:none!important}}' +
     '@media(max-width:640px){.nav .wrap{padding:0 14px}.brand{font-size:15px!important;white-space:nowrap;gap:7px!important}.nav-search{margin-left:auto!important;margin-right:6px!important}.nav-search input{width:92px!important}.nav-search input:focus{width:120px!important}.nav-cta{white-space:nowrap;font-size:12px!important;padding:6px 10px!important}}' +
     '@media(max-width:700px){.spd-rel-grid{grid-template-columns:repeat(2,1fr)}}' +
     '.spd-buy{position:fixed;left:10px;right:10px;bottom:10px;z-index:60;display:none;align-items:center;gap:10px;background:#1d1d1f;color:#fff;border-radius:18px;padding:10px 10px 10px 16px;box-shadow:0 8px 30px rgba(0,0,0,.25);transform:translateY(140%);transition:transform .25s ease}' +
