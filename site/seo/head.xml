@@ -21,7 +21,7 @@
 <link expr:href='&quot;https://raw.githubusercontent.com/xoqxs/smart-picks-daily/6b287ef4a2309fb04038726fd17124944e67b61d/site/og/default.jpg&quot;' rel='image_src'/>
 <b:elseif cond='data:view.isLabelSearch'/>
 <title><data:view.search.label/> Picks &amp; Buying Guides | YayPicks</title>
-<b:if cond='data:view.search.label == &quot;Tech&quot;'><meta expr:content='&quot;Our best &quot; + data:view.search.label + &quot; picks: researched, easy-to-read reviews of top-rated Amazon bestsellers, with who each one is for and what to know before you buy.&quot;' name='description'/>
+<b:if cond='data:view.search.label == &quot;Electronics&quot;'><meta expr:content='&quot;Our best &quot; + data:view.search.label + &quot; picks: researched, easy-to-read reviews of top-rated Amazon bestsellers, with who each one is for and what to know before you buy.&quot;' name='description'/>
 <meta content='website' property='og:type'/>
 <meta expr:content='data:view.search.label + &quot; Picks &amp; Buying Guides&quot;' property='og:title'/>
 <meta expr:content='&quot;Our best &quot; + data:view.search.label + &quot; picks: researched, easy-to-read reviews of top-rated Amazon bestsellers, with who each one is for and what to know before you buy.&quot;' property='og:description'/>

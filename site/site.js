@@ -4,7 +4,7 @@
    No prices are shown anywhere. */
 (function () {
   var CATS = {
-    'Tech': ['Headphones & Speakers', 'Computer Accessories', 'Gadgets & Smart Home'],
+    'Electronics': ['Headphones & Speakers', 'Computer Accessories', 'Gadgets & Smart Home'],
     'Home & Kitchen': ['Kitchen Appliances', 'Cookware & Kitchen Tools', 'Drinkware & Coffee', 'Home Care & Comfort'],
     'Beauty': ['Skincare', 'Hair Care', 'Makeup']
   };
