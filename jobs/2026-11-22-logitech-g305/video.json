@@ -13,10 +13,137 @@
    1500
   ],
   "headline": "Wireless. Fast. Light.",
-  "sub": "HERO sensor \u00b7 250h battery \u00b7 99 g",
-  "button": "See it on Amazon \u2192"
+  "sub": "HERO sensor · 250h battery · 99 g",
+  "button": "See it on Amazon →"
  },
  "images": {
   "kv": "img/kv.jpg"
- }
+ },
+ "scenes": [
+  {
+   "type": "card",
+   "image": "kv",
+   "from": [
+    1000,
+    1000,
+    2000
+   ],
+   "to": [
+    1000,
+    950,
+    1600
+   ],
+   "line": "Two hundred fifty hours of gaming on a single AA battery. And yes, this mouse is fully wireless.",
+   "hl": [
+    "fifty",
+    "hours",
+    "single",
+    "AA",
+    "wireless."
+   ]
+  },
+  {
+   "type": "card",
+   "image": "kv",
+   "from": [
+    1000,
+    950,
+    1600
+   ],
+   "to": [
+    1000,
+    700,
+    1100
+   ],
+   "line": "Meet the Logitech G three-oh-five LIGHTSPEED: a HERO sensor up to twelve thousand DPI, with a one millisecond report rate.",
+   "hl": [
+    "Logitech",
+    "LIGHTSPEED:",
+    "HERO",
+    "twelve",
+    "thousand",
+    "millisecond"
+   ],
+   "badge": {
+    "big": "12K DPI",
+    "small": "HERO sensor"
+   }
+  },
+  {
+   "type": "card",
+   "image": "kv",
+   "from": [
+    1000,
+    800,
+    1200
+   ],
+   "to": [
+    1000,
+    1150,
+    1500
+   ],
+   "line": "It weighs just ninety-nine grams, has six programmable buttons, and works with Windows, Mac and ChromeOS.",
+   "hl": [
+    "ninety-nine",
+    "grams,",
+    "six",
+    "Windows,",
+    "Mac",
+    "ChromeOS."
+   ],
+   "chips": [
+    "99 g",
+    "6 buttons",
+    "Win · Mac"
+   ]
+  },
+  {
+   "type": "tip",
+   "title": "PRO TIP",
+   "boxes": [
+    [
+     "USB",
+     "inside"
+    ],
+    [
+     "9 mo",
+     "office"
+    ],
+    [
+     "4",
+     "DPI steps"
+    ]
+   ],
+   "note": "Small shape: best for medium or smaller hands.",
+   "line": "Pro tip: the USB receiver stores inside the mouse, and Endurance mode stretches one battery up to nine months of office use.",
+   "hl": [
+    "receiver",
+    "inside",
+    "Endurance",
+    "nine",
+    "months"
+   ]
+  },
+  {
+   "type": "cta",
+   "image": "kv",
+   "from": [
+    1000,
+    1150,
+    1500
+   ],
+   "to": [
+    1000,
+    1000,
+    2000
+   ],
+   "line": "It's pick number eighty-two. Find the link on our channel, under Video Picks.",
+   "hl": [
+    "eighty-two.",
+    "channel,",
+    "Video",
+    "Picks."
+   ]
+  }
+ ]
 }
