@@ -1660,5 +1660,69 @@
   "short_score": 9,
   "in_weekly": false,
   "sub": "Hair Care"
+ },
+ {
+  "pick": 80,
+  "date": "2026-11-22",
+  "category": "Home & Kitchen",
+  "name": "Presto 03430 Pizzazz Plus Rotating Oven (Black)",
+  "asin": "B00005IBXJ",
+  "asin_sources": [
+   "desertcart.ae/products/327379-presto-03430-pizzazz-plus-rotating-oven-black: 'The Presto 03430 Pizzazz Plus Rotating Oven' B00005IBXJ (4.7★, 20,685 ratings, #1 Countertop Pizza Ovens)",
+   "asinsight.com/report/US/pizza-oven: 'Presto 03430 Pizzazz Plus Rotating Oven, Black' B00005IBXJ (4.7★, 20,756 reviews, ~1K units/month)",
+   "techgearlab.com/reviews/kitchen/pizza-oven/presto-pizzazz-plus: review links amazon.com/dp/B00005IBXJ"
+  ],
+  "amazon": "https://www.amazon.com/dp/B00005IBXJ?tag=desksetuppi07-20",
+  "post": "https://www.yaypicks.com/2026/11/presto-pizzazz-plus-no-preheat-pizza.html",
+  "short": null,
+  "short_date": null,
+  "pin": null,
+  "job": "jobs/2026-11-22-presto-pizzazz-plus",
+  "sales_signal": "4.7★, ~20.7K ratings, #1 Countertop Pizza Ovens (desertcart), ~1K units/month (asinsight)",
+  "short_score": 8,
+  "in_weekly": false,
+  "sub": "Kitchen Appliances"
+ },
+ {
+  "pick": 81,
+  "date": "2026-11-22",
+  "category": "Beauty",
+  "name": "Sol de Janeiro Brazilian Crush Cheirosa 62 Hair & Body Fragrance Mist (240 mL)",
+  "asin": "B09X3HB2BR",
+  "asin_sources": [
+   "desertcart.hr/products/466413229-hair-and-body-perfume-mist: 'Hair & Body Perfume Mist' (Sol de Janeiro, 240 mL, Brazilian Crush Cheirosa 62) B09X3HB2BR (4.6★, 42,293 ratings, #1 Women's Body Sprays)",
+   "asinsight.com/report/US/cheirosa-62: 'Sol de Janeiro Hair & Body Perfume Mist' B09X3HB2BR (#2, 4.7★, 52.1K reviews, ~9K units/month)"
+  ],
+  "amazon": "https://www.amazon.com/dp/B09X3HB2BR?tag=desksetuppi07-20",
+  "post": "https://www.yaypicks.com/2026/11/cheirosa-62-mist-review-bum-bum-scent.html",
+  "short": null,
+  "short_date": null,
+  "pin": null,
+  "job": "jobs/2026-11-22-sol-de-janeiro-cheirosa-62-mist",
+  "sales_signal": "4.6–4.7★, 42K+ ratings, #1 Women's Body Sprays (desertcart), ~9K units/month (asinsight)",
+  "short_score": 9,
+  "in_weekly": false,
+  "sub": "Skincare"
+ },
+ {
+  "pick": 82,
+  "date": "2026-11-22",
+  "category": "Tech",
+  "name": "Logitech G305 LIGHTSPEED Wireless Gaming Mouse (Black)",
+  "asin": "B07CMS5Q6P",
+  "asin_sources": [
+   "desertcart.nl/products/63955281-logitech-g305-lightspeed-wireless-gaming-mouse-hero-sensor-12-000: 'Logitech 910-005280 G305 LIGHTSPEED Wireless Gaming Mouse, Black' B07CMS5Q6P (4.6★, 25,525 ratings, #1 PC Gaming Mice)",
+   "asinsight.com/report/US/gaming-mouse-logitech: 'Logitech G305 Lightspeed Wireless Gaming Mouse (Black)' B07CMS5Q6P (#1, 4.6★, 39.3K reviews, ~10K units/month)"
+  ],
+  "amazon": "https://www.amazon.com/dp/B07CMS5Q6P?tag=desksetuppi07-20",
+  "post": "https://www.yaypicks.com/2026/11/logitech-g305-review-wireless-speed.html",
+  "short": null,
+  "short_date": null,
+  "pin": null,
+  "job": "jobs/2026-11-22-logitech-g305",
+  "sales_signal": "4.6★, 25K–39K ratings, #1 PC Gaming Mice (desertcart), ~10K units/month (asinsight)",
+  "short_score": 9,
+  "in_weekly": false,
+  "sub": "Computer Accessories"
  }
 ]
