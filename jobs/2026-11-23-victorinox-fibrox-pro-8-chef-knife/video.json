@@ -13,11 +13,137 @@
    2000
   ],
   "headline": "The Chef's Knife Pick",
-  "sub": "8-inch · Non-slip grip · Swiss",
-  "button": "See it on Amazon →"
+  "sub": "8-inch \u00b7 Non-slip grip \u00b7 Swiss",
+  "button": "See it on Amazon \u2192"
  },
  "images": {
   "kv": "img/kv.jpg",
-  "kv_pin": "img/kv_pin.jpg"
- }
+  "kv_pin": "img/kv_pin.jpg",
+  "kv_wide": "img/kv_wide.jpg"
+ },
+ "scenes": [
+  {
+   "type": "card",
+   "image": "kv_wide",
+   "from": [
+    1000,
+    855,
+    1980
+   ],
+   "to": [
+    950,
+    855,
+    1600
+   ],
+   "line": "Still chopping onions with a dull block-set knife? One affordable blade can make weeknight prep feel fast again.",
+   "hl": [
+    "dull",
+    "affordable",
+    "fast"
+   ]
+  },
+  {
+   "type": "card",
+   "image": "kv_wide",
+   "from": [
+    950,
+    855,
+    1600
+   ],
+   "to": [
+    1450,
+    835,
+    900
+   ],
+   "line": "Meet the Victorinox Fibrox Pro eight-inch chef's knife. It's Swiss made, weighs just six point four ounces, and arrives sharp out of the box.",
+   "hl": [
+    "Fibrox",
+    "Pro",
+    "Swiss",
+    "six",
+    "point",
+    "four",
+    "sharp"
+   ],
+   "badge": {
+    "big": "6.4 oz",
+    "small": "Swiss made"
+   }
+  },
+  {
+   "type": "card",
+   "image": "kv_wide",
+   "from": [
+    1450,
+    835,
+    900
+   ],
+   "to": [
+    1500,
+    815,
+    750
+   ],
+   "line": "The textured, non-slip handle stays put, even with wet hands. Great for new cooks, busy families, and as a holiday gift.",
+   "hl": [
+    "non-slip",
+    "wet",
+    "new",
+    "cooks,",
+    "gift."
+   ],
+   "chips": [
+    "New cooks",
+    "Daily prep",
+    "Gift idea"
+   ]
+  },
+  {
+   "type": "tip",
+   "title": "PRO TIP",
+   "boxes": [
+    [
+     "Hand",
+     "wash"
+    ],
+    [
+     "Hone",
+     "often"
+    ],
+    [
+     "Wood",
+     "board"
+    ]
+   ],
+   "note": "Dishwasher safe per Victorinox, but hand washing keeps the edge longer.",
+   "line": "Pro tip: hand wash it, give it a few passes on a honing steel before you cook, and use a wood or plastic board to keep the edge sharp.",
+   "hl": [
+    "hand",
+    "wash",
+    "honing",
+    "wood",
+    "plastic"
+   ]
+  },
+  {
+   "type": "cta",
+   "image": "kv_wide",
+   "from": [
+    1000,
+    855,
+    1700
+   ],
+   "to": [
+    1000,
+    855,
+    1980
+   ],
+   "line": "It's pick number ninety. Find the link on our channel, under Video Picks.",
+   "hl": [
+    "ninety.",
+    "channel,",
+    "Video",
+    "Picks."
+   ]
+  }
+ ]
 }
