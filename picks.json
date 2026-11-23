@@ -2078,5 +2078,47 @@
   "short_score": 6,
   "in_weekly": false,
   "sub": "Gadgets & Smart Home"
+ },
+ {
+  "pick": 98,
+  "date": "2026-11-23",
+  "category": "Home & Kitchen",
+  "name": "Magic Bullet Personal Blender, 11-Piece Set (MBR-1101, Silver)",
+  "asin": "B012T634SM",
+  "asin_sources": [
+   "ASINsight (asinsight.com/report/US/magic-bullet): #1 B012T634SM 'Magic Bullet Blender, Small, Silver, 11 Piece Set', 4.4★, 118,634 ratings",
+   "desertcart.co.th listing 757460133: Magic Bullet MBR-1101, ASIN B012T634SM, #1 Countertop Blenders; manuals.plus/asin/B012T634SM 'Magic Bullet MBR-1101'"
+  ],
+  "amazon": "https://www.amazon.com/dp/B012T634SM?tag=desksetuppi07-20",
+  "post": "https://www.yaypicks.com/2026/11/magic-bullet-blender-review-small.html",
+  "short": null,
+  "short_date": null,
+  "pin": null,
+  "job": "jobs/2026-11-23-magic-bullet-personal-blender",
+  "sales_signal": "4.4★, 118.6K ratings (ASINsight US); #1 Countertop Blenders (desertcart mirror); budget pick at Food Network, CNN Underscored, Reviewed",
+  "short_score": 8,
+  "in_weekly": false,
+  "sub": "Kitchen Appliances"
+ },
+ {
+  "pick": 99,
+  "date": "2026-11-23",
+  "category": "Home & Kitchen",
+  "name": "Pyrex Essentials 3-Piece Glass Mixing Bowl Set (1, 1.5 & 2.5 Qt)",
+  "asin": "B00LGLHUA0",
+  "asin_sources": [
+   "ASINsight (asinsight.com/report/US/mixing-bowls): #1 B00LGLHUA0 'Pyrex Essentials (3-Piece) Glass Mixing Bowls Set', 4.8★, 30,571 ratings",
+   "Slickdeals (f/17800170) + The Daily Meal link amazon.com/dp/B00LGLHUA0 '3-Piece Pyrex Mixing Bowl Set 1/1.5/2.5 qt'; desertcart.lk shows part 1118441 = Pyrex SKU"
+  ],
+  "amazon": "https://www.amazon.com/dp/B00LGLHUA0?tag=desksetuppi07-20",
+  "post": "https://www.yaypicks.com/2026/11/pyrex-3-piece-glass-mixing-bowls-review.html",
+  "short": null,
+  "short_date": null,
+  "pin": null,
+  "job": "jobs/2026-11-23-pyrex-3-piece-glass-mixing-bowls",
+  "sales_signal": "4.8★, 30.6K ratings, #1 for 'mixing bowls' (ASINsight US); 9K+ bought/month (Slickdeals 2024); Food Network top pick",
+  "short_score": 7,
+  "in_weekly": false,
+  "sub": "Cookware & Kitchen Tools"
  }
 ]
