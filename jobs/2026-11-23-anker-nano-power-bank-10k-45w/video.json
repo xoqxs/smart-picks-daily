@@ -1,0 +1,22 @@
+{
+ "slug": "2026-11-23-anker-nano-power-bank-10k-45w",
+ "pick": 92,
+ "category": "Tech",
+ "asin": "B0DGKWTQQC",
+ "name": "Anker Nano Power Bank 10K (45W)",
+ "credit": "Image: Anker",
+ "pin": {
+  "image": "kv",
+  "crop": [
+   800,
+   800,
+   1600
+  ],
+  "headline": "Anker Nano 10K",
+  "sub": "45W · Pull-out cable · Display",
+  "button": "See it on Amazon →"
+ },
+ "images": {
+  "kv": "img/kv.jpg"
+ }
+}

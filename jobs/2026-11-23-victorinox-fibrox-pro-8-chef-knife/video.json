@@ -1,0 +1,23 @@
+{
+ "slug": "2026-11-23-victorinox-fibrox-pro-8-chef-knife",
+ "pick": 90,
+ "category": "Home & Kitchen",
+ "asin": "B008M5U1C2",
+ "name": "Victorinox Fibrox Pro 8\" Chef's Knife",
+ "credit": "Image: Victorinox",
+ "pin": {
+  "image": "kv_pin",
+  "crop": [
+   1000,
+   1000,
+   2000
+  ],
+  "headline": "The Chef's Knife Pick",
+  "sub": "8-inch · Non-slip grip · Swiss",
+  "button": "See it on Amazon →"
+ },
+ "images": {
+  "kv": "img/kv.jpg",
+  "kv_pin": "img/kv_pin.jpg"
+ }
+}
