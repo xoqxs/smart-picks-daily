@@ -1,0 +1,22 @@
+{
+ "slug": "2026-11-23-samsung-smarttag2",
+ "pick": 94,
+ "category": "Tech",
+ "asin": "B0CCBXRYRC",
+ "name": "Samsung Galaxy SmartTag2",
+ "credit": "Image: Samsung",
+ "pin": {
+  "image": "kv",
+  "crop": [
+   600,
+   400,
+   800
+  ],
+  "headline": "Find Lost Keys in Seconds",
+  "sub": "Galaxy Only \u00b7 UWB Finding \u00b7 Up to 500-Day Battery",
+  "button": "See it on Amazon \u2192"
+ },
+ "images": {
+  "kv": "img/kv.jpg"
+ }
+}
