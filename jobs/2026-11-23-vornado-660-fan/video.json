@@ -1,0 +1,22 @@
+{
+ "slug": "2026-11-23-vornado-660-fan",
+ "pick": 87,
+ "category": "Home & Kitchen",
+ "asin": "B0025QKUE8",
+ "name": "Vornado 660 Air Circulator Fan",
+ "credit": "Image: Vornado",
+ "pin": {
+  "image": "kv",
+  "crop": [
+   800,
+   800,
+   1600
+  ],
+  "headline": "Cool the Whole Room",
+  "sub": "100 ft reach · 4 speeds · Tilts",
+  "button": "See it on Amazon →"
+ },
+ "images": {
+  "kv": "img/kv.jpg"
+ }
+}
