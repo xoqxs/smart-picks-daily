@@ -1,0 +1,22 @@
+{
+ "slug": "2026-11-23-bialetti-moka-express-6-cup",
+ "pick": 95,
+ "category": "Home & Kitchen",
+ "asin": "B00004RFRU",
+ "name": "Bialetti Moka Express 6-Cup",
+ "credit": "Image: Bialetti",
+ "pin": {
+  "image": "kv",
+  "crop": [
+   790,
+   580,
+   820
+  ],
+  "headline": "Café-Style Coffee on Your Stove",
+  "sub": "6 Cups · Aluminum · Crafted in Italy",
+  "button": "See it on Amazon →"
+ },
+ "images": {
+  "kv": "img/kv.jpg"
+ }
+}

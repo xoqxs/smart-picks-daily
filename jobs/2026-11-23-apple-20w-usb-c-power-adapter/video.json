@@ -1,0 +1,22 @@
+{
+ "slug": "2026-11-23-apple-20w-usb-c-power-adapter",
+ "pick": 97,
+ "category": "Tech",
+ "asin": "B0DJFW7PNM",
+ "name": "Apple 20W USB-C Power Adapter",
+ "credit": "Image: Apple",
+ "pin": {
+  "image": "kv",
+  "crop": [
+   1000,
+   1000,
+   2000
+  ],
+  "headline": "50% iPhone Charge in ~35 Minutes",
+  "sub": "20W USB-C · iPhone · iPad · AirPods",
+  "button": "See it on Amazon →"
+ },
+ "images": {
+  "kv": "img/kv.jpg"
+ }
+}
