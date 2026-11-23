@@ -1972,5 +1972,48 @@
   "in_weekly": false,
   "sub": "Gadgets & Smart Home",
   "batch": "sprint50"
+ },
+ {
+  "pick": 93,
+  "date": "2026-11-23",
+  "category": "Beauty",
+  "name": "Clinique Moisture Surge 100H Auto-Replenishing Hydrator (1.0 oz / 30 ml)",
+  "asin": "B091416ZRB",
+  "asin_sources": [
+   "desertcart.ae (desertcart.ae/products/347340459-moisture-surge-100h): ASIN B091416ZRB, Clinique Moisture Surge 100H Auto-Replenishing Hydrator 30 ml, 4.7★, 17,719 ratings, #38 Face Moisturizers",
+   "camelcamelcamel search snippet (not opened) camelcamelcamel.com/product/B091416ZRB: 'Clinique Moisture Surge 100H Auto-Replenishing Hydrator Oil Free Face Moisturizer'",
+   "uk.camelcamelcamel snippet (not opened): same product name"
+  ],
+  "amazon": "https://www.amazon.com/dp/B091416ZRB?tag=desksetuppi07-20",
+  "post": "https://www.yaypicks.com/2026/11/clinique-moisture-surge-100h-review.html",
+  "short": null,
+  "short_date": null,
+  "pin": null,
+  "job": "jobs/2026-11-23-clinique-moisture-surge-100h",
+  "sales_signal": "4.7★, 17.7K ratings, #38 in Face Moisturizers, #1,049 in Beauty & Personal Care (desertcart.ae); Estée Lauder brands on Amazon Premium Beauty (Retail Dive)",
+  "short_score": 8,
+  "in_weekly": false,
+  "sub": "Skincare"
+ },
+ {
+  "pick": 94,
+  "date": "2026-11-23",
+  "category": "Tech",
+  "name": "Samsung Galaxy SmartTag2 Bluetooth Tracker, 1-Pack (Black), EI-T5600BBEGUS",
+  "asin": "B0CCBXRYRC",
+  "asin_sources": [
+   "ASINsight (asinsight.com/report/US/bluetooth-tracker): B0CCBXRYRC 'Samsung Galaxy SmartTag2 ... 1 Pack, Black', 4.4★, 12K ratings, ~6K monthly sales",
+   "desertcart NZ (desertcart.nz/products/568919297-...): Samsung Galaxy SmartTag2, ASIN B0CCBXRYRC, 4.3★, 10,778 ratings, #8 Item Finders"
+  ],
+  "amazon": "https://www.amazon.com/dp/B0CCBXRYRC?tag=desksetuppi07-20",
+  "post": "https://www.yaypicks.com/2026/11/galaxy-smarttag2-review-key-finder.html",
+  "short": null,
+  "short_date": null,
+  "pin": null,
+  "job": "jobs/2026-11-23-samsung-smarttag2",
+  "sales_signal": "4.3–4.4★, 10.8K–12K ratings, #8 in Item Finders, #300 Electronics (desertcart); ~6K est. monthly sales (ASINsight)",
+  "short_score": 7,
+  "in_weekly": false,
+  "sub": "Gadgets & Smart Home"
  }
 ]
