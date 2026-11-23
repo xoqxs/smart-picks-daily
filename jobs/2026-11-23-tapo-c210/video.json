@@ -1,0 +1,16 @@
+{
+ "slug": "2026-11-23-tapo-c210",
+ "pick": 100,
+ "category": "Tech",
+ "asin": "B09Y8TLP25",
+ "name": "Tapo C210 2K Pan/Tilt Camera",
+ "credit": "Image: TP-Link Tapo",
+ "pin": {
+  "image": "kv",
+  "crop": [750, 750, 1500],
+  "headline": "See the whole room in 2K",
+  "sub": "360° pan · Night vision · microSD",
+  "button": "See it on Amazon →"
+ },
+ "images": {"kv": "img/kv.jpg"}
+}
