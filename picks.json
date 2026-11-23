@@ -1832,5 +1832,72 @@
   "in_weekly": false,
   "sub": "Gadgets & Smart Home",
   "batch": "sprint50"
+ },
+ {
+  "pick": 87,
+  "date": "2026-11-23",
+  "category": "Home & Kitchen",
+  "name": "Vornado 660 Large Whole Room Air Circulator Fan, 4 Speeds, 90-Degree Tilt (Black)",
+  "asin": "B0025QKUE8",
+  "asin_sources": [
+   "desertcart.nz (products/1142683): 'Vornado 660 Large Whole Room Air Circulator Fan ... Black', ASIN B0025QKUE8, model 660 (CR1-0121-06), 4.6 stars, 19,493 ratings, #14,781 Home & Kitchen, #40 Table Fans",
+   "sentinel.rocketium.com/products/amazon/B0025QKUE8: 'Vornado 660 Large Whole Room Air Circulator Fan for Home, 4 Speeds and 90-Degree Adjustable Tilt ... Black', 4.6 stars, 19,493 reviews, #13,826 Home & Kitchen, #39 Table Fans"
+  ],
+  "amazon": "https://www.amazon.com/dp/B0025QKUE8?tag=desksetuppi07-20",
+  "post": "https://www.yaypicks.com/2026/11/vornado-660-review-fan-that-moves-whole.html",
+  "short": null,
+  "short_date": null,
+  "pin": null,
+  "job": "jobs/2026-11-23-vornado-660-fan",
+  "sales_signal": "4.6★, 19.5K ratings, #39 in Table Fans (Rocketium tracker / desertcart); Reviewed 'Best fan' Editor's Choice, Bob Vila Best Overall",
+  "short_score": 8,
+  "in_weekly": false,
+  "sub": "Home Care & Comfort",
+  "batch": "sprint50"
+ },
+ {
+  "pick": 88,
+  "date": "2026-11-23",
+  "category": "Home & Kitchen",
+  "name": "Hario V60 Ceramic Coffee Dripper, Size 02 (White)",
+  "asin": "B000P4D5HG",
+  "asin_sources": [
+   "slickdeals.net/f/18494689 (Jul 2025): 'Hario V60 Ceramic Coffee Dripper, Size 02, White at Amazon' links amazon.com/dp/B000P4D5HG; '2,000+ bought in past month'",
+   "desertcart.ae/products/1353601-v60-dripper-02-white: 'V60 Dripper 02 White', HARIO, ASIN B000P4D5HG, model VDC-02W, 4.8 stars, 11,863 ratings, #4 in Pour Over Coffee Makers",
+   "desertcart.com.sa/products/75898162: 'V60 Ceramic Coffee Dripper, Size 02, White', ASIN B000P4D5HG, VDC-02W, 4.7 stars, 9,160 ratings"
+  ],
+  "amazon": "https://www.amazon.com/dp/B000P4D5HG?tag=desksetuppi07-20",
+  "post": "https://www.yaypicks.com/2026/11/hario-v60-ceramic-dripper-review-cafe.html",
+  "short": null,
+  "short_date": null,
+  "pin": null,
+  "job": "jobs/2026-11-23-hario-v60-ceramic-02",
+  "sales_signal": "4.8★, ~11.8K ratings, #4 in Pour Over Coffee Makers (desertcart.ae); 2,000+ bought/month (Slickdeals); ATK Best Conical pick",
+  "short_score": 8,
+  "in_weekly": false,
+  "sub": "Drinkware & Coffee",
+  "batch": "sprint50"
+ },
+ {
+  "pick": 89,
+  "date": "2026-11-23",
+  "category": "Beauty",
+  "name": "Too Faced Better Than Sex Volumizing Mascara (Black, 0.27 oz / 8 mL)",
+  "asin": "B00P0Q0T28",
+  "asin_sources": [
+   "desertcart.com.cy (listing 7722579, 'Better Than Sex Mascara 0.27 fluid ounces 8 ml'): ASIN B00P0Q0T28, Too Faced, 4.4 stars, 19,651 ratings, #1,176 in Beauty & Personal Care, #24 in Mascara",
+   "shopsavvy.com/products/too-faced-better-than-sex-mascara-2: 'Too Faced Better Than Sex Mascara', View on Amazon link -> ASIN B00P0Q0T28"
+  ],
+  "amazon": "https://www.amazon.com/dp/B00P0Q0T28?tag=desksetuppi07-20",
+  "post": "https://www.yaypicks.com/2026/11/too-faced-better-than-sex-mascara.html",
+  "short": null,
+  "short_date": null,
+  "pin": null,
+  "job": "jobs/2026-11-23-too-faced-better-than-sex-mascara",
+  "sales_signal": "4.4★, ~19.6K ratings, #24 in Mascara (desertcart); #1 prestige mascara in the U.S. per Circana (Retail Dive, 2024)",
+  "short_score": 8,
+  "in_weekly": false,
+  "sub": "Makeup",
+  "batch": "sprint50"
  }
 ]
