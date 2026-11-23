@@ -18,5 +18,130 @@
  },
  "images": {
   "kv": "img/kv.jpg"
- }
+ },
+ "scenes": [
+  {
+   "type": "card",
+   "image": "kv",
+   "from": [
+    760,
+    515,
+    470
+   ],
+   "to": [
+    640,
+    515,
+    470
+   ],
+   "line": "Wet hair that knots, snags and pulls? This little brush turns the post-shower brush-out into the easiest part of your routine.",
+   "hl": [
+    "knots,",
+    "snags",
+    "pulls?",
+    "easiest"
+   ]
+  },
+  {
+   "type": "card",
+   "image": "kv",
+   "from": [
+    640,
+    515,
+    470
+   ],
+   "to": [
+    850,
+    515,
+    470
+   ],
+   "line": "Meet the Tangle Teezer Ultimate Detangler. Its patented two-tier teeth team up: long teeth work out knots while short teeth smooth.",
+   "hl": [
+    "Ultimate",
+    "Detangler.",
+    "two-tier",
+    "knots",
+    "smooth."
+   ],
+   "badge": {
+    "big": "2-tier",
+    "small": "patented teeth"
+   }
+  },
+  {
+   "type": "card",
+   "image": "kv",
+   "from": [
+    850,
+    515,
+    470
+   ],
+   "to": [
+    760,
+    515,
+    470
+   ],
+   "line": "It's made for wet hair and the shower, with a curved handle you can grip with wet hands. Comb conditioner through as you go. A cute stocking stuffer, too.",
+   "hl": [
+    "wet",
+    "shower,",
+    "curved",
+    "handle",
+    "conditioner",
+    "stocking"
+   ],
+   "chips": [
+    "Wet hair",
+    "Shower",
+    "Conditioner"
+   ]
+  },
+  {
+   "type": "tip",
+   "title": "PRO TIP",
+   "boxes": [
+    [
+     "Ends",
+     "first"
+    ],
+    [
+     "Small",
+     "parts"
+    ],
+    [
+     "No",
+     "heat"
+    ]
+   ],
+   "note": "Long, thick or curly hair? Try the Large size.",
+   "line": "Pro tip: start at the ends and work up in small sections. And keep it away from your blow dryer, because heat can damage the teeth.",
+   "hl": [
+    "ends",
+    "small",
+    "sections.",
+    "blow",
+    "dryer,"
+   ]
+  },
+  {
+   "type": "cta",
+   "image": "kv",
+   "from": [
+    640,
+    515,
+    470
+   ],
+   "to": [
+    760,
+    515,
+    470
+   ],
+   "line": "It's pick number seventy-nine. Find the link on our channel, under Video Picks.",
+   "hl": [
+    "seventy-nine.",
+    "channel,",
+    "Video",
+    "Picks."
+   ]
+  }
+ ]
 }
