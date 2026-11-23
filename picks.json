@@ -2015,5 +2015,68 @@
   "short_score": 7,
   "in_weekly": false,
   "sub": "Gadgets & Smart Home"
+ },
+ {
+  "pick": 95,
+  "date": "2026-11-23",
+  "category": "Home & Kitchen",
+  "name": "Bialetti Moka Express Iconic Italian Stovetop Espresso Maker, 6 Cups (Natural Silver)",
+  "asin": "B00004RFRU",
+  "asin_sources": [
+   "ASINsight (asinsight.com/report/US/bialetti): B00004RFRU 'Bialetti Moka Express Iconic Italian Stovetop Espresso Maker (Natural Silver, 6 Cups)', 4.6★, 90,997 ratings; report #1 pick 10K+ sold monthly",
+   "camelcamelcamel (camelcamelcamel.com/BIALETTI-Moka-Express-Cup-EA/product/B00004RFRU): same title 'Bialetti Moka Express Iconic Italian Stovetop Espresso Maker (Natural Silver, 6 Cups)'"
+  ],
+  "amazon": "https://www.amazon.com/dp/B00004RFRU?tag=desksetuppi07-20",
+  "post": "https://www.yaypicks.com/2026/11/bialetti-moka-express-review-bold.html",
+  "short": null,
+  "short_date": null,
+  "pin": null,
+  "job": "jobs/2026-11-23-bialetti-moka-express-6-cup",
+  "sales_signal": "4.6★, ~91K ratings (ASINsight); Moka Express listings #2 Stovetop Espresso & Moka Pots (desertcart.us)",
+  "short_score": 8,
+  "in_weekly": false,
+  "sub": "Drinkware & Coffee"
+ },
+ {
+  "pick": 96,
+  "date": "2026-11-23",
+  "category": "Beauty",
+  "name": "ELEMIS Pro-Collagen Cleansing Balm, 100 g (3.5 oz)",
+  "asin": "B08MJZYW8P",
+  "asin_sources": [
+   "Slickdeals (slickdeals.net/f/19192972-...): Amazon US deal 'ELEMIS Pro-Collagen Cleansing Balm ... 100g', link ends /dp/B08MJZYW8P",
+   "desertcart SG (desertcart.sg/products/376807566-...): ASIN B08MJZYW8P 'Elemis Pro-Collagen Cleansing Balm 100g', 4.7★, 3,108 ratings, #5 Cleansing Creams & Milks"
+  ],
+  "amazon": "https://www.amazon.com/dp/B08MJZYW8P?tag=desksetuppi07-20",
+  "post": "https://www.yaypicks.com/2026/11/elemis-cleansing-balm-review-makeup.html",
+  "short": null,
+  "short_date": null,
+  "pin": null,
+  "job": "jobs/2026-11-23-elemis-pro-collagen-cleansing-balm",
+  "sales_signal": "4.5–4.7★, 3.1K–15.8K ratings, #5 Cleansing Creams & Milks (desertcart); official ELEMIS Amazon store; premium beauty",
+  "short_score": 8,
+  "in_weekly": false,
+  "sub": "Skincare"
+ },
+ {
+  "pick": 97,
+  "date": "2026-11-23",
+  "category": "Tech",
+  "name": "Apple 20W USB-C Power Adapter (MWVV3AM/A)",
+  "asin": "B0DJFW7PNM",
+  "asin_sources": [
+   "ASINsight (asinsight.com/report/US/apple-power-adapter): B0DJFW7PNM 'Apple 20W USB-C Compact Power Adapter', 4.8★, 12,474 ratings",
+   "9to5Toys (2024-12-01 and 2025-06-23 deal posts) + WattAPick (wattapick.com/chargers/apple-20w-usb-c): 'Apple 20W USB-C Power Adapter' MWVV3AM/A linked to amazon.com/dp/B0DJFW7PNM"
+  ],
+  "amazon": "https://www.amazon.com/dp/B0DJFW7PNM?tag=desksetuppi07-20",
+  "post": "https://www.yaypicks.com/2026/11/apple-20w-usb-c-adapter-review-fast.html",
+  "short": null,
+  "short_date": null,
+  "pin": null,
+  "job": "jobs/2026-11-23-apple-20w-usb-c-power-adapter",
+  "sales_signal": "4.8★, 12.5K ratings (ASINsight); Best Buy 25K+ reviews; frequent 9to5Toys/Slickdeals deals",
+  "short_score": 6,
+  "in_weekly": false,
+  "sub": "Gadgets & Smart Home"
  }
 ]
