@@ -18,5 +18,130 @@
  },
  "images": {
   "kv": "img/kv.jpg"
- }
+ },
+ "scenes": [
+  {
+   "type": "card",
+   "image": "kv",
+   "from": [
+    600,
+    780,
+    1200
+   ],
+   "to": [
+    620,
+    780,
+    1000
+   ],
+   "line": "This charger is just over an inch wide, yet it has enough power for your phone, your tablet, and even a thin laptop.",
+   "hl": [
+    "inch",
+    "phone,",
+    "tablet,",
+    "laptop."
+   ]
+  },
+  {
+   "type": "card",
+   "image": "kv",
+   "from": [
+    620,
+    780,
+    1000
+   ],
+   "to": [
+    780,
+    980,
+    620
+   ],
+   "line": "Meet the Anker Nano thirty watt charger. One USB-C port fast charges iPhone and Android, with PPS support for compatible phones.",
+   "hl": [
+    "Anker",
+    "Nano",
+    "thirty",
+    "watt",
+    "USB-C",
+    "fast"
+   ],
+   "badge": {
+    "big": "30W",
+    "small": "USB-C fast charging"
+   }
+  },
+  {
+   "type": "card",
+   "image": "kv",
+   "from": [
+    780,
+    980,
+    620
+   ],
+   "to": [
+    480,
+    620,
+    760
+   ],
+   "line": "The prongs fold flat, so it slips into any pocket. A smart stocking stuffer, or a spare for your desk.",
+   "hl": [
+    "fold",
+    "flat,",
+    "pocket.",
+    "stocking",
+    "stuffer,"
+   ],
+   "chips": [
+    "Travel",
+    "Desk spare",
+    "Gift idea"
+   ]
+  },
+  {
+   "type": "tip",
+   "title": "GOOD TO KNOW",
+   "boxes": [
+    [
+     "Add a",
+     "USB-C cable"
+    ],
+    [
+     "One",
+     "device"
+    ],
+    [
+     "Laptop",
+     "top-up"
+    ]
+   ],
+   "note": "Cable sold separately. It charges one device at a time.",
+   "line": "Good to know: the cable is sold separately, and it charges one device at a time. On a laptop, think top-up, not full speed.",
+   "hl": [
+    "cable",
+    "separately,",
+    "one",
+    "device",
+    "top-up,"
+   ]
+  },
+  {
+   "type": "cta",
+   "image": "kv",
+   "from": [
+    600,
+    760,
+    1000
+   ],
+   "to": [
+    600,
+    760,
+    1180
+   ],
+   "line": "It's pick number seventy-seven. Find the link on our channel, under Video Picks.",
+   "hl": [
+    "seventy-seven.",
+    "channel,",
+    "Video",
+    "Picks."
+   ]
+  }
+ ]
 }
