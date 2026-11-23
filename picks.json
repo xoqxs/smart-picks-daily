@@ -1899,5 +1899,78 @@
   "in_weekly": false,
   "sub": "Makeup",
   "batch": "sprint50"
+ },
+ {
+  "pick": 90,
+  "date": "2026-11-23",
+  "category": "Home & Kitchen",
+  "name": "Victorinox Fibrox Pro 8-Inch Chef's Knife (Black, 45520 / 5.2063.20)",
+  "asin": "B008M5U1C2",
+  "asin_sources": [
+   "desertcart.sk: 'The Victorinox Fibrox Pro 8-Inch Chef's Knife', ASIN B008M5U1C2, model 45520, 4.7 stars, 28,935 ratings, #41 in Chef's Knives",
+   "desertcart.lk (older snapshot): Victorinox Fibrox Pro 8-inch Chef's Knife, ASIN B008M5U1C2, model 45520, 4.8 stars, 14,550 ratings, #6 in Chef's Knives",
+   "Slickdeals thread 15181660: 'Victorinox Fibrox Pro Chef's Knife, 8-Inch Chef's' links amazon.com/dp/B008M5U1C2",
+   "everlasting-goods.com review: links amazon.com/dp/B008M5U1C2 as the black Victorinox Fibrox Pro 8-inch chef's knife (5.2063.20)"
+  ],
+  "amazon": "https://www.amazon.com/dp/B008M5U1C2?tag=desksetuppi07-20",
+  "post": "https://www.yaypicks.com/2026/11/victorinox-fibrox-pro-review-chefs.html",
+  "short": null,
+  "short_date": null,
+  "pin": null,
+  "job": "jobs/2026-11-23-victorinox-fibrox-pro-8-chef-knife",
+  "sales_signal": "4.7★, ~28.9K ratings, #6 in Chef's Knives (desertcart snapshot; latest snapshot #41)",
+  "short_score": 9,
+  "in_weekly": false,
+  "sub": "Cookware & Kitchen Tools",
+  "batch": "sprint50"
+ },
+ {
+  "pick": 91,
+  "date": "2026-11-23",
+  "category": "Beauty",
+  "name": "Clinique Almost Lipstick in Black Honey (0.06 oz)",
+  "asin": "B0032RMX3U",
+  "asin_sources": [
+   "desertcart.us/products/907919-almost-lipstick: 'Almost Lipstick' (Clinique), ASIN B0032RMX3U, shade Black Honey, 4.6 stars, 16,875 ratings, #293 in Beauty & Personal Care, #3 in Lipstick",
+   "desertcart.ph/products/66304124: 'Clinique Almost Lipstick', ASIN B0032RMX3U, 4.6 stars, 13,972 ratings, #16 in Lipsticks",
+   "today.com/shop/clinique-almost-lipstick-black-honey-review-rcna132136: links https://www.amazon.com/Clinique-Almost-Lipstick-Black-Honey/dp/B0032RMX3U",
+   "reviewed.com/beauty/content/clinique-black-honey-almost-lipstick-review: links https://www.amazon.com/dp/B0032RMX3U for Black Honey",
+   "shopping.yahoo.com (Clinique lip color that looks great on everyone): Black Honey linked to ASIN B0032RMX3U"
+  ],
+  "amazon": "https://www.amazon.com/dp/B0032RMX3U?tag=desksetuppi07-20",
+  "post": "https://www.yaypicks.com/2026/11/clinique-black-honey-review-sheer-berry.html",
+  "short": null,
+  "short_date": null,
+  "pin": null,
+  "job": "jobs/2026-11-23-clinique-almost-lipstick-black-honey",
+  "sales_signal": "4.6★, 13K-17K ratings, #3 in Lipstick (desertcart listing data); named a Clinique makeup bestseller in Estée Lauder's Amazon Premium Beauty launch release",
+  "short_score": 9,
+  "in_weekly": false,
+  "sub": "Makeup",
+  "batch": "sprint50"
+ },
+ {
+  "pick": 92,
+  "date": "2026-11-23",
+  "category": "Tech",
+  "name": "Anker Nano Power Bank (10K, 45W, Built-In Retractable USB-C Cable), A1638",
+  "asin": "B0DGKWTQQC",
+  "asin_sources": [
+   "BGR (bgr.com/2230708/anker-power-banks-with-built-in-cables): Amazon link B0DGKWTQQC for 'Anker Nano Power Bank (10K)' A1638 45W, 4.6 stars from 2,900+ Amazon user reviews",
+   "Search-result snippets (not opened): amazon.com/.../dp/B0DGKWTQQC 'Anker Nano Power Bank, 45W 10,000mAh Portable Charger, iPhone Battery Pack' (appears as sr=8-3 for 'Power banks' query); amazon.ca/dp/B0DGKWTQQC same product",
+   "tiendamia.cr/p/amz/b0dgkwtqqc 'Anker Nano Portable Charger, 45W 10000mAh with 2.3 ft Retractable Cable' (snippet, same product)",
+   "Note: Pack Hacker links sibling color ASIN B0DGGHTJQB (Green) of the same listing"
+  ],
+  "amazon": "https://www.amazon.com/dp/B0DGKWTQQC?tag=desksetuppi07-20",
+  "post": "https://www.yaypicks.com/2026/11/anker-nano-10k-review-power-bank-with.html",
+  "short": null,
+  "short_date": null,
+  "pin": null,
+  "job": "jobs/2026-11-23-anker-nano-power-bank-10k-45w",
+  "sales_signal": "4.6★, 2,900+ Amazon reviews (BGR); Best Buy 88% would recommend; shows as #3 organic result for 'Power banks' in an Amazon search snippet. No explicit non-Amazon BSR rank number found.",
+  "short_score": 8,
+  "in_weekly": false,
+  "sub": "Gadgets & Smart Home",
+  "batch": "sprint50"
  }
 ]
