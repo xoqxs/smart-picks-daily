@@ -1,0 +1,22 @@
+{
+ "slug": "2026-11-24-jbl-clip-5",
+ "pick": 112,
+ "category": "Tech",
+ "asin": "B0CTP56C5R",
+ "name": "JBL Clip 5 Bluetooth Speaker",
+ "credit": "Image: JBL",
+ "pin": {
+  "image": "kv",
+  "crop": [
+   802,
+   802,
+   1600
+  ],
+  "headline": "Big Bass You Can Clip Anywhere",
+  "sub": "IP67 · Up to 12h play · Auracast",
+  "button": "See it on Amazon →"
+ },
+ "images": {
+  "kv": "img/kv.jpg"
+ }
+}
