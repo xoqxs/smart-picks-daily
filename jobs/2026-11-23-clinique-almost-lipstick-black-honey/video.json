@@ -13,10 +13,136 @@
    1200
   ],
   "headline": "Black Honey Lipstick",
-  "sub": "Sheer · Buildable · Fragrance free",
-  "button": "See it on Amazon →"
+  "sub": "Sheer \u00b7 Buildable \u00b7 Fragrance free",
+  "button": "See it on Amazon \u2192"
  },
  "images": {
   "kv": "img/kv.jpg"
- }
+ },
+ "scenes": [
+  {
+   "type": "card",
+   "image": "kv",
+   "from": [
+    600,
+    800,
+    1200
+   ],
+   "to": [
+    600,
+    800,
+    1120
+   ],
+   "line": "It looks almost black in the tube. On your lips, it melts into a sheer, glossy berry that suits almost everyone.",
+   "hl": [
+    "black",
+    "sheer,",
+    "glossy",
+    "berry"
+   ]
+  },
+  {
+   "type": "card",
+   "image": "kv",
+   "from": [
+    580,
+    560,
+    700
+   ],
+   "to": [
+    575,
+    540,
+    580
+   ],
+   "line": "Meet Clinique Almost Lipstick in Black Honey. A cult shade since nineteen seventy-one, sheer and buildable with a soft shine.",
+   "hl": [
+    "Clinique",
+    "Black",
+    "Honey.",
+    "nineteen",
+    "seventy-one,",
+    "buildable"
+   ],
+   "badge": {
+    "big": "1971",
+    "small": "cult shade"
+   }
+  },
+  {
+   "type": "card",
+   "image": "kv",
+   "from": [
+    600,
+    810,
+    1150
+   ],
+   "to": [
+    600,
+    800,
+    1200
+   ],
+   "line": "It's great for minimal makeup fans and anyone nervous about dark shades. Fragrance free, allergy tested, and an easy gift.",
+   "hl": [
+    "minimal",
+    "makeup",
+    "dark",
+    "shades.",
+    "Fragrance",
+    "free,",
+    "gift."
+   ],
+   "chips": [
+    "Minimal makeup",
+    "Easy gift"
+   ]
+  },
+  {
+   "type": "tip",
+   "title": "PRO TIP",
+   "boxes": [
+    [
+     "1x",
+     "sheer tint"
+    ],
+    [
+     "2x",
+     "bolder"
+    ],
+    [
+     "Liner",
+     "deeper"
+    ]
+   ],
+   "note": "The sheer tint is forgiving, so you can apply it without a mirror.",
+   "line": "Pro tip: one swipe gives a sheer tint. Add a second layer for more color, or a lip liner underneath for a deeper berry.",
+   "hl": [
+    "one",
+    "swipe",
+    "second",
+    "layer",
+    "liner"
+   ]
+  },
+  {
+   "type": "cta",
+   "image": "kv",
+   "from": [
+    600,
+    800,
+    1200
+   ],
+   "to": [
+    600,
+    800,
+    1200
+   ],
+   "line": "It's pick number ninety-one. Find the link on our channel, under Video Picks.",
+   "hl": [
+    "ninety-one.",
+    "channel,",
+    "Video",
+    "Picks."
+   ]
+  }
+ ]
 }
