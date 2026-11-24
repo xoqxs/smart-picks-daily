@@ -2410,5 +2410,51 @@
   "in_weekly": false,
   "sub": "Headphones & Speakers",
   "kw": "jbl clip 5"
+ },
+ {
+  "pick": 113,
+  "date": "2026-11-24",
+  "category": "Home & Kitchen",
+  "name": "Shark Navigator Lift-Away NV352 Upright Vacuum (Lavender)",
+  "asin": "B004Q4DRJW",
+  "asin_sources": [
+   "ASINsight (asinsight.com/report/US/shark-vacuums): B004Q4DRJW Shark Navigator Lift-Away NV352 Lavender, #1, 4.4★ 30.8K, ~20K/mo",
+   "desertcart.co.za 1153283: Shark NV352 Navigator Lift-Away, Lavender, ASIN B004Q4DRJW, 4.3★ 121K, #1 Upright Vacuum Cleaners"
+  ],
+  "amazon": "https://www.amazon.com/dp/B004Q4DRJW?tag=desksetuppi07-20",
+  "post": "https://www.yaypicks.com/2026/11/shark-navigator-lift-away-nv352-review.html",
+  "short": null,
+  "short_date": null,
+  "pin": null,
+  "job": "jobs/2026-11-24-shark-navigator-nv352",
+  "sales_signal": "4.3–4.4★, 30K–121K ratings, #1 Upright Vacuum Cleaners, ~20K/mo",
+  "short_score": 8,
+  "in_weekly": false,
+  "sub": "Home Care & Comfort",
+  "kw": "shark navigator lift-away nv352",
+  "batch": "sprint50"
+ },
+ {
+  "pick": 114,
+  "date": "2026-11-24",
+  "category": "Beauty",
+  "name": "tarte Shape Tape Concealer, 22N Light Neutral (0.33 fl oz)",
+  "asin": "B00S5VHGQ2",
+  "asin_sources": [
+   "desertcart.co 35506728: Tarte Shape Tape Concealer 22N light neutral, ASIN B00S5VHGQ2, 4.6★ 15K, #2 Concealers & Neutralizing Makeup",
+   "TODAY (today.com/shop/tarte-amazon-launch-rcna202136, tarte official Amazon launch Apr 2025) links Shape Tape Concealer to amazon.com/dp/B00S5VHGQ2"
+  ],
+  "amazon": "https://www.amazon.com/dp/B00S5VHGQ2?tag=desksetuppi07-20",
+  "post": "https://www.yaypicks.com/2026/11/tarte-shape-tape-concealer-review-full.html",
+  "short": null,
+  "short_date": null,
+  "pin": null,
+  "job": "jobs/2026-11-24-tarte-shape-tape",
+  "sales_signal": "4.6★, 15K+ ratings, #2 Concealers & Neutralizing Makeup",
+  "short_score": 9,
+  "in_weekly": false,
+  "sub": "Makeup",
+  "kw": "tarte shape tape concealer",
+  "batch": "sprint50"
  }
 ]
