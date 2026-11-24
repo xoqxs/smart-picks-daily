@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T11:30:00+03:00",
+  "updated": "2026-11-24T23:45:00+03:00",
   "event": {
     "name": "Black Friday Week",
     "title": "Black Friday Week on Amazon",
@@ -17,13 +17,10 @@
       "credit": "Logitech",
       "amazon": "https://www.amazon.com/dp/B09HM94VDS?tag=desksetuppi07-20",
       "post": "https://smartpicksdaily-reviews.blogspot.com/2026/11/logitech-mx-master-3s-review.html",
-      "badge": "deal",
-      "note": "Black Friday Week deal",
-      "verified": [
-        "https://www.pcworld.com/article/3278025/best-early-amazon-black-friday-accessory-deals-2026.html",
-        "https://www.tomshardware.com/peripherals/mice/logitechs-accomplished-mx-master-3s-productivity-mouse-gets-24-percent-discount-usd75-buys-you-a-tried-and-tested-workhorse-with-killer-features"
-      ],
-      "expires": "2026-11-24T23:30:00+03:00"
+      "badge": "gift",
+      "note": "Holiday gift pick",
+      "verified": [],
+      "expires": "2026-12-01T09:00:00+03:00"
     },
     {
       "pick": 17,
@@ -33,13 +30,10 @@
       "credit": "Stanley",
       "amazon": "https://www.amazon.com/dp/B0CP9Z56SW?tag=desksetuppi07-20",
       "post": "https://smartpicksdaily-reviews.blogspot.com/2026/11/stanley-quencher-40-oz-review-why.html",
-      "badge": "deal",
-      "note": "Black Friday Week deal",
-      "verified": [
-        "https://www.dealnews.com/Stanley-Black-Friday-Tumbler-Deals-at-Amazon-Up-to-55-off-free-shipping-w-Prime/22411992.html",
-        "https://www.tomsguide.com/sales-events/31-best-early-black-friday-deals-under-usd25-on-amazon-shop-apple-earpods-fire-tv-stick-4k-stanley-quencher-h20-and-more"
-      ],
-      "expires": "2026-11-24T23:30:00+03:00"
+      "badge": "gift",
+      "note": "Holiday gift pick",
+      "verified": [],
+      "expires": "2026-12-01T09:00:00+03:00"
     },
     {
       "pick": 15,
