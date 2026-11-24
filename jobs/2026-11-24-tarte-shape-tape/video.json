@@ -19,5 +19,132 @@
  "images": {
   "kv": "img/kv.jpg",
   "pin": "img/kv_pin.jpg"
- }
+ },
+ "scenes": [
+  {
+   "type": "card",
+   "image": "pin",
+   "from": [
+    1000,
+    1000,
+    2000
+   ],
+   "to": [
+    1000,
+    1000,
+    1750
+   ],
+   "line": "One tiny dot of this concealer can cover a breakout, and tarte rates it for up to sixteen hours of wear.",
+   "hl": [
+    "tiny",
+    "dot",
+    "breakout,",
+    "sixteen",
+    "hours"
+   ]
+  },
+  {
+   "type": "card",
+   "image": "pin",
+   "from": [
+    700,
+    1300,
+    1100
+   ],
+   "to": [
+    720,
+    1300,
+    950
+   ],
+   "line": "Meet tarte Shape Tape. Full coverage, a natural matte finish, waterproof, and made with shea and mango seed butter.",
+   "hl": [
+    "tarte",
+    "Shape",
+    "Tape.",
+    "Full",
+    "coverage,",
+    "matte",
+    "waterproof,"
+   ],
+   "badge": {
+    "big": "16 HR",
+    "small": "wear (brand claim)"
+   }
+  },
+  {
+   "type": "card",
+   "image": "pin",
+   "from": [
+    1250,
+    620,
+    950
+   ],
+   "to": [
+    1200,
+    700,
+    1100
+   ],
+   "line": "It's made for dark circles, redness and blemishes, and it comes in forty-eight shades, from fair to rich.",
+   "hl": [
+    "dark",
+    "circles,",
+    "redness",
+    "blemishes,",
+    "forty-eight"
+   ],
+   "chips": [
+    "Under-eyes",
+    "Redness",
+    "Breakouts"
+   ]
+  },
+  {
+   "type": "tip",
+   "title": "PRO TIP",
+   "boxes": [
+    [
+     "1–2",
+     "lighter"
+    ],
+    [
+     "Blend",
+     "in parts"
+    ],
+    [
+     "Light",
+     "powder"
+    ]
+   ],
+   "note": "Under-eyes: one to two shades lighter. Keep your true match for spots.",
+   "line": "Pro tip: under the eyes, go one to two shades lighter than your skin. Blend one area at a time, then set with a light dusting of powder.",
+   "hl": [
+    "lighter",
+    "Blend",
+    "powder."
+   ]
+  },
+  {
+   "type": "cta",
+   "image": "pin",
+   "from": [
+    1000,
+    1000,
+    2000
+   ],
+   "to": [
+    1000,
+    1000,
+    2000
+   ],
+   "line": "It's pick number one hundred fourteen. Find the link on our channel, under Video Picks.",
+   "hl": [
+    "one",
+    "hundred",
+    "fourteen.",
+    "channel,",
+    "Video",
+    "Picks."
+   ]
+  }
+ ]
 }
