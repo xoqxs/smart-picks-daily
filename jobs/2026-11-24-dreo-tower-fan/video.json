@@ -18,5 +18,132 @@
  },
  "images": {
   "kv": "img/kv.jpg"
- }
+ },
+ "scenes": [
+  {
+   "type": "card",
+   "image": "kv",
+   "from": [
+    1000,
+    1060,
+    2000
+   ],
+   "to": [
+    1050,
+    1060,
+    1900
+   ],
+   "line": "This fan stands three feet tall on a footprint of about twelve by twelve inches, and it's quiet enough for a bedroom.",
+   "hl": [
+    "three",
+    "feet",
+    "twelve",
+    "quiet",
+    "bedroom."
+   ]
+  },
+  {
+   "type": "card",
+   "image": "kv",
+   "from": [
+    1210,
+    420,
+    720
+   ],
+   "to": [
+    1210,
+    560,
+    1000
+   ],
+   "line": "Meet the Dreo Nomad One tower fan. Four speeds, four modes, ninety degree oscillation, and a timer up to eight hours.",
+   "hl": [
+    "Dreo",
+    "Nomad",
+    "One",
+    "ninety",
+    "degree",
+    "eight"
+   ],
+   "badge": {
+    "big": "90°",
+    "small": "oscillation"
+   }
+  },
+  {
+   "type": "card",
+   "image": "kv",
+   "from": [
+    760,
+    1250,
+    1000
+   ],
+   "to": [
+    1000,
+    1050,
+    1600
+   ],
+   "line": "Sleep mode turns the display dark, silences the beeps, and slowly eases the speed down. The remote tucks into the back handle.",
+   "hl": [
+    "Sleep",
+    "dark,",
+    "beeps,",
+    "remote"
+   ],
+   "chips": [
+    "Bedroom",
+    "Home office",
+    "Dorm room"
+   ]
+  },
+  {
+   "type": "tip",
+   "title": "PRO TIP",
+   "boxes": [
+    [
+     "Leave",
+     "space"
+    ],
+    [
+     "Pop off",
+     "grille"
+    ],
+    [
+     "Try",
+     "Natural"
+    ]
+   ],
+   "note": "Air comes in from the sides and back. Grille and impeller come off for cleaning.",
+   "line": "Pro tip: leave space around it, since air comes in from the sides and back. The grille and impeller pop off, so dusting is easy.",
+   "hl": [
+    "space",
+    "sides",
+    "back.",
+    "pop",
+    "off,"
+   ]
+  },
+  {
+   "type": "cta",
+   "image": "kv",
+   "from": [
+    1000,
+    1060,
+    2000
+   ],
+   "to": [
+    1000,
+    1060,
+    2000
+   ],
+   "line": "It's pick number one hundred one. Find the link on our channel, under Video Picks.",
+   "hl": [
+    "one",
+    "hundred",
+    "one.",
+    "channel,",
+    "Video",
+    "Picks."
+   ]
+  }
+ ]
 }
