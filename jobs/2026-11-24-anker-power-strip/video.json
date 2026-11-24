@@ -1,0 +1,18 @@
+{
+ "slug": "2026-11-24-anker-power-strip",
+ "pick": 109,
+ "category": "Tech",
+ "asin": "B09SG2Q23M",
+ "name": "Anker 351 Power Strip",
+ "credit": "Image: Anker",
+ "pin": {
+  "image": "kv",
+  "crop": [1000, 1250, 2000],
+  "headline": "12 Outlets + USB-C on One Tidy Strip",
+  "sub": "Wide spacing · 20W USB-C · 5 ft flat plug",
+  "button": "See it on Amazon →"
+ },
+ "images": {
+  "kv": "img/kv.jpg"
+ }
+}
