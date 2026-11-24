@@ -1,0 +1,23 @@
+{
+ "slug": "2026-11-24-tarte-shape-tape",
+ "pick": 114,
+ "category": "Beauty",
+ "asin": "B00S5VHGQ2",
+ "name": "tarte Shape Tape Concealer",
+ "credit": "Image: tarte",
+ "pin": {
+  "image": "pin",
+  "crop": [
+   1000,
+   1000,
+   2000
+  ],
+  "headline": "Shape Tape: Cult Full Coverage",
+  "sub": "16-hr wear · Matte · 48 shades · Vegan",
+  "button": "See it on Amazon →"
+ },
+ "images": {
+  "kv": "img/kv.jpg",
+  "pin": "img/kv_pin.jpg"
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "slug": "2026-11-24-shark-navigator-nv352",
+ "pick": 113,
+ "category": "Home & Kitchen",
+ "asin": "B004Q4DRJW",
+ "name": "Shark Navigator Lift-Away NV352",
+ "credit": "Image: Shark",
+ "pin": {
+  "image": "kv",
+  "crop": [
+   800,
+   800,
+   1600
+  ],
+  "headline": "One Vac for Floors, Stairs & Sofas",
+  "sub": "Lift-Away pod · HEPA filter · 25-ft cord",
+  "button": "See it on Amazon →"
+ },
+ "images": {
+  "kv": "img/kv.jpg"
+ }
+}
