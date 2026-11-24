@@ -2143,5 +2143,74 @@
   "sub": "Gadgets & Smart Home",
   "kw": "tapo c210",
   "batch": "sprint50"
+ },
+ {
+  "pick": 101,
+  "date": "2026-11-24",
+  "category": "Home & Kitchen",
+  "name": "Dreo Nomad One Tower Fan, 36 in, 90° Oscillation, 4 Speeds (DR-HTF007, Black)",
+  "asin": "B09MKPDJRT",
+  "asin_sources": [
+   "ASINsight (asinsight.com/report/US/dreo-nomad-one-tower-fan): #1 B09MKPDJRT DREO tower fan 90° oscillation, black; 4.6★, ~92K ratings, ~60K/mo",
+   "Apartment Therapy 'Dreo Nomad One Tower Fan' links amazon.com/.../DR-HTF007/dp/B09MKPDJRT; manuals.plus/asin/B09MKPDJRT = Dreo Nomad One DR-HTF007"
+  ],
+  "amazon": "https://www.amazon.com/dp/B09MKPDJRT?tag=desksetuppi07-20",
+  "post": "https://www.yaypicks.com/2026/11/dreo-tower-fan-review-quiet-nomad-one.html",
+  "short": null,
+  "short_date": null,
+  "pin": null,
+  "job": "jobs/2026-11-24-dreo-tower-fan",
+  "sales_signal": "4.6★, ~92K ratings, ~60K sold/mo, #1 Dreo tower fan (ASINsight)",
+  "short_score": 9,
+  "in_weekly": false,
+  "sub": "Home Care & Comfort",
+  "kw": "dreo tower fan",
+  "batch": "sprint50"
+ },
+ {
+  "pick": 102,
+  "date": "2026-11-24",
+  "category": "Beauty",
+  "name": "OUAI Leave In Conditioner & Heat Protectant Spray (North Bondi Scent, Full Size)",
+  "asin": "B07B895KND",
+  "asin_sources": [
+   "ASINsight (asinsight.com/report/US/ouai-leave-in-conditioner): #3 B07B895KND 'OUAI Leave In Conditioner & Heat Protectant for Hair', 4.6★, 14K ratings, ~10K/mo",
+   "ShopSavvy (shopsavvy.com/products/ouai-leave-in-conditioner): 'OUAI Leave In Conditioner' SG_B07B895KND_US, UPC 815402023119"
+  ],
+  "amazon": "https://www.amazon.com/dp/B07B895KND?tag=desksetuppi07-20",
+  "post": "https://www.yaypicks.com/2026/11/ouai-leave-in-conditioner-review.html",
+  "short": null,
+  "short_date": null,
+  "pin": null,
+  "job": "jobs/2026-11-24-ouai-leave-in-conditioner",
+  "sales_signal": "4.6★, 14K ratings, ~10K/mo, #3 leave-in conditioner (ASINsight); NBC Select best overall spray",
+  "short_score": 8,
+  "in_weekly": false,
+  "sub": "Hair Care",
+  "kw": "ouai leave in conditioner",
+  "batch": "sprint50"
+ },
+ {
+  "pick": 103,
+  "date": "2026-11-24",
+  "category": "Tech",
+  "name": "Govee Smart Light Bulbs H6008, A19 E26 800lm Color Changing RGBWW, Wi-Fi & Bluetooth (4-Pack)",
+  "asin": "B09B7NQT2K",
+  "asin_sources": [
+   "ASINsight (asinsight.com/report/US/govee-bulb): #2 B09B7NQT2K 'Govee Smart Light Bulbs, Color Changing Light Bulb...', 4.6★, 26.8K ratings, ~10K/mo",
+   "desertcart.com.ar 360406474: ASIN B09B7NQT2K Govee Smart Light Bulbs 4-pack H6008, 4.7★ 18,357 ratings, #6 LED Bulbs"
+  ],
+  "amazon": "https://www.amazon.com/dp/B09B7NQT2K?tag=desksetuppi07-20",
+  "post": "https://www.yaypicks.com/2026/11/govee-smart-light-bulbs-review-easy.html",
+  "short": null,
+  "short_date": null,
+  "pin": null,
+  "job": "jobs/2026-11-24-govee-smart-light-bulbs",
+  "sales_signal": "4.6★, 26.8K ratings, ~10K/mo, #6 LED Bulbs",
+  "short_score": 8,
+  "in_weekly": false,
+  "sub": "Gadgets & Smart Home",
+  "kw": "govee smart light bulbs",
+  "batch": "sprint50"
  }
 ]
