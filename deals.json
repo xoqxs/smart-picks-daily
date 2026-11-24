@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T23:30:00+03:00",
+  "updated": "2026-11-24T11:30:00+03:00",
   "event": {
     "name": "Black Friday Week",
     "title": "Black Friday Week on Amazon",
@@ -9,22 +9,6 @@
     "source": "https://www.aboutamazon.com/news/retail/amazon-black-friday-cyber-monday-deals-2026"
   },
   "items": [
-    {
-      "pick": 15,
-      "name": "Apple AirTag 4-Pack (2nd Gen)",
-      "cat": "Tech",
-      "img": "thumbs/2026-11-16-apple-airtag-4-pack.jpg",
-      "credit": "Apple",
-      "amazon": "https://www.amazon.com/dp/B0GJTXVN9Z?tag=desksetuppi07-20",
-      "post": "https://smartpicksdaily-reviews.blogspot.com/2026/11/apple-airtag-2nd-gen-4-pack-find-keys.html",
-      "badge": "deal",
-      "note": "Black Friday Week deal",
-      "verified": [
-        "https://www.tomsguide.com/live/news/apple-black-friday-deals-friday-11-20-2026",
-        "https://the-gadgeteer.com/2026/11/11/the-airtag-2-four-pack-just-fell-to-69-99-at-amazon/"
-      ],
-      "expires": "2026-11-24T11:30:00+03:00"
-    },
     {
       "pick": 18,
       "name": "Logitech MX Master 3S",
@@ -56,6 +40,19 @@
         "https://www.tomsguide.com/sales-events/31-best-early-black-friday-deals-under-usd25-on-amazon-shop-apple-earpods-fire-tv-stick-4k-stanley-quencher-h20-and-more"
       ],
       "expires": "2026-11-24T23:30:00+03:00"
+    },
+    {
+      "pick": 15,
+      "name": "Apple AirTag 4-Pack (2nd Gen)",
+      "cat": "Tech",
+      "img": "thumbs/2026-11-16-apple-airtag-4-pack.jpg",
+      "credit": "Apple",
+      "amazon": "https://www.amazon.com/dp/B0GJTXVN9Z?tag=desksetuppi07-20",
+      "post": "https://smartpicksdaily-reviews.blogspot.com/2026/11/apple-airtag-2nd-gen-4-pack-find-keys.html",
+      "badge": "gift",
+      "note": "Holiday gift pick",
+      "verified": [],
+      "expires": "2026-12-01T09:00:00+03:00"
     },
     {
       "pick": 48,
