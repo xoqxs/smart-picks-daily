@@ -1,0 +1,22 @@
+{
+ "slug": "2026-11-24-dreo-tower-fan",
+ "pick": 101,
+ "category": "Home & Kitchen",
+ "asin": "B09MKPDJRT",
+ "name": "Dreo Nomad One Tower Fan",
+ "credit": "Image: Dreo",
+ "pin": {
+  "image": "kv",
+  "crop": [
+   1000,
+   1000,
+   2000
+  ],
+  "headline": "Quiet Tower Fan Pick",
+  "sub": "Sleep mode · 90° sweep · Easy clean",
+  "button": "See it on Amazon →"
+ },
+ "images": {
+  "kv": "img/kv.jpg"
+ }
+}

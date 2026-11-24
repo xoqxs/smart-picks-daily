@@ -1,0 +1,22 @@
+{
+ "slug": "2026-11-24-govee-smart-light-bulbs",
+ "pick": 103,
+ "category": "Tech",
+ "asin": "B09B7NQT2K",
+ "name": "Govee Smart Light Bulbs",
+ "credit": "Image: Govee",
+ "pin": {
+  "image": "kv",
+  "crop": [
+   750,
+   750,
+   1500
+  ],
+  "headline": "Color for Every Mood",
+  "sub": "16M colors · Music sync · No hub",
+  "button": "See it on Amazon →"
+ },
+ "images": {
+  "kv": "img/kv.jpg"
+ }
+}
