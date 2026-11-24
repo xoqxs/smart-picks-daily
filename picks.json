@@ -2344,5 +2344,71 @@
   "in_weekly": false,
   "sub": "Gadgets & Smart Home",
   "kw": "anker 351 power strip"
+ },
+ {
+  "pick": 110,
+  "date": "2026-11-24",
+  "category": "Beauty",
+  "name": "LANEIGE Lip Sleeping Mask, Berry, 0.7 oz (20 g)",
+  "asin": "B07XXPHQZK",
+  "asin_sources": [
+   "desertcart.us 171772514: LANEIGE Lip Sleeping Mask 0.7 oz / 20 g, Berry Fruit Complex, ASIN B07XXPHQZK, 4.6\u2605 36.7K, #8 Lip Balms & Moisturizers",
+   "ASINsight (asinsight.com/report/US/lip-sleeping-mask): B07XXPHQZK LANEIGE Lip Sleeping Mask, #1, 4.6\u2605 37.1K, ~70K/mo"
+  ],
+  "amazon": "https://www.amazon.com/dp/B07XXPHQZK?tag=desksetuppi07-20",
+  "post": "https://www.yaypicks.com/2026/11/laneige-lip-sleeping-mask-review-softer.html",
+  "short": null,
+  "short_date": null,
+  "pin": null,
+  "job": "jobs/2026-11-24-laneige-lip-sleeping-mask",
+  "sales_signal": "4.6\u2605, ~37K ratings, #1 lip sleeping mask (~70K/mo), #8 Lip Balms & Moisturizers",
+  "short_score": 9,
+  "in_weekly": false,
+  "sub": "Skincare",
+  "kw": "laneige lip sleeping mask"
+ },
+ {
+  "pick": 111,
+  "date": "2026-11-24",
+  "category": "Beauty",
+  "name": "COLOR WOW Dream Coat Supernatural Spray, 6.7 fl oz (200 ml)",
+  "asin": "B073CWSQ51",
+  "asin_sources": [
+   "desertcart.co 44789186: COLOR WOW Dream Coat Supernatural Spray 6.7 fl oz / 200 ml, ASIN B073CWSQ51, 4.3\u2605 109K, #2 Hair Sprays",
+   "ASINsight (asinsight.com/report/US/color-wow-dream-coat): B073CWSQ51 COLOR WOW Dream Coat, #1, 4.3\u2605 107.3K, ~20K/mo"
+  ],
+  "amazon": "https://www.amazon.com/dp/B073CWSQ51?tag=desksetuppi07-20",
+  "post": "https://www.yaypicks.com/2026/11/color-wow-dream-coat-review-frizz-proof.html",
+  "short": null,
+  "short_date": null,
+  "pin": null,
+  "job": "jobs/2026-11-24-color-wow-dream-coat",
+  "sales_signal": "4.3\u2605, ~109K ratings, #2 Hair Sprays (#178 Beauty), ~20K/mo",
+  "short_score": 9,
+  "in_weekly": false,
+  "sub": "Hair Care",
+  "kw": "color wow dream coat"
+ },
+ {
+  "pick": 112,
+  "date": "2026-11-24",
+  "category": "Tech",
+  "name": "JBL Clip 5 Portable Bluetooth Speaker (Black)",
+  "asin": "B0CTP56C5R",
+  "asin_sources": [
+   "ASINsight (asinsight.com/report/US/jbl-clip): B0CTP56C5R JBL Clip 5 Black, #2, 4.8\u2605 7.2K, ~3K/mo",
+   "desertcart.co.za 629017045: JBL Clip 5 Black, ASIN B0CTP56C5R, 4.8\u2605 6.5K, #8 Portable Bluetooth Speakers"
+  ],
+  "amazon": "https://www.amazon.com/dp/B0CTP56C5R?tag=desksetuppi07-20",
+  "post": "https://www.yaypicks.com/2026/11/jbl-clip-5-review-big-bass-speaker-you.html",
+  "short": null,
+  "short_date": null,
+  "pin": null,
+  "job": "jobs/2026-11-24-jbl-clip-5",
+  "sales_signal": "4.8\u2605, ~7.2K ratings, ~3K/mo, #8 Portable Bluetooth Speakers",
+  "short_score": 9,
+  "in_weekly": false,
+  "sub": "Headphones & Speakers",
+  "kw": "jbl clip 5"
  }
 ]
