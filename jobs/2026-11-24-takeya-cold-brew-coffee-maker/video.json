@@ -1,0 +1,23 @@
+{
+ "slug": "2026-11-24-takeya-cold-brew-coffee-maker",
+ "pick": 105,
+ "category": "Home & Kitchen",
+ "asin": "B00FFLY64U",
+ "name": "Takeya Cold Brew Coffee Maker, 1 Qt",
+ "credit": "Image: Takeya",
+ "pin": {
+  "image": "kv",
+  "crop": [
+   1024,
+   1024,
+   2048
+  ],
+  "headline": "Smooth Cold Brew, Zero Effort",
+  "sub": "1-qt pitcher \u00b7 Fine mesh \u00b7 Fridge-door fit",
+  "button": "See it on Amazon \u2192"
+ },
+ "images": {
+  "kv": "img/kv.jpg",
+  "hero": "img/hero.jpg"
+ }
+}

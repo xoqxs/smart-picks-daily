@@ -1,0 +1,23 @@
+{
+ "slug": "2026-11-24-tramontina-professional-nonstick",
+ "pick": 104,
+ "category": "Home & Kitchen",
+ "asin": "B009HBKQ16",
+ "name": "Tramontina Professional 10\" Nonstick Pan",
+ "credit": "Image: Tramontina",
+ "pin": {
+  "image": "kv",
+  "crop": [
+   1060,
+   980,
+   1500
+  ],
+  "headline": "The Nonstick Pan Food Editors Love",
+  "sub": "Slick eggs \u00b7 Oven-safe 400\u00b0F \u00b7 NSF certified",
+  "button": "See it on Amazon \u2192"
+ },
+ "images": {
+  "kv": "img/kv.jpg",
+  "hero": "img/hero.jpg"
+ }
+}

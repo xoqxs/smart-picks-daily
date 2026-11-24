@@ -1,0 +1,23 @@
+{
+ "slug": "2026-11-24-apple-magsafe-charger-2m",
+ "pick": 106,
+ "category": "Tech",
+ "asin": "B0FQFTXT7K",
+ "name": "Apple MagSafe Charger (2 m)",
+ "credit": "Image: Apple",
+ "pin": {
+  "image": "kv",
+  "crop": [
+   1000,
+   1080,
+   1000
+  ],
+  "headline": "Snap-On iPhone Charging, Now at 25W",
+  "sub": "Qi2 25W \u00b7 2 m braided cable \u00b7 AirPods too",
+  "button": "See it on Amazon \u2192"
+ },
+ "images": {
+  "kv": "img/kv.jpg",
+  "hero": "img/hero.jpg"
+ }
+}

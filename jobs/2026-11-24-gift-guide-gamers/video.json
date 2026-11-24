@@ -1,0 +1,19 @@
+{
+ "slug": "2026-11-24-gift-guide-gamers",
+ "name": "8 Gifts for Gamers (2026)",
+ "credit": "Images: Logitech, HyperX, FIFINE, Govee",
+ "images": {
+  "kv": "img/collage.jpg"
+ },
+ "pin": {
+  "image": "kv",
+  "crop": [
+   800,
+   800,
+   1600
+  ],
+  "headline": "8 Gamer Gifts They'll Actually Use",
+  "sub": "Mice · Headsets · Mic · Game Room Lights",
+  "button": "See the gift guide →"
+ }
+}
