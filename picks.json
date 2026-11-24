@@ -2278,5 +2278,71 @@
   "in_weekly": false,
   "sub": "Gadgets & Smart Home",
   "kw": "apple magsafe charger"
+ },
+ {
+  "pick": 107,
+  "date": "2026-11-24",
+  "category": "Beauty",
+  "name": "Shiseido Eyelash Curler",
+  "asin": "B000FNF5IO",
+  "asin_sources": [
+   "ASINsight (asinsight.com/report/US/shiseido-eyelash-curler): B000FNF5IO Shiseido Eyelash Curler, #2, 4.5\u2605 ~6.2K",
+   "desertcart.co.za 253226821: Shiseido Eyelash Curler, model 0729238500969, same ASIN"
+  ],
+  "amazon": "https://www.amazon.com/dp/B000FNF5IO?tag=desksetuppi07-20",
+  "post": "https://www.yaypicks.com/2026/11/shiseido-eyelash-curler-review-cult.html",
+  "short": null,
+  "short_date": null,
+  "pin": null,
+  "job": "jobs/2026-11-24-shiseido-eyelash-curler",
+  "sales_signal": "4.5\u2605, ~6.2K ratings, #2 best-selling eyelash curler (ASINsight), #3 Manual Eyelash Curlers",
+  "short_score": 8,
+  "in_weekly": false,
+  "sub": "Makeup",
+  "kw": "shiseido eyelash curler"
+ },
+ {
+  "pick": 108,
+  "date": "2026-11-24",
+  "category": "Home & Kitchen",
+  "name": "Souper Cubes 1-Cup Silicone Freezer Tray with Lid (Aqua, 2-Pack)",
+  "asin": "B07GSSR5V2",
+  "asin_sources": [
+   "ASINsight (asinsight.com/report/US/souper-cubes): B07GSSR5V2 Souper Cubes 1 Cup 2-Pack Aqua, #2, 4.8\u2605 22.9K",
+   "desertcart.sn 89274869: Souper Cubes 1 Cup 2-Pack (FT-4X1-AQ-LD-2), same ASIN; AOL shopping article amazon.com/dp/B07GSSR5V2"
+  ],
+  "amazon": "https://www.amazon.com/dp/B07GSSR5V2?tag=desksetuppi07-20",
+  "post": "https://www.yaypicks.com/2026/11/souper-cubes-1-cup-freezer-tray-review.html",
+  "short": null,
+  "short_date": null,
+  "pin": null,
+  "job": "jobs/2026-11-24-souper-cubes-1-cup",
+  "sales_signal": "4.8\u2605, ~22.9K ratings, #2 Souper Cubes listing (ASINsight)",
+  "short_score": 8,
+  "in_weekly": false,
+  "sub": "Cookware & Kitchen Tools",
+  "kw": "souper cubes 1-cup silicone freezer tray"
+ },
+ {
+  "pick": 109,
+  "date": "2026-11-24",
+  "category": "Tech",
+  "name": "Anker 351 Power Strip (12 Outlets, USB-C, 5 ft, Black)",
+  "asin": "B09SG2Q23M",
+  "asin_sources": [
+   "ASINsight (asinsight.com/report/US/power-strip): B09SG2Q23M Anker Power Strip Surge Protector 2100J 12 outlets 1 USB-C 2 USB-A, #6, 4.8\u2605 19.4K",
+   "desertcart.nz 595736812: Anker Power Strip Surge Protector (2100J), same ASIN"
+  ],
+  "amazon": "https://www.amazon.com/dp/B09SG2Q23M?tag=desksetuppi07-20",
+  "post": "https://www.yaypicks.com/2026/11/anker-351-power-strip-12-outlets-usb-c.html",
+  "short": null,
+  "short_date": null,
+  "pin": null,
+  "job": "jobs/2026-11-24-anker-power-strip",
+  "sales_signal": "4.8\u2605, ~19.4K ratings, #6 best-selling power strip (ASINsight)",
+  "short_score": 7,
+  "in_weekly": false,
+  "sub": "Gadgets & Smart Home",
+  "kw": "anker 351 power strip"
  }
 ]
