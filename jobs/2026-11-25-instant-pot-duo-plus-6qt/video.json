@@ -26,5 +26,133 @@
  "images": {
   "kv": "img/kv.jpg",
   "hero": "img/kv.jpg"
- }
+ },
+ "scenes": [
+  {
+   "type": "card",
+   "image": "kv",
+   "from": [
+    991,
+    1000,
+    1982
+   ],
+   "to": [
+    991,
+    1000,
+    1750
+   ],
+   "line": "Pot roast on a Tuesday night? Under pressure, it stops being a weekend-only dinner.",
+   "hl": [
+    "Pot",
+    "roast",
+    "Tuesday",
+    "pressure,"
+   ]
+  },
+  {
+   "type": "card",
+   "image": "kv",
+   "from": [
+    1060,
+    1130,
+    1300
+   ],
+   "to": [
+    1060,
+    1150,
+    1150
+   ],
+   "line": "Meet the Instant Pot Duo Plus. Nine cooking jobs in one six-quart pot, and up to seventy percent faster than slow cooking.",
+   "hl": [
+    "Instant",
+    "Pot",
+    "Duo",
+    "Plus.",
+    "Nine",
+    "six-quart",
+    "seventy",
+    "percent"
+   ],
+   "badge": {
+    "big": "9-in-1",
+    "small": "6 quarts"
+   }
+  },
+  {
+   "type": "card",
+   "image": "kv",
+   "from": [
+    700,
+    900,
+    1300
+   ],
+   "to": [
+    1250,
+    900,
+    1300
+   ],
+   "line": "Made for busy families of up to six. Pressure cook, slow cook, rice, steam and even homemade yogurt.",
+   "hl": [
+    "families",
+    "six.",
+    "rice,",
+    "steam",
+    "yogurt."
+   ],
+   "chips": [
+    "Families",
+    "Meal prep",
+    "Chili"
+   ]
+  },
+  {
+   "type": "tip",
+   "title": "PRO TIP",
+   "boxes": [
+    [
+     "Add",
+     "liquid"
+    ],
+    [
+     "Easy",
+     "release"
+    ],
+    [
+     "Delay",
+     "start"
+    ]
+   ],
+   "note": "Pressure needs liquid. Keep hands clear when venting.",
+   "line": "Pro tip: always add some liquid, flick the easy-release switch to vent, and use delay start so dinner is ready when you walk in.",
+   "hl": [
+    "liquid,",
+    "easy-release",
+    "delay",
+    "start"
+   ]
+  },
+  {
+   "type": "cta",
+   "image": "kv",
+   "from": [
+    991,
+    1000,
+    1982
+   ],
+   "to": [
+    991,
+    1000,
+    1982
+   ],
+   "line": "It's pick number one hundred twenty-eight. Find the link on our channel, under Video Picks.",
+   "hl": [
+    "one",
+    "hundred",
+    "twenty-eight.",
+    "channel,",
+    "Video",
+    "Picks."
+   ]
+  }
+ ]
 }
