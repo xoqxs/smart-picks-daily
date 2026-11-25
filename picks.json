@@ -2609,5 +2609,89 @@
   "in_weekly": false,
   "sub": "Gadgets & Smart Home",
   "kw": "anker laptop power bank"
+ },
+ {
+  "pick": 122,
+  "date": "2026-11-25",
+  "category": "Beauty",
+  "name": "Kérastase Nutritive 8H Magic Night Serum for Dry Hair (90 ml)",
+  "asin": "B0BZZJWGPQ",
+  "asin_sources": [
+   "asinsight.com/report/US/kerastase: B0BZZJWGPQ \"Kerastase Nutritive 8H Magic Night Serum - Overnight Treatment for Dry Hair\" 4.6★ ~9.5K",
+   "desertcart.us 728710558 + desertcart.tw 598995712 (ASIN B0BZZJWGPQ, 90 mL) + Slickdeals 19676844 (dp/B0BZZJWGPQ)"
+  ],
+  "amazon": "https://www.amazon.com/dp/B0BZZJWGPQ?tag=desksetuppi07-20",
+  "post": "https://www.yaypicks.com/2026/11/kerastase-8h-magic-night-serum-review.html",
+  "job": "jobs/2026-11-25-kerastase-8h-night-serum",
+  "short": null,
+  "short_date": null,
+  "sales_signal": "4.6★, ~9.5K ratings, asinsight \"kerastase\" top 5 (premium hair care)",
+  "short_score": 8,
+  "in_weekly": false,
+  "sub": "Hair Care",
+  "kw": "kerastase 8h magic night serum"
+ },
+ {
+  "pick": 123,
+  "date": "2026-11-25",
+  "category": "Beauty",
+  "name": "Anastasia Beverly Hills Brow Wiz Ultra-Slim Retractable Eyebrow Pencil (Medium Brown)",
+  "asin": "B01M5CZAXM",
+  "asin_sources": [
+   "asinsight.com/report/US/brow-gel: B01M5CZAXM \"Anastasia Beverly Hills Brow Wiz - Ultra-Slim Retractable Eyebrow Pencil\" 4.6★ ~27K",
+   "desertcart.sg 84621603 + desertcart.nl 41566562 (ASIN B01M5CZAXM, Brow Wiz Medium Brown 0.085 g)"
+  ],
+  "amazon": "https://www.amazon.com/dp/B01M5CZAXM?tag=desksetuppi07-20",
+  "post": "https://www.yaypicks.com/2026/11/anastasia-brow-wiz-review-fine-tip.html",
+  "job": "jobs/2026-11-25-abh-brow-wiz",
+  "short": null,
+  "short_date": null,
+  "sales_signal": "4.6★, ~27K ratings, asinsight \"brow-gel\" top 5 (premium makeup)",
+  "short_score": 8,
+  "in_weekly": false,
+  "sub": "Makeup",
+  "kw": "anastasia brow wiz"
+ },
+ {
+  "pick": 124,
+  "date": "2026-11-25",
+  "category": "Home & Kitchen",
+  "name": "Zojirushi NS-TSC10 Micom Rice Cooker & Warmer, 5.5-Cup (Stainless Brown)",
+  "asin": "B0074CDG6C",
+  "asin_sources": [
+   "asinsight.com/report/US/rice-cooker: B0074CDG6C \"Zojirushi NS-TSC10 5-1/2-Cup (Uncooked) Micom Rice Cooker and Warmer\" 4.7★ ~13.8K",
+   "NBC Select best rice cookers (amazon.com/dp/B0074CDG6C) + desertcart.lk 959775 (model NS-TSC10) + Slickdeals 17298973"
+  ],
+  "amazon": "https://www.amazon.com/dp/B0074CDG6C?tag=desksetuppi07-20",
+  "post": "https://www.yaypicks.com/2026/11/zojirushi-ns-tsc10-review-fluffy-rice.html",
+  "job": "jobs/2026-11-25-zojirushi-ns-tsc10",
+  "short": null,
+  "short_date": null,
+  "sales_signal": "4.7★, ~13.8K ratings, asinsight \"rice-cooker\" top 6",
+  "short_score": 8,
+  "in_weekly": false,
+  "sub": "Kitchen Appliances",
+  "kw": "zojirushi ns-tsc10"
+ },
+ {
+  "pick": 125,
+  "date": "2026-11-25",
+  "category": "Tech",
+  "name": "Anker PowerDrive III Duo 40W 2-Port USB-C Car Charger (A2724)",
+  "asin": "B0843SCLYH",
+  "asin_sources": [
+   "asinsight.com/report/US/car-charger: B0843SCLYH \"Anker 40W 2-Port PowerIQ 3.0 USB C Fast Charging Car Charger | PowerDrive...\" 4.8★ ~9.7K",
+   "desertcart.co.za 411741072 (ASIN B0843SCLYH, PowerDrive III Duo, model A2724) + Pack Hacker + ThirstyBear (dp/B0843SCLYH)"
+  ],
+  "amazon": "https://www.amazon.com/dp/B0843SCLYH?tag=desksetuppi07-20",
+  "post": "https://www.yaypicks.com/2026/11/anker-40w-car-charger-review-powerdrive.html",
+  "job": "jobs/2026-11-25-anker-car-charger-40w",
+  "short": null,
+  "short_date": null,
+  "sales_signal": "4.8★, ~9.7K ratings, asinsight \"car-charger\" #2",
+  "short_score": 7,
+  "in_weekly": false,
+  "sub": "Gadgets & Smart Home",
+  "kw": "anker 40w car charger"
  }
 ]
