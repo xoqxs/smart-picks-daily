@@ -1,0 +1,30 @@
+{
+ "slug": "2026-11-25-lodge-enamel-dutch-oven",
+ "pick": 127,
+ "category": "Home & Kitchen",
+ "asin": "B00U1OCPWQ",
+ "name": "Lodge 6 Qt Enameled Dutch Oven",
+ "credit": "Image: Lodge",
+ "pin": {
+  "image": "kv",
+  "crop": [
+   1000,
+   720,
+   1440
+  ],
+  "headline": "Bread, Braises & Soups, One Pot",
+  "sub": "500°F oven-safe · Induction · No seasoning",
+  "badge": {
+   "text": "6 Qt",
+   "xy": [
+    90,
+    380
+   ]
+  },
+  "button": "See it on Amazon →"
+ },
+ "images": {
+  "kv": "img/kv.jpg",
+  "hero": "img/kv.jpg"
+ }
+}

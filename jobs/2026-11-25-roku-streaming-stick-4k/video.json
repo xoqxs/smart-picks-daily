@@ -1,0 +1,30 @@
+{
+ "slug": "2026-11-25-roku-streaming-stick-4k",
+ "pick": 129,
+ "category": "Tech",
+ "asin": "B09BKCDXZC",
+ "name": "Roku Streaming Stick 4K",
+ "credit": "Image: Roku",
+ "pin": {
+  "image": "kv",
+  "crop": [
+   680,
+   880,
+   1160
+  ],
+  "headline": "Any TV, Now a 4K Streamer",
+  "sub": "Dolby Vision · Long-Range Wi-Fi · Voice Remote",
+  "badge": {
+   "text": "4K HDR",
+   "xy": [
+    560,
+    1100
+   ]
+  },
+  "button": "See it on Amazon →"
+ },
+ "images": {
+  "kv": "img/kv.jpg",
+  "hero": "img/kv.jpg"
+ }
+}
