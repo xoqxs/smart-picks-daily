@@ -1,0 +1,30 @@
+{
+ "slug": "2026-11-25-charlotte-tilbury-setting-spray",
+ "pick": 120,
+ "category": "Beauty",
+ "asin": "B08FF2ZH33",
+ "name": "Charlotte Tilbury Airbrush Flawless Setting Spray",
+ "credit": "Image: Charlotte Tilbury",
+ "pin": {
+  "image": "kv",
+  "crop": [
+   1000,
+   1000,
+   1900
+  ],
+  "headline": "Makeup That Stays Put All Day",
+  "sub": "Fine mist \u00b7 Up to 16-hr hold \u00b7 Primes + sets",
+  "badge": {
+   "text": "16HR",
+   "xy": [
+    660,
+    560
+   ]
+  },
+  "button": "See it on Amazon \u2192"
+ },
+ "images": {
+  "kv": "img/kv.jpg",
+  "hero": "img/hero.jpg"
+ }
+}

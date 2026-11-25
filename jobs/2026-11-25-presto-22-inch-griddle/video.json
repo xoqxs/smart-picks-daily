@@ -1,0 +1,31 @@
+{
+ "slug": "2026-11-25-presto-22-inch-griddle",
+ "pick": 119,
+ "category": "Home & Kitchen",
+ "asin": "B005FYF3OY",
+ "name": "Presto 07061 22-Inch Electric Griddle",
+ "credit": "Image: Presto",
+ "pin": {
+  "image": "pin",
+  "crop": [
+   750,
+   750,
+   1500
+  ],
+  "headline": "Breakfast for the Whole Crowd",
+  "sub": "22\" surface \u00b7 Removable handles \u00b7 Stores flat",
+  "badge": {
+   "text": "1500W",
+   "xy": [
+    640,
+    1060
+   ]
+  },
+  "button": "See it on Amazon \u2192"
+ },
+ "images": {
+  "kv": "img/kv.jpg",
+  "pin": "img/kv_pin.jpg",
+  "orig": "img/orig.jpg"
+ }
+}

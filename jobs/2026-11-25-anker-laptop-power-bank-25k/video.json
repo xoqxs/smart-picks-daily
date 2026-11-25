@@ -1,0 +1,30 @@
+{
+ "slug": "2026-11-25-anker-laptop-power-bank-25k",
+ "pick": 121,
+ "category": "Tech",
+ "asin": "B0DCBB2YTR",
+ "name": "Anker Laptop Power Bank 25K (165W)",
+ "credit": "Image: Anker",
+ "pin": {
+  "image": "kv",
+  "crop": [
+   1000,
+   1000,
+   2000
+  ],
+  "headline": "Laptop Power With Built-In Cables",
+  "sub": "25,000mAh \u00b7 3x 100W USB-C \u00b7 Flight-ready",
+  "badge": {
+   "text": "165W",
+   "xy": [
+    90,
+    380
+   ]
+  },
+  "button": "See it on Amazon \u2192"
+ },
+ "images": {
+  "kv": "img/kv.jpg",
+  "hero": "img/hero.jpg"
+ }
+}

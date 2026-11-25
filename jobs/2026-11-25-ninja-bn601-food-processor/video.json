@@ -1,0 +1,30 @@
+{
+ "slug": "2026-11-25-ninja-bn601-food-processor",
+ "pick": 118,
+ "category": "Home & Kitchen",
+ "asin": "B089TP3K77",
+ "name": "Ninja Professional Plus Food Processor BN601",
+ "credit": "Image: Ninja",
+ "pin": {
+  "image": "kv",
+  "crop": [
+   1000,
+   1000,
+   2000
+  ],
+  "headline": "Holiday Prep Done in Minutes",
+  "sub": "Chop \u00b7 Shred \u00b7 Slice \u00b7 Dough",
+  "badge": {
+   "text": "1000W",
+   "xy": [
+    640,
+    360
+   ]
+  },
+  "button": "See it on Amazon \u2192"
+ },
+ "images": {
+  "kv": "img/kv.jpg",
+  "hero": "img/hero.jpg"
+ }
+}
