@@ -13,10 +13,137 @@
    2000
   ],
   "headline": "Smoothies in Seconds, Cup to Go",
-  "sub": "700W \u00b7 Two 16-oz Cups \u00b7 Crushes Ice",
-  "button": "See it on Amazon \u2192"
+  "sub": "700W · Two 16-oz Cups · Crushes Ice",
+  "button": "See it on Amazon →"
  },
  "images": {
   "kv": "img/kv.jpg"
- }
+ },
+ "scenes": [
+  {
+   "type": "card",
+   "image": "kv",
+   "from": [
+    1000,
+    1000,
+    2000
+   ],
+   "to": [
+    1000,
+    1000,
+    1750
+   ],
+   "line": "Blend your smoothie right in the cup you drink from, then walk out the door with it.",
+   "hl": [
+    "smoothie",
+    "cup",
+    "drink",
+    "door"
+   ]
+  },
+  {
+   "type": "card",
+   "image": "kv",
+   "from": [
+    950,
+    1200,
+    1300
+   ],
+   "to": [
+    950,
+    1220,
+    1150
+   ],
+   "line": "Meet the Ninja Fit. A seven-hundred-watt base that crushes ice and frozen fruit, with two sixteen-ounce cups.",
+   "hl": [
+    "Ninja",
+    "Fit.",
+    "seven-hundred-watt",
+    "ice",
+    "frozen",
+    "fruit,"
+   ],
+   "badge": {
+    "big": "700W",
+    "small": "power pod"
+   }
+  },
+  {
+   "type": "card",
+   "image": "kv",
+   "from": [
+    1450,
+    1250,
+    1100
+   ],
+   "to": [
+    1400,
+    1200,
+    1200
+   ],
+   "line": "It's made for protein shakes, frozen drinks and tiny kitchens. Swap the blades for a Sip and Seal lid and go.",
+   "hl": [
+    "protein",
+    "shakes,",
+    "frozen",
+    "drinks",
+    "Sip",
+    "Seal"
+   ],
+   "chips": [
+    "Smoothies",
+    "Shakes",
+    "Dorms"
+   ]
+  },
+  {
+   "type": "tip",
+   "title": "PRO TIP",
+   "boxes": [
+    [
+     "Liquid",
+     "first"
+    ],
+    [
+     "Short",
+     "bursts"
+    ],
+    [
+     "Small",
+     "chunks"
+    ]
+   ],
+   "note": "You can't add ingredients mid-blend. Cold drinks only.",
+   "line": "Pro tip: load the liquid first, blend in short bursts, and cut big frozen pieces small so nothing gets stuck.",
+   "hl": [
+    "liquid",
+    "short",
+    "bursts,",
+    "small"
+   ]
+  },
+  {
+   "type": "cta",
+   "image": "kv",
+   "from": [
+    1000,
+    1000,
+    2000
+   ],
+   "to": [
+    1000,
+    1000,
+    2000
+   ],
+   "line": "It's pick number one hundred fifteen. Find the link on our channel, under Video Picks.",
+   "hl": [
+    "one",
+    "hundred",
+    "fifteen.",
+    "channel,",
+    "Video",
+    "Picks."
+   ]
+  }
+ ]
 }
