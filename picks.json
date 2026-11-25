@@ -2456,5 +2456,74 @@
   "sub": "Makeup",
   "kw": "tarte shape tape concealer",
   "batch": "sprint50"
+ },
+ {
+  "pick": 115,
+  "date": "2026-11-25",
+  "category": "Home & Kitchen",
+  "name": "Ninja Fit Compact Personal Blender QB3001SS (700W, two 16-oz cups)",
+  "asin": "B01FHOWYA2",
+  "asin_sources": [
+   "asinsight.com/report/US/blender: B01FHOWYA2 \"Ninja Fit Compact Personal Blender\" #2, 4.7★ ~42K",
+   "desertcart.sn 80173807: ASIN B01FHOWYA2, item model QB3001SS, Ninja Fit 700W"
+  ],
+  "amazon": "https://www.amazon.com/dp/B01FHOWYA2?tag=desksetuppi07-20",
+  "post": "https://www.yaypicks.com/2026/11/ninja-fit-blender-review-small-mighty.html",
+  "short": null,
+  "short_date": null,
+  "pin": null,
+  "job": "jobs/2026-11-25-ninja-fit-qb3001ss",
+  "sales_signal": "4.7★, ~42K ratings, #2 on asinsight \"blender\"",
+  "short_score": 9,
+  "in_weekly": false,
+  "sub": "Kitchen Appliances",
+  "kw": "ninja fit blender",
+  "batch": "sprint50"
+ },
+ {
+  "pick": 116,
+  "date": "2026-11-25",
+  "category": "Beauty",
+  "name": "tarte tartelette tubing mascara, Black (full size)",
+  "asin": "B0BB6B581W",
+  "asin_sources": [
+   "asinsight.com/report/US/tubing-mascara: B0BB6B581W \"tarte tartelette tubing mascara\" #2, 4.4★ ~5.1K",
+   "desertcart.co.za 468397278: TARTE Tartelette Tubing Mascara 8ml, ASIN B0BB6B581W"
+  ],
+  "amazon": "https://www.amazon.com/dp/B0BB6B581W?tag=desksetuppi07-20",
+  "post": "https://www.yaypicks.com/2026/11/tarte-tartelette-tubing-mascara-review.html",
+  "short": null,
+  "short_date": null,
+  "pin": null,
+  "job": "jobs/2026-11-25-tarte-tartelette-tubing",
+  "sales_signal": "4.4★, ~5.1K ratings, #2 on asinsight \"tubing mascara\"",
+  "short_score": 8,
+  "in_weekly": false,
+  "sub": "Makeup",
+  "kw": "tarte tartelette tubing mascara",
+  "batch": "sprint50"
+ },
+ {
+  "pick": 117,
+  "date": "2026-11-25",
+  "category": "Tech",
+  "name": "UGREEN Nexode 100W 4-Port GaN USB-C Charger (3C1A, model 40737)",
+  "asin": "B091Z6JNX4",
+  "asin_sources": [
+   "asinsight.com/report/US/ugreen-100w: B091Z6JNX4 \"UGREEN Nexode 100W GaN USB C Charger, 4-Port\" 4.6★ ~11K",
+   "MacRumors review (US Amazon link B091Z6JNX4) + desertcart.co.th 350683366 (ASIN B091Z6JNX4, model CD226, 3 USB-C + 1 USB-A)"
+  ],
+  "amazon": "https://www.amazon.com/dp/B091Z6JNX4?tag=desksetuppi07-20",
+  "post": "https://www.yaypicks.com/2026/11/100w-usb-c-charger-ugreen-nexode-4-port.html",
+  "short": null,
+  "short_date": null,
+  "pin": null,
+  "job": "jobs/2026-11-25-ugreen-nexode-100w",
+  "sales_signal": "4.6★, ~11K ratings, asinsight \"ugreen-100w\" top 5",
+  "short_score": 7,
+  "in_weekly": false,
+  "sub": "Gadgets & Smart Home",
+  "kw": "100w usb c charger",
+  "batch": "sprint50"
  }
 ]
