@@ -2525,5 +2525,89 @@
   "sub": "Gadgets & Smart Home",
   "kw": "100w usb c charger",
   "batch": "sprint50"
+ },
+ {
+  "pick": 118,
+  "date": "2026-11-25",
+  "category": "Home & Kitchen",
+  "name": "Ninja Professional Plus Food Processor BN601 (1000 Peak Watts, 9-Cup Bowl, Cloud Silver)",
+  "asin": "B089TP3K77",
+  "asin_sources": [
+   "asinsight.com/report/US/food-processor (#5, B089TP3K77 Ninja Food Processor Professional Plus BN601)",
+   "desertcart.pl/products/211026565 (B089TP3K77 Ninja BN601 Professional Plus, UPC 622356562508)"
+  ],
+  "amazon": "https://www.amazon.com/dp/B089TP3K77?tag=desksetuppi07-20",
+  "post": "https://www.yaypicks.com/2026/11/ninja-food-processor-bn601-holiday-prep.html",
+  "job": "jobs/2026-11-25-ninja-bn601-food-processor",
+  "short": null,
+  "short_date": null,
+  "sales_signal": "4.7★, ~12.4K ratings, #5 best-selling food processors (asinsight)",
+  "short_score": 8,
+  "in_weekly": false,
+  "sub": "Kitchen Appliances",
+  "kw": "ninja food processor"
+ },
+ {
+  "pick": 119,
+  "date": "2026-11-25",
+  "category": "Home & Kitchen",
+  "name": "Presto 07061 22-Inch Electric Griddle with Removable Handles (Ceramic Nonstick, Black)",
+  "asin": "B005FYF3OY",
+  "asin_sources": [
+   "asinsight.com/report/US/electric-griddle (#4, B005FYF3OY Presto 07061 22-Inch Electric Griddle)",
+   "tastingtable.com/1783383/best-electric-griddles-reviews (Presto 22-inch griddle buy link -> amazon.com/dp/B005FYF3OY)"
+  ],
+  "amazon": "https://www.amazon.com/dp/B005FYF3OY?tag=desksetuppi07-20",
+  "post": "https://www.yaypicks.com/2026/11/presto-electric-griddle-pancakes-for.html",
+  "job": "jobs/2026-11-25-presto-22-inch-griddle",
+  "short": null,
+  "short_date": null,
+  "sales_signal": "4.7★, ~31.8K ratings, #4 best-selling electric griddles (asinsight)",
+  "short_score": 8,
+  "in_weekly": false,
+  "sub": "Kitchen Appliances",
+  "kw": "presto electric griddle"
+ },
+ {
+  "pick": 120,
+  "date": "2026-11-25",
+  "category": "Beauty",
+  "name": "Charlotte Tilbury Airbrush Flawless Setting Spray, Travel Size (34 ml / 1.1 fl oz)",
+  "asin": "B08FF2ZH33",
+  "asin_sources": [
+   "asinsight.com/report/US/setting-spray (#8, B08FF2ZH33 Charlotte Tilbury Airbrush Flawless Setting Spray)",
+   "camelcamelcamel.com/product/B08FF2ZH33 (search title: Charlotte Tilbury Airbrush Flawless Setting Spray - Hydrating - 1.1 Fl Oz)"
+  ],
+  "amazon": "https://www.amazon.com/dp/B08FF2ZH33?tag=desksetuppi07-20",
+  "post": "https://www.yaypicks.com/2026/11/charlotte-tilbury-setting-spray-16-hour.html",
+  "job": "jobs/2026-11-25-charlotte-tilbury-setting-spray",
+  "short": null,
+  "short_date": null,
+  "sales_signal": "4.6★, ~5.1K ratings, #8 best-selling setting sprays (asinsight); premium beauty, travel size",
+  "short_score": 8,
+  "in_weekly": false,
+  "sub": "Makeup",
+  "kw": "charlotte tilbury setting spray"
+ },
+ {
+  "pick": 121,
+  "date": "2026-11-25",
+  "category": "Tech",
+  "name": "Anker Laptop Power Bank (25K, 165W, Built-In and Retractable Cables), A1695",
+  "asin": "B0DCBB2YTR",
+  "asin_sources": [
+   "asinsight.com/report/US/portable-charger (#6, B0DCBB2YTR Anker Laptop Power Bank 25,000mAh Triple 100W USB-C)",
+   "slickdeals.net/f/18478120 (amazon.com/dp/B0DCBB2YTR Anker Laptop Power Bank 25,000mAh, A1695) + Engadget best laptop power banks link"
+  ],
+  "amazon": "https://www.amazon.com/dp/B0DCBB2YTR?tag=desksetuppi07-20",
+  "post": "https://www.yaypicks.com/2026/11/anker-laptop-power-bank-review-165w.html",
+  "job": "jobs/2026-11-25-anker-laptop-power-bank-25k",
+  "short": null,
+  "short_date": null,
+  "sales_signal": "4.6★, ~6.4K ratings, #6 best-selling portable chargers (asinsight)",
+  "short_score": 8,
+  "in_weekly": false,
+  "sub": "Gadgets & Smart Home",
+  "kw": "anker laptop power bank"
  }
 ]
