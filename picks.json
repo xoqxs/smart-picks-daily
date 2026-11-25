@@ -2740,5 +2740,49 @@
   "in_weekly": false,
   "sub": "Cookware & Kitchen Tools",
   "kw": "Lodge 6 quart enameled Dutch oven"
+ },
+ {
+  "pick": 128,
+  "date": "2026-11-25",
+  "category": "Home & Kitchen",
+  "name": "Instant Pot Duo Plus 9-in-1 Multicooker, Stainless Steel, 6 Quarts",
+  "asin": "B01NBKTPTS",
+  "asin_sources": [
+   "asinsight.com/report/US/pressure-cookers #1: B01NBKTPTS 'Instant Pot Duo Plus 9-in-1 Multicooker, Pressure Cooker, Sl...' 4.7, 52.4K",
+   "desertcart.nz/products/41100974 + desertcart.co.za/products/41100974: ASIN B01NBKTPTS, 'Duo Plus 9-in-1 Multicooker ... Stainless Steel, 6 Quarts' (#1/#5 in Electric Pressure Cookers)"
+  ],
+  "amazon": "https://www.amazon.com/dp/B01NBKTPTS?tag=desksetuppi07-20",
+  "post": "https://www.yaypicks.com/2026/11/instant-pot-duo-plus-6-quart-review-9.html",
+  "job": "jobs/2026-11-25-instant-pot-duo-plus-6qt",
+  "short": null,
+  "short_date": null,
+  "sales_signal": "4.7★, ~52K ratings, asinsight \"pressure-cookers\" #1; desertcart BSR #1 Electric Pressure Cookers",
+  "short_score": 9,
+  "in_weekly": false,
+  "sub": "Kitchen Appliances",
+  "kw": "Instant Pot Duo Plus 6 quart",
+  "batch": "sprint50"
+ },
+ {
+  "pick": 129,
+  "date": "2026-11-25",
+  "category": "Tech",
+  "name": "Nelko P21 Bluetooth Label Maker with Tape (Portable Label Printer)",
+  "asin": "B0C3L93F2Q",
+  "asin_sources": [
+   "asinsight.com/report/US/label-maker #1: B0C3L93F2Q 'Nelko Label Maker Machine with Tape, P21 Bluetooth Labe...' 4.5, 23.3K",
+   "desertcart.co.za/products/542013999: ASIN B0C3L93F2Q, Nelko P21 Bluetooth Label Maker (#1 Desktop Label Printers); Slickdeals comment dp link"
+  ],
+  "amazon": "https://www.amazon.com/dp/B0C3L93F2Q?tag=desksetuppi07-20",
+  "post": "https://www.yaypicks.com/2026/11/nelko-p21-label-maker-review-bluetooth.html",
+  "job": "jobs/2026-11-25-nelko-p21-label-maker",
+  "short": null,
+  "short_date": null,
+  "sales_signal": "4.5★, ~20-23K ratings, asinsight \"label-maker\" #1; desertcart BSR #84 Office Products, #1 Desktop Label Printers",
+  "short_score": 8,
+  "in_weekly": false,
+  "sub": "Gadgets & Smart Home",
+  "kw": "Nelko P21 label maker",
+  "batch": "sprint50"
  }
 ]
