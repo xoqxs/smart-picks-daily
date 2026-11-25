@@ -1,0 +1,30 @@
+{
+ "slug": "2026-11-25-anker-car-charger-40w",
+ "pick": 125,
+ "category": "Tech",
+ "asin": "B0843SCLYH",
+ "name": "Anker PowerDrive III Duo (40W)",
+ "credit": "Image: Anker",
+ "pin": {
+  "image": "kv",
+  "crop": [
+   800,
+   1000,
+   1600
+  ],
+  "headline": "Two Phones, One Car Charger",
+  "sub": "2x 20W USB-C · PowerIQ 3.0 · Night LED",
+  "badge": {
+   "text": "40W",
+   "xy": [
+    90,
+    380
+   ]
+  },
+  "button": "See it on Amazon →"
+ },
+ "images": {
+  "kv": "img/kv.jpg",
+  "hero": "img/kv.jpg"
+ }
+}

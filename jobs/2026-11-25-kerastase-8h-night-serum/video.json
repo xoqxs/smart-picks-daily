@@ -1,0 +1,30 @@
+{
+ "slug": "2026-11-25-kerastase-8h-night-serum",
+ "pick": 122,
+ "category": "Beauty",
+ "asin": "B0BZZJWGPQ",
+ "name": "Kérastase 8H Magic Night Serum",
+ "credit": "Image: Kérastase",
+ "pin": {
+  "image": "kv",
+  "crop": [
+   960,
+   950,
+   1800
+  ],
+  "headline": "Wake Up to Silky Hair",
+  "sub": "Less frizz · More shine · No rinse",
+  "badge": {
+   "text": "90 ml",
+   "xy": [
+    90,
+    380
+   ]
+  },
+  "button": "See it on Amazon →"
+ },
+ "images": {
+  "kv": "img/kv.jpg",
+  "hero": "img/kv.jpg"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "slug": "2026-11-25-zojirushi-ns-tsc10",
+ "pick": 124,
+ "category": "Home & Kitchen",
+ "asin": "B0074CDG6C",
+ "name": "Zojirushi NS-TSC10 Micom Rice Cooker",
+ "credit": "Image: Zojirushi",
+ "pin": {
+  "image": "kv",
+  "crop": [
+   1000,
+   1000,
+   2000
+  ],
+  "headline": "Perfect Rice on Autopilot",
+  "sub": "Fuzzy logic · Steam basket · Keep warm",
+  "badge": {
+   "text": "5.5 cup",
+   "xy": [
+    620,
+    1080
+   ]
+  },
+  "button": "See it on Amazon →"
+ },
+ "images": {
+  "kv": "img/kv.jpg",
+  "hero": "img/kv.jpg"
+ }
+}

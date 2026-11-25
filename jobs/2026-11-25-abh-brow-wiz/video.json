@@ -1,0 +1,30 @@
+{
+ "slug": "2026-11-25-abh-brow-wiz",
+ "pick": 123,
+ "category": "Beauty",
+ "asin": "B01M5CZAXM",
+ "name": "Anastasia Brow Wiz (Medium Brown)",
+ "credit": "Image: Anastasia Beverly Hills",
+ "pin": {
+  "image": "kv",
+  "crop": [
+   1000,
+   980,
+   1700
+  ],
+  "headline": "The Brow Pencil Editors Love",
+  "sub": "1mm tip · Built-in spoolie · Vegan",
+  "badge": {
+   "text": "1mm",
+   "xy": [
+    90,
+    380
+   ]
+  },
+  "button": "See it on Amazon →"
+ },
+ "images": {
+  "kv": "img/kv.jpg",
+  "hero": "img/kv.jpg"
+ }
+}
