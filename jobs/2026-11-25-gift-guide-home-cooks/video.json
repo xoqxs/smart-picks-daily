@@ -1,0 +1,19 @@
+{
+ "slug": "2026-11-25-gift-guide-home-cooks",
+ "name": "10 Gifts for Home Cooks (2026)",
+ "credit": "Images: Ninja, Presto, Victorinox, Lodge, Microplane, Pyrex, Tramontina, OXO, Souper Cubes",
+ "images": {
+  "kv": "img/collage.jpg"
+ },
+ "pin": {
+  "image": "kv",
+  "crop": [
+   900,
+   900,
+   1800
+  ],
+  "headline": "Gifts for Home Cooks They'll Use",
+  "sub": "10 kitchen upgrades from knives to griddles",
+  "button": "See the gift guide \u2192"
+ }
+}
