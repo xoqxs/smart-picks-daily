@@ -1,0 +1,30 @@
+{
+ "slug": "2026-11-25-nelko-p21-label-maker",
+ "pick": 129,
+ "category": "Tech",
+ "asin": "B0C3L93F2Q",
+ "name": "Nelko P21 Bluetooth Label Maker",
+ "credit": "Image: NELKO",
+ "pin": {
+  "image": "kv",
+  "crop": [
+   960,
+   770,
+   1250
+  ],
+  "headline": "Label Everything From Your Phone",
+  "sub": "Bluetooth \u00b7 No ink \u00b7 QR codes \u00b7 Pocket size",
+  "badge": {
+   "text": "No ink",
+   "xy": [
+    640,
+    1090
+   ]
+  },
+  "button": "See it on Amazon \u2192"
+ },
+ "images": {
+  "kv": "img/kv.jpg",
+  "hero": "img/kv.jpg"
+ }
+}

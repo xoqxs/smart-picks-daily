@@ -1,0 +1,30 @@
+{
+ "slug": "2026-11-25-instant-pot-duo-plus-6qt",
+ "pick": 128,
+ "category": "Home & Kitchen",
+ "asin": "B01NBKTPTS",
+ "name": "Instant Pot Duo Plus 6-Quart",
+ "credit": "Image: Instant Pot (current Duo Plus 6 Qt shown)",
+ "pin": {
+  "image": "kv",
+  "crop": [
+   991,
+   1000,
+   1982
+  ],
+  "headline": "Weeknight Dinners, Done in One Pot",
+  "sub": "Pressure \u00b7 Slow cook \u00b7 Rice \u00b7 Yogurt \u00b7 Steam",
+  "badge": {
+   "text": "6 qt",
+   "xy": [
+    700,
+    1090
+   ]
+  },
+  "button": "See it on Amazon \u2192"
+ },
+ "images": {
+  "kv": "img/kv.jpg",
+  "hero": "img/kv.jpg"
+ }
+}
