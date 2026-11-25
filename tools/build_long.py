@@ -38,7 +38,9 @@ def tts(text, path):
 def build(out_slug, title, jobs, stills=False):
     work = os.path.join(ROOT, "jobs", out_slug); os.makedirs(work, exist_ok=True)
     segs = []
-    intro = f"{title}. Here are this week's {len(jobs)} smart picks, with the specs that matter and the catch for each one."
+    gift = "gift" in out_slug
+    intro = (f"{title}. Here are {len(jobs)} gift ideas, with the specs that matter and who each one suits." if gift else
+             f"{title}. Here are this week's {len(jobs)} smart picks, with the specs that matter and the catch for each one.")
     segs.append(Seg("intro", intro, os.path.join(work, "intro.wav"), 0, title=title, n=len(jobs)))
     chapters = []
     for j, job in enumerate(jobs):
@@ -51,7 +53,8 @@ def build(out_slug, title, jobs, stills=False):
             segs.append(Seg(scs[i].get("type", "card"), scs[i]["line"], os.path.join(job, "vo", f"l{i+1}.wav"),
                             dur[i], job, scs[i], imgs, cfg, j + 1, len(jobs), cfg.get("name", "")))
             if k == 0: segs[-1].first = True
-    outro = "Every link is in the description, and all picks are on our Video Picks page. Which one would you buy? Tell us in the comments."
+    outro = ("Every link is in the description, and more gift ideas are on yaypicks dot com. Which one would you give? Tell us in the comments." if gift else
+             "Every link is in the description, and all picks are on our Video Picks page. Which one would you buy? Tell us in the comments.")
     segs.append(Seg("outro", outro, os.path.join(work, "outro.wav"), 0))
     for s in (segs[0], segs[-1]):
         s.dur = (tts(s.line, s.wav) if not stills else 4.0) + 0.6
@@ -71,12 +74,12 @@ def build(out_slug, title, jobs, stills=False):
             a = prog(tt, 0.1, 0.5)
             for i, ln in enumerate(wrap(d, s.title, XB(110), W - 300)):
                 d.text((150, 330 + i * 130 + (1 - a) * 30), ln, font=XB(110), fill=mix(WHITE, a))
-            d.text((150, 700), f"{s.n} picks · specs · the catch", font=MD(52), fill=mix(LIME, prog(tt, 0.8, 0.5)))
+            d.text((150, 700), (f"{s.n} gift ideas · specs · who it suits" if gift else f"{s.n} picks · specs · the catch"), font=MD(52), fill=mix(LIME, prog(tt, 0.8, 0.5)))
             return im
         if s.kind == "outro":
             a = prog(tt, 0.1, 0.5)
             d.text((150, 360), "Links in the description", font=XB(96), fill=mix(WHITE, a))
-            d.text((150, 500), "All picks: Video Picks page on our channel", font=MD(52), fill=mix(LIME, prog(tt, 0.6, 0.5)))
+            d.text((150, 500), ("More gift ideas: yaypicks.com" if gift else "All picks: Video Picks page on our channel"), font=MD(52), fill=mix(LIME, prog(tt, 0.6, 0.5)))
             d.text((150, 600), "As an Amazon Associate we earn from qualifying purchases.", font=MD(36), fill=mix(GREY, a))
             return im
         sc = s.sc
