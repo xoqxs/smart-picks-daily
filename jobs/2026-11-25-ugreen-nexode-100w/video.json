@@ -1,0 +1,22 @@
+{
+ "slug": "2026-11-25-ugreen-nexode-100w",
+ "pick": 117,
+ "category": "Tech",
+ "asin": "B091Z6JNX4",
+ "name": "UGREEN Nexode 100W 4-Port GaN Charger",
+ "credit": "Image: UGREEN",
+ "pin": {
+  "image": "kv",
+  "crop": [
+   600,
+   600,
+   1200
+  ],
+  "headline": "One Charger for All Your Gear",
+  "sub": "100W \u00b7 4 Ports \u00b7 Foldable Plug \u00b7 GaN",
+  "button": "See it on Amazon \u2192"
+ },
+ "images": {
+  "kv": "img/kv.jpg"
+ }
+}
