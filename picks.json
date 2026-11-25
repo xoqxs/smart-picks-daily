@@ -2698,5 +2698,47 @@
   "in_weekly": false,
   "sub": "Gadgets & Smart Home",
   "kw": "anker 40w car charger"
+ },
+ {
+  "pick": 127,
+  "date": "2026-11-25",
+  "category": "Tech",
+  "name": "Roku Streaming Stick 4K – HDR & Dolby Vision Streaming Device with Voice Remote & Long-Range Wi-Fi (Model 3820R2)",
+  "asin": "B09BKCDXZC",
+  "asin_sources": [
+   "ASINsight (asinsight.com/report/US/streaming-devices, Jun 2026): #1 B09BKCDXZC 'Roku Streaming Stick 4K - HDR & Dolby Vision ... Long-Range Wi-Fi', 4.7★, 98.1K ratings",
+   "Reviewed.com Roku Streaming Stick 4K (2021) review links amazon.com/dp/B09BKCDXZC; also Slickdeals 18835573 'Roku Streaming Stick 4K' (2021 model) amazon.com/dp/B09BKCDXZC"
+  ],
+  "amazon": "https://www.amazon.com/dp/B09BKCDXZC?tag=desksetuppi07-20",
+  "post": "https://www.yaypicks.com/2026/11/roku-streaming-stick-4k-review-dolby.html",
+  "job": "jobs/2026-11-25-roku-streaming-stick-4k",
+  "short": null,
+  "short_date": null,
+  "sales_signal": "4.7★, ~98K ratings, asinsight \"streaming-devices\" #1 (Jun 2026)",
+  "short_score": 8,
+  "in_weekly": false,
+  "sub": "Gadgets & Smart Home",
+  "kw": "roku streaming stick 4k"
+ },
+ {
+  "pick": 126,
+  "date": "2026-11-25",
+  "category": "Home & Kitchen",
+  "name": "Lodge Essential Enamel Cast Iron Dutch Oven, 6 Quart (Oyster White, EC6D13)",
+  "asin": "B00U1OCPWQ",
+  "asin_sources": [
+   "asinsight.com/report/US/dutch-ovens #4: B00U1OCPWQ 'Lodge Essential Enamel Cast Iron Dutch Oven 6 Quarts ... Oyster White' 4.7, 39K",
+   "desertcart.sn/products/16441705-lodge-6-quart-enameled-cast-iron-dutch-oven-oyster-white: ASIN B00U1OCPWQ, part number EC6D13, Oyster White (#2 in Dutch Ovens)"
+  ],
+  "amazon": "https://www.amazon.com/dp/B00U1OCPWQ?tag=desksetuppi07-20",
+  "post": "https://www.yaypicks.com/2026/11/lodge-6-quart-enameled-dutch-oven-bread.html",
+  "job": "jobs/2026-11-25-lodge-enamel-dutch-oven",
+  "short": null,
+  "short_date": null,
+  "sales_signal": "4.7★, ~39K ratings, asinsight \"dutch-ovens\" #4 (same pot also #8 Caribbean Blue B000N4WN08, #9 Island Spice Red B000N501BK); desertcart shows BSR #2 in Dutch Ovens",
+  "short_score": 8,
+  "in_weekly": false,
+  "sub": "Cookware & Kitchen Tools",
+  "kw": "Lodge 6 quart enameled Dutch oven"
  }
 ]
